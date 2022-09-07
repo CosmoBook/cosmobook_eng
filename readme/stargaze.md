@@ -102,7 +102,7 @@ The main news in the near future will be the possibility to interact with Ethere
 
 ### **Links:**
 
-[Twitter](https://twitter.com/StargazeZone)&#x20;
+[Twitter](https://twitter.com/StargazeZone)
 
 [Gitbook](https://docs.stargaze.zone/guides/readme)
 
@@ -117,4 +117,3 @@ The main news in the near future will be the possibility to interact with Ethere
 [GitHub](https://github.com/public-awesome)
 
 [Reddit](https://www.reddit.com/r/stargaze/)
-

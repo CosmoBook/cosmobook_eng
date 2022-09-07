@@ -118,7 +118,7 @@ Now we can highlight the main differences from CEX:
 
 ### **A little bit about Frequent Batch Auction (FBA) or Frequent Batch Auction.**
 
-The goal is to be even more able to prevent any [Front-Running](https://www.investopedia.com/terms/f/frontrunning.asp) in a decentralized environment. Most DEX suffers from this because all information is public, and traders can collude with miners or pay high gas fees, allowing their requests to be processed before anyone else**(putting their price before yours**).
+The goal is to be even more able to prevent any [Front-Running](https://www.investopedia.com/terms/f/frontrunning.asp) in a decentralized environment. Most DEX suffers from this because all information is public, and traders can collude with miners or pay high gas fees, allowing their requests to be processed before anyone else\*\*(putting their price before yours\*\*).
 
 Read more about this phenomenon, which is called MEV (miner extractable value) [here](https://cyberacademy.dev/blog/20-temnyy-les-ethereum-chto-takoe-mev).
 

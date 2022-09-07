@@ -1,7 +1,5 @@
 # Sifchain
 
-
-
 ![](https://img4.teletype.in/files/3c/2c/3c2c61bb-beac-45a2-b742-0b58f315f921.png)
 
 ## Sifchain
@@ -127,4 +125,3 @@ Overall, the feeling is that the team is trying to correct the mistakes made.
 * [Twitter](https://twitter.com/sifchain?s=20)
 * [Discord](https://discord.gg/sifchain)
 * [Telegram](https://t.me/sifchain)
-

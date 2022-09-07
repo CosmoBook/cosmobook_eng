@@ -22,8 +22,6 @@ Secret Foundation helps establish effective and efficient management practices f
 
 Secret Network, thanks to Cosmos IBC, can communicate with a range of other networks. The Secret Network protocol uses key management, encryption protocols, and Trusted Execution Environments (TEEs) to achieve data privacy. TEEs ensure that nodes cannot view calculations that take place in a trusted environment, preserving the confidentiality of the data underlying the calculations. Secret Network's underlying transaction registry is public; a native SCRT token is used for management, transactions, and gas fees. The protocol implements programmable privacy, which is defined as arbitrarily complex application data privacy controls. Programmable privacy allows tokens to be wrapped in their private and interchangeable equivalent using the Secret Network SNIP-20 standard via Secret Contract. Blocks are created and added approximately every six seconds with a soft limit of approximately twenty-two transactions per second due to the gas limit per block. The current protocol architecture and design can theoretically support up to 10,000 transactions per second.
 
-
-
 ### **Examples of using the capabilities of the Secret Network**
 
 <figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>

@@ -168,7 +168,7 @@ $ATOM: [https://wallet.keplr.app/#/cosmoshub/governance](https://wallet.keplr.ap
 
 $JUNO: [https://wallet.keplr.app/#/juno/governance](https://wallet.keplr.app/#/juno/governance)
 
-### **Useful resources to help you find and keep track of new** drops**:**
+### **Useful resources to help you find and keep track of new** drops\*\*:\*\*
 
 $OSMO: [https://wallet.keplr.app/#/osmosis/governance](https://wallet.keplr.app/#/osmosis/governance)
 
@@ -184,4 +184,3 @@ $JUNO: [https://wallet.keplr.app/#/juno/governance](https://wallet.keplr.app/#/j
 6. [Another table](https://docs.google.com/spreadsheets/d/1vGJ-JJxNLgvc1FnEkc5CLC1unek6yacE\_YalAis9Nw4/edit#gid=0).
 7. The bot in the telly that alerts you to Governance votes is @citadelvotebot.
 8. [Telegram channel with drops](https://t.me/cosmosdrops).
-

@@ -48,7 +48,7 @@ _\* By using prefabricated modules we mean a feature called composability, you c
 
 _Code reuse is the use of already prepared code to write new functions or application._
 
-2\) Object-Capability model (OCap for short**) is** a security model used in secure computing systems. Agoric have extended this model to allow asynchronous programming between networks (\*I must_admit that we don't really know what this means ourselves_).
+2\) Object-Capability model (OCap for short\*\*) is\*\* a security model used in secure computing systems. Agoric have extended this model to allow asynchronous programming between networks (\*I must\_admit that we don't really know what this means ourselves\_).
 
 _Read more about OCap_ [_here_](https://en.wikipedia.org/wiki/Object-capability\_model)_._
 

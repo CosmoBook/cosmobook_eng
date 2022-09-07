@@ -68,7 +68,7 @@ Superfluid steaming allows liquidity providers to earn more rewards (liquidity p
 
 There is a problem associated with the fact that there is no single efficient and secure multi-chain bridge. Using multiple bridges creates different wrapped token variations of the same asset (e.g. you want to transfer ether to Cosmos network using bridge X, you get xETH, if you use bridge Y you get yETH), this firstly dilutes liquidity, and secondly leads to confusion for ordinary users who see a bunch of different wrapped variations of the same token and don't know what to choose. Osmosis categorically doesn't want this to happen on their site, but waiting for the perfect bridge to appear isn't an acceptable option either. So they've launched a sort of experimental DEX - Osmosis Frontier - where any user can create their own pool with any asset. Such a wild west for any experiments (you may want to scam coins, play with pools settings, test bridges).
 
-_Link to the site_ [here](https://frontier.osmosis.zone/). **!!! **_**Remember that here you can run into a scam, the pool can be empty and slippage will hit you sickle in the nuts**_**. **_**In short, be careful if you suddenly decide to experiment!**_
+_Link to the site_ [here](https://frontier.osmosis.zone/). **!!! \_Remember that here you can run into a scam, the pool can be empty and slippage will hit you sickle in the nuts**_\*\*. \*\*_**In short, be careful if you suddenly decide to experiment!**\_
 
 \*It's also worth noting that it was mentioned in passing in the official Osmosis medium that perhaps in the future Osmosis will have the ability to display all the different wrapped versions of the same asset as a single token.
 

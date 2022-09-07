@@ -35,7 +35,7 @@ The moment NFT holders create a deposit against an NFT as collateral, their NFT 
 \- A method in which buyers are allowed to bid in any token\
 \- the way in which buyers need to bid with a specific token (ETH, BTC, etc.)
 
-If the seller chooses the former, it can borrow any recently released UnUniFi stablecoin, such as JPU or USU. One can borrow _**q × r%**_ of the synthetic asset, where _**q is** the average offer price up to the n-th place**, r is the**_ pledge _**ratio**_ (originally assumed to be 50%). If the seller chooses the latter, he can lend 100% of _**q**_ as the average bid price up to the **n-th** place in these tokens.
+If the seller chooses the former, it can borrow any recently released UnUniFi stablecoin, such as JPU or USU. One can borrow _**q × r%**_ of the synthetic asset, where _**q is** the average offer price up to the n-th place\*\*, r is the\*\*_ pledge _**ratio**_ (originally assumed to be 50%). If the seller chooses the latter, he can lend 100% of _**q**_ as the average bid price up to the **n-th** place in these tokens.
 
 NFTs are posted free of charge, but the seller must pay a small fee to continue to post NFTs while borrowing assets from bidders. If the seller cannot pay the fees, the posted NFTs will be liquidated. The renewal fee is not paid in GUUs (UnUniFi native token), but in tokens in which the bidding/borrowing is done, respectively.
 

@@ -1,6 +1,6 @@
 # Akash
 
-****
+***
 
 ![](https://img2.teletype.in/files/93/1f/931fd987-b8cd-47a0-a37f-88ae3edf47a6.png)
 
@@ -138,4 +138,4 @@ Akash may be able to attract cloud customers by offering pricing at times lower 
 Website - [https://akash.network/ru](https://akash.network/ru)\
 Twitter (ru) - [https://twitter.com/akash\_ru](https://twitter.com/akash\_ru)\
 Forum - [https://forum.akash.network](https://forum.akash.network)\
-Discord - [https://discord.gg/ewVh3mss](https://discord.gg/ewVh3mss)\
+Discord - [https://discord.gg/ewVh3mss](https://discord.gg/ewVh3mss)\\

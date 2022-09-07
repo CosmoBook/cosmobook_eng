@@ -1,7 +1,5 @@
 # Starname
 
-
-
 ![](https://img3.teletype.in/files/22/e9/22e90ae4-6774-4d50-9e14-bf8e477cc804.png)
 
 ## Starname
