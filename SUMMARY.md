@@ -29,3 +29,4 @@
   * [IRISnet](readme/irisnet.md)
   * [UnUniFi Protocol](readme/ununifi-protocol.md)
   * [Drops of Cosmos](readme/dropy-kosmosa.md)
+  * [Contacts](readme/contacts.md)
