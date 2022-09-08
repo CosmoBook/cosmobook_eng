@@ -1,5 +1,7 @@
 # CosmoBook
 
+### <mark style="color:red;">**The English version of CosmoBook is currently available in draft form. We are working on corrections.**</mark>
+
 ## Intro
 
 This is a compilation of information about Cosmos ecosystem.
