@@ -4,23 +4,25 @@
 
 ## Osmosis
 
-Any blockchain ecosystem needs a good DEX, or decentralized exchange, in Russian. DEXs allow you to attract liquidity to the network, invest in projects, exchange tokens, and generally create a healthy economic model. And the most significant DEX with the greatest liquidity, trading volume and commissions in the Cosmos network is Osmosis.
+Good DEX is a necessary part of any blockchain ecosystem. DEXs allow you to attract liquidity to the network, invest in projects, swap tokens and generally provide a strong economic model. The most significant DEX inside the Cosmos ecosystem is Osmosis. It has the largest liquidity, trading and commissions volume among other Cosmos based DEXs.
 
-### **What is Osmosis**
+### What is Osmosis
 
-Osmosis is a high-tech AMM (automated market maker) protocol that allows you to run customised liquidity pools with a wide range of customisable parameters. Was founded in January 2021 by Sunny Aggarwal, Josh Lee, and Dev Ojha, all three characters are experienced blockchain developers having worked at Tendermint, where they developed the architecture for their DEX. Their company Osmosis Labs is currently responsible for developing and writing the code. The Osmosis team, inspired by projects such as Balancer and Uniswap, set out to provide users and developers with best-of-breed tools to create and customize AMMs that go far beyond the functionality of a simple "swapper".
+Osmosis is a high-tech AMM (automated market maker) protocol that allows you to run customized liquidity pools with a wide range of adjustable parameters. It was founded in January 2021 by Sunny Aggarwal, Josh Lee and Dev Ojha. All three are experienced blockchain developers who worked at Tendermint, where they developed the architecture of Osmosis DEX. Their company, Osmosis Labs, is currently responsible for developing and code writing. Inspired by projects such as Balancer and Uniswap the Osmosis team set out to provide users and developers with best-of-breed tools for development and customizing AMMs that go far beyond the functionality of a simple swap platform.
 
 ### **How Osmosis works**
 
-At the functional level, Osmosis is no different from other AMMs - the liquidity pools lock tokens through a smart contract that enables the operation of trades (swaps). Liquidity providers deposit their tokens in the liquidity pools, receiving for that LP tokens (liquidity pool tokens) and, accordingly, a share of commissions generated in the pool. The pricing model is also standard for most AMMs - the share of a token in a pool must remain constant. And why Osmosis is so remarkable and unique, we will tell you further.
+At its functional level, Osmosis works like any other AMMs - tokens are locked in the liquidity pools via smart contract, which ensures the functioning of trades (swaps). Liquidity providers deposit their tokens in the liquidity pools and receive LP tokens (liquidity pool tokens). They also earn commissions generated in the pool (proportionally to their share). The pricing model of Osmosis DEX is also standard - the share of a token in a pool must remain constant. What makes Osmosis so remarkable and unique we will explain later.
 
 ### **Incentives to provide liquidity**
 
-Osmosis uses two key mechanisms to provide the necessary liquidity - bonded liquidity gauge and exit fees.
+Osmosis uses two key mechanisms to provide the necessary liquidity: the bonded liquidity gauge and exit fees.
 
 #### **Share of provided liquidity**
 
-This mechanism allows the formation of additional (in addition to the yield from the commissions received by the pool) remuneration to liquidity providers based on their share in the liquidity pool and on the time for which they lock their LP tokens of the pool. 45% of the daily issuance of OSMO tokens is allocated to this additional reward. The user has different options (or specific weight, in the original **gauges**) for choosing the time of locking their LP tokens. For example, in the ATOM/OSMO pool there are daily, weekly and monthly options - option 1, option 2 and option 3 respectively. The additional rewards are allocated between these options in a certain way. Some practical examples:
+This mechanism allows liquidity providers to get extra (in addition to the yield from the commissions received by the pool) rewards. These rewards are based on their share in the liquidity pool and on period they lock their LP tokens in this pool. 45% of the OSMO tokens daily issue is allocated to this extra reward. Every user has multiple options (these options are called “gauges”) of the locking period of their LP tokens. For example, in the ATOM/OSMO pool there are options for a day, a week and a month period. Let’s call them gauge 1, gauge 2 and gauge 3. In this case the extra rewards are distributed between these options in a certain way.
+
+Some practical cases:
 
 1\. John adds his assets to the pool, receives LP tokens, but does not want to lock them. Then his income will consist of commissions received by the pool, he will not receive any additional remuneration.
 
@@ -28,55 +30,51 @@ This mechanism allows the formation of additional (in addition to the yield from
 
 3\. John chooses option 3. Which means that now his income in addition to the pool commissions will now include additional rewards provided for option 1, option 2 and option 3. In short, the guy is taking life by the maxes.
 
-It's worth considering that users have the option to split their LP tokens into different options, for example, send 50% to the first option and 50% to the second option.
+Users also have the option to split their LP tokens into different gauges, for example, send 50% to the first gauge and 50% to the second gauge.
 
-Not all liquidity pools can receive additional rewards in OSMO tokens. OSMO stackers select by on-chain voting which pools will receive this reward and in what proportion it will be distributed among the various options. For this purpose, the stackers assign so-called "allocation points" to the pools and their options. For example, if a vote results in a total of 20 allocation points, 2 allocation points are given to option 1 of pool X, then that option will receive 2/20 = 10% of all additional rewards.
+Not all liquidity pools can receive extra rewards in OSMO tokens. OSMO stakers choose the pools, which will receive this reward and the proportion of distribution among the various gauges, by on-chain voting. For this purpose stakers assign so-called "allocation points" to pools and their gauges. For example, if a vote results in a total of 20 allocation points and 2 of these allocation points are allocated to gauge 1 of pool X then that gauge will receive 2/20 = 10% of all extra rewards.
 
-In addition to the "official" additional reward (45% of the daily OSMO token issue), any project or user can designate their own additional reward and set an option distribution for any particular pool.
+Besides the "official" extra rewards (45% of the daily OSMO token issue) any project or user can add its own additional reward and set gauge distribution for some specific pool.
 
-The specific gravity of the provided liquidity serves another important function - it protects from "vampire attacks", because in order to get extra income users have to withdraw their funds, third-party DEXs have no opportunity to lure liquidity providers to their site with a short-term superprofitable offer.
+Bonded liquidity gauge has another important function - they serve as a protection against "vampire attacks". When users have to lock their funds to get additional income, third-party DEXs have no opportunity to entice liquidity providers to their platform with a short-term super profitable offer.
 
-You can read about all this in detail [here](https://medium.com/osmosis/osmosis-liquidity-mining-101-2fa58d0e9d4d).
+You can learn more [here](https://medium.com/osmosis/osmosis-liquidity-mining-101-2fa58d0e9d4d).
 
-#### **Fee for withdrawal from the liquidity pool**
+### **Exit fee**
 
-The withdrawal fee is a small percentage of LP tokens that is charged from the liquidity provider when it sends a withdrawal request from the pool. At the same time, these tokens are burned.
+Exit fee is a small percentage of LP tokens which is charged from the liquidity provider when he sends a request t0 withdraw funds from the pool. In so doing, these LP tokens are burned.
 
-#### **Liquidity pools customization**
+### **Liquidity pools customization**
 
-Liquidity providers can experiment with different market making functions, this means that Osmosis doesn't have any particular mathematical function like most other AMMs, which is how liquidity pools work (for example Uniswap uses x\*y = k function, where x and y are respectively the number of one and second tokens in pools and k is a constant value, if you are completely new and don't understand anything, read how Uniswap works, it is the basic knowledge needed). Pool parameters, such as initial token density (share of certain token in pool), commission for swaps and TWAP calculation (Time-Weighted Average Price, something like average price for certain period of time) are chosen by pool creators. But all LP token holders of each pool have voting right for accepting any changes in the pool, proportionally to their LP share (and there are some ratios, which take into account how long users were liquidity providers in given pool and they get boosts to their votes depending on it).
+Liquidity providers can experiment with different market making functions. It means that unlike other AMMs, Osmosis doesn't have any specific mathematical function by which liquidity pools work (for example, Uniswap uses x\*y = k function, where x and y are an amount of the first and the second tokens in the pool, and k is a constant value (If you do not know about the concept of Uniswap, we recommend you to learn about it more, because it is a basic knowledge). Pool's parameters such as the initial share of tokens (the share of a certain token in a pool), swap commissions and TWAP calculation (Time-Weighted Average Price, something like average price over a certain period of time) are chosen by pool founders. But LP token holders of each pool have the right to vote on any changes in the pool. Their voting power is determined by their LP share and by how long users have been a liquidity provider for this pool. The customization of pools in the original vision of the Osmosis team should serve to find optimal pool parameters experimentally. Moreover, such flexible settings should allow for new types of DeFi activities (such as options, AMM with dynamical commissions, etc.) on Osmosis in the future, as well as help pools function better during periods of high volatility.
 
-Pool customization in the original vision of the Osmosis team should serve to find optimal pool parameters experimentally, moreover, such flexible settings should allow for new types of DeFi activities on Osmosis in the future, such as options, markets with dynamically changing commissions, etc., as well as help pools function better during periods of high volatility.
+### **Superfluid staking**&#x20;
 
-#### **Superfluid staking (superfluid staking)**
+Multi-chain ecosystem has one big disadvantage – a difficulty of providing network security which is achieved via staking. For example, ETH 2.0 network's security provided by Ether stakers, Polkadot ecosystem security provided by relay-chain. Both have a large number of locked tokens, so there is a high security level. In its turn, the Cosmos ecosystem at the moment does not have its own "core" responsible for security. That's why there can be a problem when on the one hand, native tokens are necessary for staking and securing, and on the other hand, native tokens are necessary for providing liquidity. Osmosis has figured out how to kill two birds with one stone. Superfluid staking is a mechanism that allows you to use some of the OSMO tokens from liquidity pools for their simultaneous staking.
 
-Multi-chain ecosystem has one big disadvantage - ensuring network security, which is achieved through stacking. In ETH 2.0, for example, security is provided by ether stackers, while in Polkadot ecosystem, security is provided by the relay channel, i.e. the polka itself. Both have a large number of coins locked, so security is at a high level. The Cosmos ecosystem, on the other hand, currently doesn't have its own "core" responsible for security, so there may be a problem, when on the one hand native tokens are needed for stacking and security, on the other hand native tokens are also needed to create liquidity. Osmosis has figured out how to kill two birds with one stone. Superfluid stacking is a mechanism that allows you to use some of the OSMO tokens in liquidity pools to simultaneously stack them.
+A small example:
 
-A small practical example:
+A user adds $1000 worth of liquidity to the ATOM/OSMO pool ($500 in ATOM tokens and $500 in OSMO tokens) and chooses a lock period in the pool that guarantees him a certain APR (annual percentage rate). Let this APR = X. The user then has the option to stake some of his OSMO tokens locked in the pool. How much of those tokens the user can add to the staking is determined based on security considerations. Initially that portion was equal to 50% of the OSMO tokens. So in our example the user will receive income X for providing liquidity to the pool and additional income Y for staking OSMO tokens by the equivalent of $250 (50% of $500 in OSMO tokens added to the liquidity pool). It is worth considering that income Y is a dynamic variable as the ratio of ATOM/OSMO tokens constantly changes as their price changes relative to each other. These changes are accounted for by TWAP (time-weighted average price) oracle.
 
-The user adds $1000 of liquidity to the ATOM/OSMO pool ($500 in ATOM tokens and $500 in OSMO tokens) and chooses a term to locate his tokens in the pool that guarantees him a certain APR (annual percentage rate - or annual interest rate). Let this APR = X. The user then has the option to add some of his OSMO tokens locked in the pool to the stack. How much of these tokens the user can add to the stacking is determined based on security considerations. Initially, this portion was equal to 50% of the OSMO tokens. Thus in our example the user will receive income X for providing liquidity to the pool and additional income Y for stacking OSMO tokens by the equivalent of $250 (50% of $500 in OSMO tokens added to the liquidity pool).It is worth noting that income Y is a dynamically changing value, as the ratio of ATOM/OSMO tokens constantly changes as their price changes relative to each other. These changes are accounted for by TWAP (time-weighted average price, or average price at a given time interval) oracle.
+_Official video about superfluid staking is_ [here](https://www.youtube.com/watch?v=JRBOUrrKa3s)
 
-_Unofficial video in Russian, where in detail and clearly with practical examples is explained how superfluid steaming works_ [here](https://www.youtube.com/watch?v=JRBOUrrKa3s)
-
-_Official video on how superfluid steaming works in English_ [here](https://www.youtube.com/watch?v=JRBOUrrKa3s)
-
-Superfluid steaming allows liquidity providers to earn more rewards (liquidity pool rewards + steaming rewards) while improving Osmosis security (more OSMO in steaming).
+Superfluid staking allows liquidity providers to earn more rewards (liquidity pool rewards + staking rewards) while improving the security of Osmosis (more OSMO in staking).
 
 ### **Osmosis Frontier**
 
 ![](https://img4.teletype.in/files/b2/0d/b20d0dcc-cba5-46bc-9f82-cae60dc757c1.png)
 
-There is a problem associated with the fact that there is no single efficient and secure multi-chain bridge. Using multiple bridges creates different wrapped token variations of the same asset (e.g. you want to transfer ether to Cosmos network using bridge X, you get xETH, if you use bridge Y you get yETH), this firstly dilutes liquidity, and secondly leads to confusion for ordinary users who see a bunch of different wrapped variations of the same token and don't know what to choose. Osmosis categorically doesn't want this to happen on their site, but waiting for the perfect bridge to appear isn't an acceptable option either. So they've launched a sort of experimental DEX - Osmosis Frontier - where any user can create their own pool with any asset. Such a wild west for any experiments (you may want to scam coins, play with pools settings, test bridges).
+There is a problem associated with the fact that there is no efficient and secure multi-chain bridge. Using multiple bridges creates different wrapped token variations of the same asset (e.g. you want to transfer Ether to the Cosmos network using bridge X so you get xETH, if you use bridge Y you get yETH), this firstly dilutes liquidity and secondly causes confusion for ordinary users who see a bunch of different wrapped variations of the same token and do not know what to choose. Osmosis categorically doesn't want that to happen on their platform but waiting for the perfect bridge to appear isn't an acceptable option either. So they launched a kind of experimental DEX - Osmosis Frontier, where any user can create their own pool with any asset. That's the wild west for any experiments (you can list even scam coins, play with pool customization or test bridges).
 
-_Link to the site_ [here](https://frontier.osmosis.zone/). **!!! \_Remember that here you can run into a scam, the pool can be empty and slippage will hit you sickle in the nuts**_\*\*. \*\*_**In short, be careful if you suddenly decide to experiment!**\_
+_This is a_ [_link_](https://frontier.osmosis.zone/) _of Osmosis Frontier !!! Remember that there is always a possibility of scam, and the pool can be empty. In this case slippage will hurt you and your deposit. So be very careful while experimenting!!!_
 
-\*It's also worth noting that it was mentioned in passing in the official Osmosis medium that perhaps in the future Osmosis will have the ability to display all the different wrapped versions of the same asset as a single token.
+\*It should be noted that on the official Osmosis Medium it was mentioned that in the future Osmosis potentially will be able to display all the different wrapped versions of the same asset as a single token.
 
-\*\* A user has the ability to add some assets from the Ethereum network to Osmosis using the Axelar interface. As of early June 2022, these assets were limited to USDC, WBTC, WETH and DAI.
+\*\* Users are able to add some assets from the Ethereum network to Osmosis using the Axelar interface. At the moment of June 2022 these assets were limited to USDC, WBTC, WETH and DAI.
 
-The official guide on how to do it is [here](https://medium.com/osmosis/bridging-ethereum-assets-to-osmosis-a-guide-to-the-axelar-interface-ac63c16cfb98).
+&#x20;[Here](https://medium.com/osmosis/bridging-ethereum-assets-to-osmosis-a-guide-to-the-axelar-interface-ac63c16cfb98) is the link to the official guide
 
-\*\*\* In late June 2022, Osmosis, through the integration of the Kado app, enabled users to directly purchase axUSDC and OSMO tokens from their credit cards or bank accounts.
+\*\*\* At the end of June 2022, through the integration of the Kado app Osmosis provided users the ability to directly purchase axUSDC and OSMO tokens from their credit cards or bank accounts.
 
 More information can be found [here](https://medium.com/osmosis/osmosis-integrates-kado-for-direct-fiat-on-ramping-to-the-dex-a1a49f2cf157).
 
@@ -84,12 +82,12 @@ More information can be found [here](https://medium.com/osmosis/osmosis-integrat
 
 ![](https://telegra.ph/file/d05af7bfa92167816b705.png)
 
-The $OSMO native token performs governance and utility functions.
+The native Osmosis token $OSMO has two main functions: governance and utility.
 
-First, it serves to provide economic security to Osmosis through stacking, and when the general security feature is launched, Osmosis is going to become part of the Cosmos hub. Second, $OSMO allows holders to participate in on-chain voting. Third, the token is used to pay commissions and provide additional remuneration to liquidity providers.
+Firstly, it is used for economic security to Osmosis via staking. When the general security feature will be launched, Osmosis is going to become a part of the Cosmos Hub. Secondly, $OSMO allows holders to participate in the on-chain voting. Thirdly, the token is used to pay commission fees and provides additional reward to liquidity providers.
 
-It is worth noting that the maximum supply is only 1 billion tokens and the deflationary model is achieved by reducing the issuance of new tokens by a third each year. The new tokens serve as rewards for staking, providing liquidity to pools and liquid mining, as well as incentives for ecosystem developers.
+It is also worth noting that the maximum supply is only 1 billion tokens, and the deflationary model is achieved by reducing the issuance of new tokens by a third each year. New tokens serve as rewards for staking, providing liquidity to pools and liquid mining. These tokens are also used as a reward for the ecosystem developers.
 
 ### **UPD**
 
-Osmosis recently announced that they are going to work with Polkadot and ERC tokens, which will be possible thanks to their integration with Axelar and Moonbeam. You can read more about it [here](https://blockworks.co/osmosis-co-founder-doesnt-see-cosmos-and-polkadot-as-competitors/)
+Recently Osmosis has announced they are planning to collaborate with Polkadot and work with ERC tokens. It will be possible thanks to their integration with Axelar and Moonbeam. You can read more about it [here](https://blockworks.co/osmosis-co-founder-doesnt-see-cosmos-and-polkadot-as-competitors/).
