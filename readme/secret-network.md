@@ -6,77 +6,81 @@
 
 ## Secret Network
 
-**SECRET NETWORK** is the first blockchain with privacy-preserving smart contracts (according to the company itself).
+Secret Network is the first blockchain with private smart contracts (according to the company itself).
 
-Most blockchains that support smart contracts, such as Ethereum, are public by default. This means that all data used in their smart contracts is public. Secret Network enhances traditional smart contracts by supporting encrypted input and output data, as well as encrypted smart contract state data. That is, Secret Network provides data privacy for sensitive information stored on the blockchain.
+Most blockchains that support smart contracts, such as Ethereum, are public by default. It means that all data used in their smart contracts is public. Secret Network improves traditional smart contracts by supporting encrypted inputs and outputs at a protocol level, as well as encrypted smart contract state data. In short, Secret Network provides data privacy for sensitive information stored on the blockchain.
 
-Privacy is essential to the security and adoption of all Web3 sectors - from DeFi to meta-villages. Secret Network brings new and unique privacy features to this space and can be the foundation for the next generation of successful Web3 applications.
+Privacy is essential to the security and mass adoption of all Web3 sectors, from DeFi to metaverses. Secret Network brings new and unique privacy features and can become the foundation for the next generation of successful Web3 applications.
 
-**Secret Network's goal** is to simplify the adoption and usability of decentralized technologies by providing a wide range of tools and applications designed to preserve user privacy. And that privacy is enabled by a new generation of smart contracts - Secret Contracts.
+**Secret Network's goal** is to simplify the adoption and usability of decentralized technologies by providing a wide range of tools and applications designed to preserve user privacy. This privacy is enabled by a new generation of smart contracts - Secret Contracts.
 
-**The Secret Foundation** is an organization that promotes the growth of the Secret Network ecosystem. To do this, the Secret Foundation promotes privacy as a public good.
-
-Secret Foundation helps establish effective and efficient management practices for the community and their foundation. They also produce educational content and support a number of committees that help empower individual users and projects.
+**The Secret Foundation** is an organization that contributes to the growth of the Secret Network ecosystem. For this purpose, the Secret Foundation promotes privacy as a public good. Secret Foundation helps establish effective and efficient management practices for the community and their foundation. They also create educational content and support a number of committees that help empower individual users and projects.
 
 ### **Protocol**
 
-Secret Network, thanks to Cosmos IBC, can communicate with a range of other networks. The Secret Network protocol uses key management, encryption protocols, and Trusted Execution Environments (TEEs) to achieve data privacy. TEEs ensure that nodes cannot view calculations that take place in a trusted environment, preserving the confidentiality of the data underlying the calculations. Secret Network's underlying transaction registry is public; a native SCRT token is used for management, transactions, and gas fees. The protocol implements programmable privacy, which is defined as arbitrarily complex application data privacy controls. Programmable privacy allows tokens to be wrapped in their private and interchangeable equivalent using the Secret Network SNIP-20 standard via Secret Contract. Blocks are created and added approximately every six seconds with a soft limit of approximately twenty-two transactions per second due to the gas limit per block. The current protocol architecture and design can theoretically support up to 10,000 transactions per second.
+Thanks to Cosmos IBC, Secret Network can communicate with a range of other networks.&#x20;
 
-### **Examples of using the capabilities of the Secret Network**
+To achieve data privacy, the Secret Network protocol leverages key management, encryption protocols, and Trusted Execution Environments (TEE).TEEs guarantee that nodes are unable to view computations that occur within the trusted environment - preserving the privacy of the underlying data during the computation.
+
+Secret Network's underlying ledger is public; a native SCRT token is used for governance, transactions, and gas fees.
+
+The protocol implements programmable privacy, which is defined as arbitrarily complex data privacy controls within an application. Programmable privacy allows tokens to be wrapped into their private and fungible equivalent using the Secret Network SNIP-20 standard via Secret Contract. Blocks are created and added approximately every six seconds with a soft limit of approximately twenty-two transactions per second due to the gas limit per block. The current protocol architecture and design can theoretically support up to 10,000 transactions per second.
+
+### **Secret Network Capabilities**
 
 <figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
-The scheme provides an opportunity to secretly withdraw funds from a wallet (say, that was discredited on CEX) to a newly created wallet. The scheme also allows you to secretly transfer funds from your wallet to someone else's (say, to make a payment). If the payment is made through an intermediary wallet, even the recipient will not be able to determine where the funds came from.
+The scheme shows the opportunity to secretly withdraw funds from a wallet (suppose, for example, that was discredited on CEX) to a newly created wallet. This mechanism also allows you to secretly transfer funds from your wallet to someone else's (for example, to make a payment). If the payment is made through an intermediary wallet, even the recipient will not be able to determine where the funds came from.
 
-The Sienna Swap is presented here to show the ability to swap your coin for other secret coins, so that even the number of coins sent and received will not allow at least indirectly linking your 2 wallets.
+Sienna Swap is presented here to show the ability to swap your coin for the private equivalent, so even the amount sent and received of coins cannot indirectly link your 2 wallets.
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-Another major advantage of a Secret Network is the inability to use frontrunning against you:
+Another important advantage of Secret Network is the inability to use frontrunning:
 
 <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-Speaking about features and capabilities of Secret Network I strongly recommend you to watch [the video](https://www.youtube.com/watch?v=LVopimoM8Jk) (time-code 1:27:00) with Anton Pavlutsky, CEO of Citadel.one.
+You can watch the [video](https://www.youtube.com/watch?v=LVopimoM8Jk) (time-code 1:27:00) with Anton Pavlutsky, CEO of Citadel.one, to learn more about the features and capabilities of Secret Network
 
 ### **Validators**
 
-The default number of validator nodes in the Secret Network is fifty, with the possibility of more nodes joining the network once changes to the protocol parameters are agreed. Validators are rewarded with transaction fees and block signing rewards.
+The default number of validator nodes in the Secret Network is 50, with the possibility for more nodes to join the network after a modification to the protocol parameters has been agreed upon.
 
-Users can delegate tokens to validators and just like validators receive rewards (and must pay a small percentage of the rewards to validators).
+Validators earn rewards from transaction fees and block rewards. Users can delegate tokens to validators and receive rewards like validators (delegators also must pay a small percentage of the rewards to validators).
 
 ### **Tokenomics**
 
-Secret Network has a variable inflation rate that ranges from 7% to 15% . As of July 2022, there were about 70 million SCRTs in circulation and the total supply is about 190 million SCRTs. Validator nodes can charge a commission on delegated SCRTs. Currently, the minimum commission rate is 0% and the maximum is 20%. The validator commission rate can change by no more than 1% every twenty-four hours. In addition to the commission rate, there are two additional sets of commissions on earned rewards for blocks: community fee (2%) and Secret Foundation fee (15%). The community fee is taken from all block rewards and sent to a pool known as the Community Pool. This pool is used to fund network management offerings.
+Secret Network has a variable inflation rate that ranges from 7% to 15%. As of July 2022, Secret Network circulation supply was about 70 million SCRTs and the total supply was about 190 million SCRT.&#x20;
 
-In the future, Secret Network technology may be able to affect all areas in which blockchain technology can be used. Health care, finance, banking, government, communications, media, supply chains, voting, music and entertainment, real estate, insurance, gambling, messaging and many others. The Secret Network protocol using TEEs is the de facto programmable privacy standard for contract development for the future of Web 3.0.
+Validator nodes can charge a commission on delegated SCRT. Currently, the minimum commission rate is 0% and the maximum is 20%. The validator commission rate is only capable of changing by up to 1% every 24 hours.
+
+In addition to the commission rate, there are two additional sets of fees on earned block rewards: the community fee (2%) and the Secret Foundation fee (15%). The community fee gets pulled from all block rewards and is sent to a pool known as the Community Pool. This pool is used to fund on-chain governance proposals.
+
+In the future, Secret Network technology perhaps will impact all areas in which blockchain technology can be used. Health care, finance, banking, government, communications, media, supply chains, voting, music and entertainment, real estate, insurance, gambling, messaging and many others. Secret Network protocol using TEEs is the programmable privacy de facto standard for contract development for the future of Web 3.0.
 
 More details in [the overview section of the official website](https://scrt.network/about/about-secret-network/).
 
 ### **Secret Bridges**
 
-Secret Ethereum Bridge \*\*\*\*, a bridge to the Ethereum network, was launched \*\*\*\* on December 15, 2020 and is the first of many bridges to other ecosystems. This bridge allowed users to exchange Ethereum and fourteen other ERC-20s for their Secret equivalent SNIP-20.
+Secret-Ethereum Bridge, a bridge to the Ethereum network, was launched on December 15, 2020. It is the first of many bridges to other ecosystems. This bridge allowed users to convert Ethereum and 14 other ERC-20 tokens to their Secret equivalent (SNIP-20). Secret Bridges connect the Secret Network with other blockchain networks, allowing users from different ecosystems to create privacy-preserving versions of their assets, called Secret Tokens.&#x20;
 
-Secret Bridges connect the Secret Network with other blockchain networks, allowing users from different ecosystems to create privacy-preserving versions of their assets, called Secret Tokens. Secret Tokens are a very interesting concept: they are programmable, like ERC-20, and can be used in applications, but remain private by default, like Monero and similar coins. Once assets cross the Secret Bridge in the form of Secret Tokens, they can be used in Secret DeFi applications, which by default are private and compatible with multiple networks, which means the assets support different blockchain ecosystems.
-
-Secret already allows a number of tokens to be moved and exchanged on Ethereum and Binance Smart Chain. The new bridges will provide the same access and functionality for other networks.
+The concept of Secret Tokens is very interesting: they are programmable, like ERC-20, and can be used in applications, but they are private by default, like Monero and similar coins. Once assets cross the Secret Bridge as Secret Tokens, they can be used in Secret DeFi applications, which are natively private and compatible with multiple networks, which means the assets support different blockchain ecosystems. Secret already allows a number of tokens to be moved and swapped on Ethereum and Binance Smart Chain. New bridges will provide the same access and functionality to other networks.
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-Secret Bridges uses multisig for authorization. 3 out of 5 operators trusted to manage the bridge must approve (sign) the transaction in order for it to be executed. These operators are very reputable staking operators - Figment, Staked, B-Harvest, Citadel.one and Enigma.
+Secret Bridges utilizes multisig authorization. 3 out of 5 operators trusted with operating the bridge are required to approve (sign) the transaction. Bridge operators are very reputable staking operators: Figment, Staked, B-Harvest, Citadel.one and Enigma.&#x20;
 
-The multi-signature authorization process makes it much more difficult to compromise Secret Bridges, eliminating the single point of failure that is a problem for single-signature systems.
+The multi-signature authorization process makes it much more difficult to compromise Secret Bridges, removing the single point of failure associated with single-signature systems.
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ### **Secret NFTs**
 
-Secret NFTs are NFTs with programmable privacy features.
-
-In other words, verifiable ownership of goods and experiences need not be public! In the Secret Network, the authentication process takes place without compromising any private data, including proof of authenticity and translations.
+Secret NFTs are NFTs with programmable privacy features. With Secret NFTs verifiable ownership of goods and experiences does not have to be public! The process of validation takes place without compromising any private data, including proof of authenticity and translations.
 
 ### **Ecosystem**
 
-#### **Basic DEFI on the Secret Network:**
+#### **DeFi on the Secret Network:**
 
 \- [Shade Protocol](https://shadeprotocol.io/);
 
@@ -92,13 +96,13 @@ In other words, verifiable ownership of goods and experiences need not be public
 
 \- [Secret Auctions](https://hydro.finance/).
 
-#### **Major NFTs on the Secret Network:**
+#### **NFTs on the Secret Network:**
 
 * [Stashh](https://stashh.io/);
 * [SecretDAO](https://secretdao.com/);
 * [Chameleon Ville](https://chameleonville.com/).
 
-#### **Communication на Secret Network:**
+#### **Communication on the Secret Network:**
 
 * [Alter](https://chameleonville.com/);
 * [Fardels](https://chameleonville.com/).
