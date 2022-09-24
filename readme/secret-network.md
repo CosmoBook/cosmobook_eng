@@ -28,17 +28,17 @@ The protocol implements programmable privacy, which is defined as arbitrarily co
 
 ### **Secret Network Capabilities**
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/slide 13.png" alt=""><figcaption></figcaption></figure>
 
 The scheme shows the opportunity to secretly withdraw funds from a wallet (suppose, for example, that was discredited on CEX) to a newly created wallet. This mechanism also allows you to secretly transfer funds from your wallet to someone else's (for example, to make a payment). If the payment is made through an intermediary wallet, even the recipient will not be able to determine where the funds came from.
 
 Sienna Swap is presented here to show the ability to swap your coin for the private equivalent, so even the amount sent and received of coins cannot indirectly link your 2 wallets.
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/slide 17.png" alt=""><figcaption></figcaption></figure>
 
 Another important advantage of Secret Network is the inability to use frontrunning:
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/slide 15.png" alt=""><figcaption><p>credit: <a href="https://twitter.com/ertemann/status/1537486112196804610">https://twitter.com/ertemann/status/1537486112196804610</a></p></figcaption></figure>
 
 You can watch the [video](https://www.youtube.com/watch?v=LVopimoM8Jk) (time-code 1:27:00) with Anton Pavlutsky, CEO of Citadel.one, to learn more about the features and capabilities of Secret Network
 
