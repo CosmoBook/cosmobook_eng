@@ -56,13 +56,13 @@ A little bit of project tokenomics. Distribution of GUU tokens.
 
 and GUU token unlock chart
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Roadmap <a href="#mcbw" id="mcbw"></a>
 
 At the moment, the project has completed the first phase of testing and launched the beta version of the mainnet. The roadmap is not marked, but at the moment all Q2 tasks are completed by the team, which inspires a certain confidence. There are at least 2 more tests ahead of us, in which we will all be able to participate.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Links** <a href="#fsrg" id="fsrg"></a>
 
