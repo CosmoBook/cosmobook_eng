@@ -8,7 +8,7 @@
   * [Secret Network](readme/secret-network.md)
   * [Axelar Network](readme/axelar-network.md)
   * [Evmos](readme/evmos.md)
-  * [Um](readme/um.md)
+  * [Umee](readme/umee.md)
   * [Cronos](readme/cronos.md)
   * [Sifchain](readme/sifchain.md)
   * [Stargaze](readme/stargaze.md)

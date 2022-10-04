@@ -26,7 +26,7 @@ AI models use complex learning methods ([support vector method](https://en.wikip
 
 First, let me remind you how oracle in blockchain works: a user initiates a contract execution, which he-chain refers to the oracle contract. That in turn refers to the server (already off-chain) connected to the outside world. Then in reverse order.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 For a better understanding of oracles, we recommend that you read the translation of the article with a breakdown of the various solutions that oracles use. Here is the link [here.](https://telegra.ph/Orakuly-razbor-reshenij-predostvlyayushchih-dannye-v-blokchejn-05-25)
 

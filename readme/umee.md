@@ -1,12 +1,12 @@
-# Um
+# Umee
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Umee** __ is a Cosmos-based [decentralized finance](https://umeeversity.umee.cc/learn-the-basics/defi-basics/what-is-defi) hub supporting a suite of composable debt primitives that will enable the next generation of global debt markets. As a [base layer blockchain](https://umeeversity.umee.cc/learn-the-basics/blockchain-basics/what-is-blockchain), applications and money lego primitives can be built on top of Umee to access cross chain leverage and liquidity. The Umee Blockchain facilitates interoperability between the [Cosmos ecosystem](https://umeeversity.umee.cc/learn-the-basics/cosmos-basics/what-is-cosmos), Ethereum network, side chain architectures, layer two scaling solutions, and alternative base layer protocols.
 
 ### Foundations and partners <a href="#ubip" id="ubip"></a>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Umee raised $18M at $0.0048 from funds.\
 The first round on Coinlist raised $18M at $0.06 and the second round raised $14M at $0.07.\
@@ -53,7 +53,7 @@ _Traditional debt market fundamentals will provide Umee with the basis to create
 * _A term structure that uses time-to-maturity and credit-worthiness to determine rates;_
 * _The crypto format for debt primitives such as notes, bills, bonds, CDS, structured products, and other assets._
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### A Suite of Products and Features for Optimal Performance <a href="#a-suite-of-products-and-features-for-optimal-performance" id="a-suite-of-products-and-features-for-optimal-performance"></a>
 
@@ -67,7 +67,7 @@ _Umee will be able to provide users with:_
 
 There are certain industry standards in place to help protect users, including the extensive auditing of code to find any potential weaknesses before a product is launched and any real money is at stake. Security is a priority for Umee, which is why Umee has contracted several top auditors to inspect every line of code and flag any potential vulnerabilities before going live.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### **Gravity Bridge** <a href="#gravity-bridge" id="gravity-bridge"></a>
 
@@ -90,7 +90,7 @@ When a user sends a token from Ethereum to Cosmos, funds are deposited in the gr
 
 #### Cosmos to Ethereum <a href="#cosmos-to-ethereum" id="cosmos-to-ethereum"></a>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 For transactions from Cosmos to Ethereum, the Gravity contract creates ERC-20 representations for Cosmos tokens and ERC20 tokens that were previously locked in the Gravity contract will be freed and sent to the destination address. Umee will collect transactions into batches, ordered by fee, which then will be signed by validators. Once enough signatures are collected (>66% of validators), this most profitable batch can be relayed to Ethereum by any participant of the network to get the relaying reward (the sum of all fees). Bridge fees are always paid in the same token that is being sent, so there’s no need to buy the Umee token to be able to use the bridge (only a tiny bit to pay for Umee blockchain’s fees which are negligible and easily bought on a Dex such as Osmosis).
 
@@ -132,7 +132,7 @@ At each batch in the list relayers will check for the following:
 
 ### Team <a href="#ublf" id="ublf"></a>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ### Token <a href="#token-utility" id="token-utility"></a>
 
@@ -164,7 +164,7 @@ The native UMEE token is also a protocol governance token used to facilitate on-
 
 Different blockchains typically use different versions of tokens. Most tokens can be used across blockchains if converted to the correct format. It’s important to know which type of tokens you are in possession of before interacting with any web3 applications.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 The UMEE token exists in two forms: a Cosmos native version (the native UMEE token) and an ERC-20 token version native to Ethereum. The two forms of UMEE tokens can be freely [converted to one another](https://umeeversity.umee.cc/users/using-the-web-app/transferring-tokens).
 
@@ -180,7 +180,7 @@ _**The main purpose of the native UMEE token** is to participate in the PoS cons
 * You purchased UMEE on a Cosmos-based decentralized exchange.
 * You bridged UMEE from Ethereum to the Umee blockchain.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### ERC-20 UMEE Tokens <a href="#erc-20-umee-tokens" id="erc-20-umee-tokens"></a>
 
@@ -220,7 +220,7 @@ In the future community governance can also make decisions related to the usage 
 
 ### Distribution & release shedule <a href="#9dt1" id="9dt1"></a>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 

@@ -76,7 +76,7 @@ The main utility of the Sentinel token revolves around its functions:
 
 Staking is possible today with an APY of 61%:
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### **Applications**
 
