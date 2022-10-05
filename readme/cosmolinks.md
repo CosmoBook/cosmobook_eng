@@ -15,6 +15,11 @@
 * [https://walletio.io/](https://walletio.io/)
 * [https://atomicwallet.io](https://atomicwallet.io)
 
+### DeFi trackers:
+
+* [https://app.citadel.one/](https://app.citadel.one/)
+* [https://apeboard.finance/dashboard](https://apeboard.finance/dashboard)
+
 ### Find account by cosmos adress:
 
 * [https://findaccount.blockpane.com/](https://findaccount.blockpane.com/)
@@ -46,8 +51,8 @@
 ### DEXes:
 
 1. **Osmosis:**
-   1. [https://app.osmosis.zone/](https://app.osmosis.zone/)
-   2. [https://frontier.osmosis.zone/](https://frontier.osmosis.zone/)
+   * [https://app.osmosis.zone/](https://app.osmosis.zone/)
+   * [https://frontier.osmosis.zone/](https://frontier.osmosis.zone/)
 2. **Juno:**
    * [https://junoswap.com/](https://junoswap.com/)
    * [juno.loop.markets](http://juno.loop.markets/)
@@ -64,14 +69,14 @@
 8. **Kujira:**
    * [https://fin.kujira.app/](https://fin.kujira.app/)
 9. **Evmos:**
-   1. [https://app.diffusion.fi/](https://app.diffusion.fi/)
-   2. [https://app.evmoswap.org/](https://app.evmoswap.org/)
+   * [https://app.diffusion.fi/](https://app.diffusion.fi/)
+   * [https://app.evmoswap.org/](https://app.evmoswap.org/)
 
 ### Restake (autocompound):
 
-1. [https://restake.app/](https://restake.app/)
-2. [https://www.yieldmos.com/strategies](https://www.yieldmos.com/strategies)
-3. [https://app.citadel.one/extensions/Autorestake](https://app.citadel.one/extensions/Autorestake)
+* [https://restake.app/](https://restake.app/)
+* [https://www.yieldmos.com/strategies](https://www.yieldmos.com/strategies)
+* [https://app.citadel.one/extensions/Autorestake](https://app.citadel.one/extensions/Autorestake)
 
 #### Atom staiking calculator:
 
@@ -81,9 +86,9 @@
 
 ### General:
 
-1. [https://cosmos.network/intro/](https://cosmos.network/intro/)
-2. [https://docs.cosmos.network/](https://docs.cosmos.network/)
-3. [https://tutorials.cosmos.network/](https://tutorials.cosmos.network/)
+* [https://cosmos.network/intro/](https://cosmos.network/intro/)
+* [https://docs.cosmos.network/](https://docs.cosmos.network/)
+* [https://tutorials.cosmos.network/](https://tutorials.cosmos.network/)
 
 ### Tendermint:
 
@@ -91,8 +96,8 @@
 
 ### IBC:
 
-1. [https://ibc.cosmos.network/](https://ibc.cosmos.network/)
-2. [https://ibcprotocol.org/](https://ibcprotocol.org/)
+* [https://ibc.cosmos.network/](https://ibc.cosmos.network/)
+* [https://ibcprotocol.org/](https://ibcprotocol.org/)
 
 ### CosmWasm:
 
@@ -154,15 +159,15 @@
 
 ## 3. Cosmos Airdrops
 
-1. [https://cosmosdrops.io/](https://cosmosdrops.io/)
-2. [https://cosmosdrops.xyz/](https://cosmosdrops.xyz/)
-3. [https://www.cosmosairdrops.io/](https://www.cosmosairdrops.io/)
-4. [https://cosmospug.com/airdrops/](https://cosmospug.com/airdrops/)
-5. [https://twitter.com/cosmos\_airdrops](https://twitter.com/cosmos\_airdrops)
-6. [https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc\_u52-YlripGw/edit#gid=1777801625](https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc\_u52-YlripGw/edit#gid=1777801625)
-7. [https://docs.google.com/spreadsheets/d/1vGJ-JJxNLgvc1FnEkc5CLC1unek6yacE\_YalAis9Nw4/edit#gid=0](https://docs.google.com/spreadsheets/d/1vGJ-JJxNLgvc1FnEkc5CLC1unek6yacE\_YalAis9Nw4/edit#gid=0)
-8. [https://t.me/cosmosdrops](https://t.me/cosmosdrops)
-9. [https://t.me/cosmosdropsio](https://t.me/cosmosdropsio)
+* [https://cosmosdrops.io/](https://cosmosdrops.io/)
+* [https://cosmosdrops.xyz/](https://cosmosdrops.xyz/)
+* [https://www.cosmosairdrops.io/](https://www.cosmosairdrops.io/)
+* [https://cosmospug.com/airdrops/](https://cosmospug.com/airdrops/)
+* [https://twitter.com/cosmos\_airdrops](https://twitter.com/cosmos\_airdrops)
+* [https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc\_u52-YlripGw/edit#gid=1777801625](https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc\_u52-YlripGw/edit#gid=1777801625)
+* [https://docs.google.com/spreadsheets/d/1vGJ-JJxNLgvc1FnEkc5CLC1unek6yacE\_YalAis9Nw4/edit#gid=0](https://docs.google.com/spreadsheets/d/1vGJ-JJxNLgvc1FnEkc5CLC1unek6yacE\_YalAis9Nw4/edit#gid=0)
+* [https://t.me/cosmosdrops](https://t.me/cosmosdrops)
+* [https://t.me/cosmosdropsio](https://t.me/cosmosdropsio)
 
 ## 4. Telegram bots
 
