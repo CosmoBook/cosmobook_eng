@@ -29,6 +29,7 @@
 * [https://explorer.brocha.in/](https://explorer.brocha.in/)
 * [https://omniflix.co/home](https://omniflix.co/home)
 * [https://ping.pub/](https://ping.pub/)
+* [https://stake.tax/](https://stake.tax/)
 
 ### IBC map:
 
