@@ -49,6 +49,7 @@
    2. [https://frontier.osmosis.zone/](https://frontier.osmosis.zone/)
 2. **Juno:**
    * [https://junoswap.com/](https://junoswap.com/)
+   * [juno.loop.markets](http://juno.loop.markets/)
 3. **Iris:**
    * [https://coinswap.market/](https://coinswap.market/)
 4. **Orai:**
