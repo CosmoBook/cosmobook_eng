@@ -56,7 +56,7 @@ A little bit of project tokenomics. Distribution of GUU tokens.
 
 and GUU token unlock chart
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Roadmap <a href="#mcbw" id="mcbw"></a>
 

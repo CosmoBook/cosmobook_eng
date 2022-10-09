@@ -36,19 +36,86 @@ Graphically the whole process is shown in the figure (green arrows show the algo
 
 ![](https://telegra.ph/file/3d460206f2710c17cae7b.png)
 
-### **Сonsensus mechanism**
+#### **Сonsensus mechanism**
 
 The consensus voting process combines a PoS mechanism and a threshold signature scheme (TSS). Similar to multisig, TSS requires a certain minimum number of validator signatures to approve a request. The key difference of the TSS model is that to form a single signature the private keys are assembled before signing. During rotation of validators and formation of a new set of validators new private keys are generated and distributed to generate a new TSS signature. It provides additional protection against a possible attack on the system, but also adds additional risks associated with the TSS generation process. The minimum threshold (\*minimum number of validator signatures) for approving a messaging request is variable and depends on the receiving network. This approach allows each inter-chain connection to have unique security parameters.
 
-### **Gateways**
+#### **Gateways**
 
 Gateway smart contracts allow messages to be sent between any networks connected to Axelar. Each EVM compatible network has its own separate gateway and each gateway is controlled by its own private key, as explained above.
 
-### **Relayers**
+#### **Relayers**
 
 Why Axelar uses relayers is better to explain by a practical example. In the example above, when a user initiates a token transfer from network A to network B, he first generates a deposit address associated with that transaction on network A and sends the number of tokens he wants to transfer to network B. The relayers send a request to the validator to verify this address and vote on the validity of the transaction. Without relayers validators would not know which addresses to verify. Users can perform cross-chain transfers through the Satelite app. At the moment only a beta version is available, and the app supports a small set of networks. To find out more about Satelite click [here](https://satellite.money/).&#x20;
 
 It’s also important to understand that Axelar stores only information related to gateway smart contracts and cross-chain transactions (it does not store a full registry of network states involved in the inter-chain message exchange via Axelar).
+
+### AXL Tokenomics
+
+AXL is the native token of the Axelar Network. AXL supports four functions:
+
+AXL is a medium for transaction fees and any other fees for network usage, paid by users to the validators that run the network AXL is used by holders and their trustees to stake and vote on governance proposals (such as a parameter change or protocol upgrade) AXL enables incentives to support the decentralized Proof-of-Stake consensus that secures the network and validates transactions on chain. Validators receive AXL rewards as incentives to continue to secure the network. These rewards are distributed programmatically, per rules encoded in network protocols, and are inflationary, i.e., each protocol reward increases the total token supply AXL is used to reward ecosystem builders and community contributors
+
+#### **Token economics**
+
+The token economics for AXL are geared towards the creation of a token economy that supports Axelar network in achieving the following key outcomes:&#x20;
+
+* Security. A proper incentives model with healthy staking rewards that encourages a wide validator set to operate secure nodes.&#x20;
+* Decentralization. A token distributed across a wide set of holders who will delegate to a decentralized set of validators and contribute to governance decisions.&#x20;
+* Longevity. The token economics are designed to encourage general maintenance of all critical Axelar-related processes (such as block validation).&#x20;
+* Ecosystem growth. The token incentivizes dApp builders to use Axelar APIs for cross-chain development.
+
+#### AXL Genesis
+
+At the Axelar genesis block, 1 billion AXL tokens in total will be issued and allocated to the following interested parties and programs:
+
+* Team and community managers
+* Company: Axelar Inc. operational treasury and future employee incentives
+* Backers: Seed, Series A and Series B investorsBackers: Seed, Series A and Series B investors
+* Community sale: A public sale that will happen after mainnet launch, with the objective of distributing tokens to multiple members of the community
+* Community programs: testnet/dashboard/wallet/developer grants, liquidity rewards and other incentive programs, managed by the [Axelar Foundation](http://axelar.foundation/). At least 5% of the total supply will be set aside from Community programs, to be allocated towards an insurance fund and insurance programs
+
+**AXL token allocations at genesis**
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Company: 29.5%.&#x20;
+
+– Core team: 17%
+
+– Company operations: 12.5%&#x20;
+
+Backers: 29.54%&#x20;
+
+– Seed: 13.4%
+
+– Series A: 12.64%
+
+&#x20;– Series B: 3.5%
+
+<figure><img src="../.gitbook/assets/image-2.png" alt=""><figcaption></figcaption></figure>
+
+Community sale: 5%
+
+Community programs (including the insurance fund): 35.96%
+
+#### Unlocking in the Axelar Network
+
+<figure><img src="../.gitbook/assets/image-3.png" alt=""><figcaption><p>Token release schedule </p></figcaption></figure>
+
+#### Token release schedule&#x20;
+
+<figure><img src="../.gitbook/assets/image-4.png" alt=""><figcaption></figcaption></figure>
+
+Transaction fees, rewards and inflation for AXL token is described [here](https://medium.com/@axelar-foundation/inflation-and-transaction-fees-on-the-axelar-network-d56ea9e2c142).
+
+_The token release took place on September 27, 2022._
+
+_\*Axelar Foundation aims to spend community tokens according to release schedule. However, does not exclude the possibility of spending tokens ahead of schedule, as needed (for example, by transferring tokens to a community governance pool). On day 1, from 2 million to 3.5 million tokens will be loaned to market makers and circulated, in order to provide liquidity_
+
+_\*\*On Day 1, 1/3 of community-sale tokens will be released. The remaining tokens will release linearly over the following four months._
+
+_\*\* The release schedule for the core team and backers begins three months after Day 1_
 
 ### Opportunities and risks
 
