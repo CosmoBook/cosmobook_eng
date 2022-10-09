@@ -161,7 +161,7 @@ Plans for the near future
 
 Many believe in Kujira. A very interesting feature is that the interest from the commission is poured rewards in the same coin in which they trade.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 After the launch of ORCA, when the number of participants increases, steakers are entitled to expect good rewards with a very small % (0.47% at the start) for steaking. Today the picture looks like this:
 

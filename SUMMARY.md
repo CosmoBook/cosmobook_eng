@@ -31,5 +31,5 @@
   * [UnUniFi Protocol](readme/ununifi-protocol.md)
   * [Drops of Cosmos](readme/dropy-kosmosa.md)
   * [CosmoLinks](readme/cosmolinks.md)
-  * [FAQ](readme/faq.md)
-  * [Contacts](readme/contacts.md)
+* [FAQ](faq.md)
+* [Contacts](contacts.md)

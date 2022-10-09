@@ -77,7 +77,7 @@ At the Axelar genesis block, 1 billion AXL tokens in total will be issued and al
 
 **AXL token allocations at genesis**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Company: 29.5%.&#x20;
 
