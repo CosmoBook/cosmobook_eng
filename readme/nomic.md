@@ -44,10 +44,8 @@ The Stakenet launch includes an Airdrop for ATOM holders and Stakeholders to sta
 #### **Proliferation:** <a href="#rasprostranenie" id="rasprostranenie"></a>
 
 * Total amount: 3,500,000 NOM
-* Formula:
-*
-  * `(min(liquidBalance, 1000) + (4 * min(stakedBalance, 1000)) / 20.299325`
-  * (Limit of 1,000 ATOM on both liquid balance and staking balance, with 4x multiplier on staking balance)
+* Formula:`(min(liquidBalance, 1000) + (4 * min(stakedBalance, 1000)) / 20.299325`
+* (Limit of 1,000 ATOM on both liquid balance and staking balance, with 4x multiplier on staking balance)
 * Unlock: linear unlock starting 1 month after nBTC launch
 
 **You can participate in the drop-in and start** staking **NOM in the Nomic web app:** [**https://app.nomic.io**](https://app.nomic.io/) (Keplr Chrome extension required).
@@ -58,7 +56,7 @@ On June 30, 2022, NOMIC announced the launch of the Bitcoin Upgrade program.
 
 ### The new features became available on **July 5 at 18:00 UTC**: <a href="#yzu0" id="yzu0"></a>
 
-#### - Deposit and withdrawal of Bitcoin <a href="#depositing-and-withdrawing-bitcoin" id="depositing-and-withdrawing-bitcoin"></a>
+#### &#x20;Deposit and withdrawal of Bitcoin <a href="#depositing-and-withdrawing-bitcoin" id="depositing-and-withdrawing-bitcoin"></a>
 
 After activating Bitcoin Upgrade, you can generate a special Bitcoin deposit address in the Nomic web application.
 
@@ -68,7 +66,7 @@ The nBTC can then be sent to any other Nomic address.
 
 At any moment you can withdraw your nBTC to any Bitcoin address.
 
-#### - Deposit fees and steaming fees in bitcoins <a href="#deposit-fees-and-bitcoin-staking-rewards" id="deposit-fees-and-bitcoin-staking-rewards"></a>
+#### Deposit fees and steaming fees in bitcoins <a href="#deposit-fees-and-bitcoin-staking-rewards" id="deposit-fees-and-bitcoin-staking-rewards"></a>
 
 Bitcoin deposits are still in the experimental stage.
 
@@ -76,7 +74,7 @@ To prevent major deposit manipulation during this pilot phase, the network is ch
 
 Deposit fees are deposited into a rewards fund which is distributed to NOM's stackers. The BTC staking fees will initially be small, but will increase over time as Nomic grows.
 
-#### - Bitcoin update chart <a href="#bitcoin-upgrade-timeline" id="bitcoin-upgrade-timeline"></a>
+#### &#x20;Bitcoin update chart <a href="#bitcoin-upgrade-timeline" id="bitcoin-upgrade-timeline"></a>
 
 The new Bitcoin features activated **on July 5 at 18:00 UTC**, and from then on the Nomic app sees rewards in Bitcoin.
 
@@ -84,11 +82,11 @@ The new Bitcoin features activated **on July 5 at 18:00 UTC**, and from then on 
 
 Some of Bitcoin Bridge's most interesting security features (e.g., [emergency payouts](https://gist.github.com/mappum/da11e37f4e90891642a52621594d03f6#emergency-disbursal-process)) are not included in this release and will be gradually added over the next few updates. These security features will be key differences between Nomic and other bridges.
 
-#### - Interchain upgrade timeline <a href="#interchain-upgrade-timeline" id="interchain-upgrade-timeline"></a>
+#### &#x20;Interchain upgrade timeline <a href="#interchain-upgrade-timeline" id="interchain-upgrade-timeline"></a>
 
 The next major update will add support for nBTC IBC transfers to other Cosmos networks. Until then, nBTC listings will not appear.
 
-#### - Updating Nomic Mainnet <a href="#nomic-mainnet-upgrade" id="nomic-mainnet-upgrade"></a>
+#### &#x20;Updating Nomic Mainnet <a href="#nomic-mainnet-upgrade" id="nomic-mainnet-upgrade"></a>
 
 The last major milestone for Nomic Bitcoin Bridge is the Mainnet upgrade.
 
@@ -104,7 +102,7 @@ The NOM distribution is modeled after the OSMO token. The network started with a
 
 **Total:** 21,000,000 NOM
 
-* **Airdrop** I—3 - 3,500,000 NOM
+* **Airdrop** I— 3,500,000 NOM
 
 For ATOM Stackers and Holders—see details above.
 

@@ -30,6 +30,6 @@
   * [IRISnet](readme/irisnet.md)
   * [UnUniFi Protocol](readme/ununifi-protocol.md)
   * [Drops of Cosmos](readme/dropy-kosmosa.md)
-* [CosmoLinks](cosmolinks.md)
+* [CosmoLinks](readme/cosmolinks.md)
 * [FAQ](faq.md)
 * [Contacts](contacts.md)
