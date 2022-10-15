@@ -20,7 +20,7 @@
 * [https://app.citadel.one/](https://app.citadel.one/)
 * [https://apeboard.finance/dashboard](https://apeboard.finance/dashboard)
 
-### Find account by cosmos adress:
+### Find account by cosmos address:
 
 * [https://findaccount.blockpane.com/](https://findaccount.blockpane.com/)
 
@@ -35,6 +35,13 @@
 * [https://omniflix.co/home](https://omniflix.co/home)
 * [https://ping.pub/](https://ping.pub/)
 * [https://stake.tax/](https://stake.tax/)
+
+### DeFi aggregators:
+
+* [https://defillama.com](https://defillama.com)
+* [https://nanoly.com](https://nanoly.com)
+* [https://juno.tfm.com](https://juno.tfm.com)
+* [https://www.dexmos.app/](https://www.dexmos.app/)
 
 ### IBC map:
 
