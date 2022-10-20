@@ -14,6 +14,8 @@ The main goals of Axelar:
 
 \- Allow users to easily and conveniently interact with decentralized applications on various platforms.
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 The Axelar network consists of three main components operating at two functional levels (network level and smart contract level):
 
 1\. A decentralized network that is responsible for transactions and maintain by a set of validators
@@ -48,6 +50,8 @@ Gateway smart contracts allow messages to be sent between any networks connected
 
 Why Axelar uses relayers is better to explain by a practical example. In the example above, when a user initiates a token transfer from network A to network B, he first generates a deposit address associated with that transaction on network A and sends the number of tokens he wants to transfer to network B. The relayers send a request to the validator to verify this address and vote on the validity of the transaction. Without relayers validators would not know which addresses to verify. Users can perform cross-chain transfers through the Satelite app. At the moment only a beta version is available, and the app supports a small set of networks. To find out more about Satelite click [here](https://satellite.money/).&#x20;
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 It’s also important to understand that Axelar stores only information related to gateway smart contracts and cross-chain transactions (it does not store a full registry of network states involved in the inter-chain message exchange via Axelar).
 
 ### AXL Tokenomics
@@ -64,6 +68,18 @@ The token economics for AXL are geared towards the creation of a token economy t
 * Decentralization. A token distributed across a wide set of holders who will delegate to a decentralized set of validators and contribute to governance decisions.&#x20;
 * Longevity. The token economics are designed to encourage general maintenance of all critical Axelar-related processes (such as block validation).&#x20;
 * Ecosystem growth. The token incentivizes dApp builders to use Axelar APIs for cross-chain development.
+
+The excess liquidity from each payment taking place on the axelar can be harnessed
+
+🔥Returned to the users
+
+&#x20;🔥Used to buy back $AXL tokens&#x20;
+
+🔥Burn AXL tokens
+
+This could be a virtuous cycle if implemented.
+
+Volume ➡ Fees ➡ Excess ➡ $AXL token value
 
 #### AXL Genesis
 
@@ -118,6 +134,30 @@ _\*\*On Day 1, 1/3 of community-sale tokens will be released. The remaining toke
 _\*\* The release schedule for the core team and backers begins three months after Day 1_
 
 ### Opportunities and risks
+
+So how successful has @axelarcore been since their launch this year?
+
+Here's some metrics:
+
+⛓ 2nd Largest by IBC volume&#x20;
+
+⛓ $204M transferred over 30 Days&#x20;
+
+⛓ 7274 Monthly Average Users&#x20;
+
+⛓ $127M in TVL
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Where is the money flowing?
+
+@axelarcore has been the largest provider of $USDC liquidity in the Cosmos.
+
+Out of the $127.0M in TVL, 53% it comes from $USDC volume.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Read more about Axelar's results for the first 6 months [here](https://twitter.com/Flowslikeosmo/status/1582174643900715008?s=20\&t=qjR-Xluj5LTf9\_lz9c4ujw).
 
 You can say that Axelar is like the brain for all heterogeneous blockchain networks. It can both read and write functions, aggregates various indeterminate inputs and uses them to calculate a single deterministic output which is a simple yes/no function. The network boasts an impressive set of offerings that will make it attractive to developers as a base for cross-chain applications.
 

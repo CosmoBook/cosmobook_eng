@@ -53,7 +53,7 @@ _Traditional debt market fundamentals will provide Umee with the basis to create
 * _A term structure that uses time-to-maturity and credit-worthiness to determine rates;_
 * _The crypto format for debt primitives such as notes, bills, bonds, CDS, structured products, and other assets._
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### A Suite of Products and Features for Optimal Performance <a href="#a-suite-of-products-and-features-for-optimal-performance" id="a-suite-of-products-and-features-for-optimal-performance"></a>
 
@@ -67,7 +67,7 @@ _Umee will be able to provide users with:_
 
 There are certain industry standards in place to help protect users, including the extensive auditing of code to find any potential weaknesses before a product is launched and any real money is at stake. Security is a priority for Umee, which is why Umee has contracted several top auditors to inspect every line of code and flag any potential vulnerabilities before going live.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### **Gravity Bridge** <a href="#gravity-bridge" id="gravity-bridge"></a>
 
@@ -84,7 +84,7 @@ The main function of Gravity Bridge is to securely transfer ERC-20 assets to Cos
 
 #### Ethereum to Cosmos <a href="#ethereum-to-cosmos" id="ethereum-to-cosmos"></a>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 When a user sends a token from Ethereum to Cosmos, funds are deposited in the gravity smart contract on Ethereum and an event is created. This event will be picked up by validators (using Peggo) and relayed to the Umee blockchain. Once >66% of the validators have claimed to see the event, the according tokens bridged from this transaction will be unlocked and sent to the destination address on Umee.
 
@@ -180,7 +180,7 @@ _**The main purpose of the native UMEE token** is to participate in the PoS cons
 * You purchased UMEE on a Cosmos-based decentralized exchange.
 * You bridged UMEE from Ethereum to the Umee blockchain.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### ERC-20 UMEE Tokens <a href="#erc-20-umee-tokens" id="erc-20-umee-tokens"></a>
 
