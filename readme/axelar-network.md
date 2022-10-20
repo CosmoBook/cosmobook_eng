@@ -69,17 +69,17 @@ The token economics for AXL are geared towards the creation of a token economy t
 * Longevity. The token economics are designed to encourage general maintenance of all critical Axelar-related processes (such as block validation).&#x20;
 * Ecosystem growth. The token incentivizes dApp builders to use Axelar APIs for cross-chain development.
 
-The excess liquidity from each payment taking place on the axelar can be harnessed
+The excess liquidity from each payment taking place on the axelar can be harnessed:
 
-🔥Returned to the users
+🔥Returned to the users;
 
-&#x20;🔥Used to buy back $AXL tokens&#x20;
+🔥Used to buy back $AXL tokens;&#x20;
 
-🔥Burn AXL tokens
+🔥Burn AXL tokens.
 
 This could be a virtuous cycle if implemented.
 
-Volume ➡ Fees ➡ Excess ➡ $AXL token value
+Volume ➡ Fees ➡ Excess ➡ $AXL token value.
 
 #### AXL Genesis
 
@@ -139,13 +139,13 @@ So how successful has @axelarcore been since their launch this year?
 
 Here's some metrics:
 
-⛓ 2nd Largest by IBC volume&#x20;
+⛓ 2nd Largest by IBC volume;
 
-⛓ $204M transferred over 30 Days&#x20;
+⛓ $204M transferred over 30 Days;
 
-⛓ 7274 Monthly Average Users&#x20;
+⛓ 7274 Monthly Average Users;
 
-⛓ $127M in TVL
+⛓ $127M in TVL.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
