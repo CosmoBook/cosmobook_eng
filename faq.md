@@ -25,3 +25,32 @@ Use this app: [https://app.rango.exchange/](https://app.rango.exchange/)
 ## How to install dVPN
 
 Use this telegram bot: [@Free\_dVPN\_Bot](https://t.me/@Free\_dVPN\_Bot)
+
+## Unbonding токенов
+
+| 7+ days      | 14+ days         | 21+ days             |                 | 28+ days        |
+| ------------ | ---------------- | -------------------- | --------------- | --------------- |
+| Axelar (Axl) | Osmosis (Osmo)   | Cosmos Hub (ATOM)    | Akash (AKT)     | Juno            |
+|              | Evmos            | AssetMantle (MNTL)   | IXO             | Sentinel (DVPN) |
+|              | Stargaze (STARS) | Starname (IOV)       | Secret (SCRT)   |                 |
+|              | Umee             | Sommelier (SOMM)     | Regen           |                 |
+|              | Kujira (KUJI)    | GravityBridge (GRAV) | Kava            |                 |
+|              | Nomic (NOM)      | Cryrto.org (CRO)     | Agorik (BLD)    |                 |
+|              |                  | Certik (CTK)         | Likecoin (LIKE) |                 |
+|              |                  | Bitsong (BTSG)       | Rebus           |                 |
+|              |                  | e-Money (NGM)        | Stride (STRD)   |                 |
+|              |                  | SifChaine (ROWAN)    | Iris            |                 |
+|              |                  | Persistence (XPRT)   | Teritori (TORI) |                 |
+
+{% tabs %}
+{% tab title="7 days" %}
+Axelar (Axl)
+{% endtab %}
+
+{% tab title="14+ days" %}
+Osmosis (Osmo)
+
+Evmos
+{% endtab %}
+{% endtabs %}
+
