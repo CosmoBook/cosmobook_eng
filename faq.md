@@ -42,15 +42,4 @@ Use this telegram bot: [@Free\_dVPN\_Bot](https://t.me/@Free\_dVPN\_Bot)
 |              |                  | SifChaine (ROWAN)    | Iris            |                 |
 |              |                  | Persistence (XPRT)   | Teritori (TORI) |                 |
 
-{% tabs %}
-{% tab title="7 days" %}
-Axelar (Axl)
-{% endtab %}
-
-{% tab title="14+ days" %}
-Osmosis (Osmo)
-
-Evmos
-{% endtab %}
-{% endtabs %}
-
+{% embed url="https://docs.google.com/spreadsheets/d/1wyJiIEbscDZbGzJAcmLFnKLbsBBsBMtkonwvHnFagRs/edit?usp=sharing" %}
