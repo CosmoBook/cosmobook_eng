@@ -26,7 +26,7 @@ Use this app: [https://app.rango.exchange/](https://app.rango.exchange/)
 
 Use this telegram bot: [@Free\_dVPN\_Bot](https://t.me/@Free\_dVPN\_Bot)
 
-## Unbonding токенов
+## Token unbonding periods
 
 | 7+ days      | 14+ days         | 21+ days             |                 | 28+ days        |
 | ------------ | ---------------- | -------------------- | --------------- | --------------- |
@@ -41,5 +41,3 @@ Use this telegram bot: [@Free\_dVPN\_Bot](https://t.me/@Free\_dVPN\_Bot)
 |              |                  | e-Money (NGM)        | Stride (STRD)   |                 |
 |              |                  | SifChaine (ROWAN)    | Iris            |                 |
 |              |                  | Persistence (XPRT)   | Teritori (TORI) |                 |
-
-{% embed url="https://docs.google.com/spreadsheets/d/1wyJiIEbscDZbGzJAcmLFnKLbsBBsBMtkonwvHnFagRs/edit?usp=sharing" %}
