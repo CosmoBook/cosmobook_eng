@@ -4,13 +4,13 @@
 
 ## Introduction <a href="#nomic" id="nomic"></a>
 
-Nomic is a PoS Bitcoin sidechain, powered by the Tendermint consensus protocol. Nomic aims to provide fast circulation and utilization of tokens fully backed by BTC.
+**Nomic** is a PoS Bitcoin sidechain, powered by the Tendermint consensus protocol. Nomic aims to provide fast circulation and utilization of tokens fully backed by BTC.
 
 These tokens are referred to as nBTC. The chain is parallel to the Bitcoin timechain mainnet. nBTC tokens can be exchanged for BTC at a 1:1 ratio.
 
-The security of the PoS chain is improved by periodic synchronization of the Nomic sidechain and Bitcoin timechain: the clients, synchronized with the chain, can always rely on Proof-of-Work security, while confirming blocks consensus.
+The **security** of the PoS chain is improved by periodic synchronization of the Nomic sidechain and Bitcoin timechain: the clients, synchronized with the chain, can always rely on Proof-of-Work security, while confirming blocks consensus.
 
-The Tarpoot upgrade set the foundation for the Bitcoin multisig contract development for the Bitcoin bridge administration.
+The **Tarpoot upgrade** set the foundation for the Bitcoin multisig contract development for the Bitcoin bridge administration.
 
 ### Bitcoin Reserve Management
 
@@ -22,7 +22,9 @@ The terms of the funds disbursement are enforced on the blockchain through the r
 
 ### Reserve script
 
+{% hint style="info" %}
 Script is a set of programmed instructions on Bitcoin. The script controls the mechanism of locking and unlocking scripts.
+{% endhint %}
 
 The script works as follows:
 
@@ -43,9 +45,11 @@ It is expected that in most cases the signature will be approved through the bas
 
 To move funds into the reserve pool, depositors need to send a Bitcoin transaction to the reserve script, which is modified to contain an extra script in its script path tree, that indicates where the nBTC should be credited on the sidechain (this scheme is called Script Path Commitment Scheme). A depositor should indicate the desired destination address in Nomic.
 
+{% hint style="danger" %}
 _Detection of deposits by relayer nodes_
 
 Output of the above script has a unique hash, since the destination address on the sidechain is unique. This meant that relayers could face an issue with the matching of Bitcoin transactions with the reserve script. To solve this problem, relayers will have to keep the sidechain's destination address, receive from depositors, and match each Tarpoot output, which they see in the Bitcoin transaction with all active validator sets and possible destination addresses.
+{% endhint %}
 
 **Deposit Finality**
 
@@ -57,7 +61,9 @@ The total number of BTC waiting for the deposit, consists of the amount of all d
 
 A deposit progresses from "pending" to "final" in a FIFO ordering (first in, first out). The scaling confirmation block counts for all deposits based on the total waiting time.
 
+{% hint style="info" %}
 For example, the total quantity of BTC is deposited by 3 depositors, in the amount of 3 BTC, 5 BTC and 4 BTC. The block reward is 6,25 BTC. Then, the confirmation of 2 blocks and almost 20 minutes are required. The first deposit is confirmed in 5 minutes (3/1220), the second is in 8 minutes 20 seconds (5/1220), and the third deposit is confirmed in 20 minutes.
+{% endhint %}
 
 **Speculations on Deposits**\
 The user-experience of the system using, based on the above-described conservative approach, is worse in comparison with traditional centralized platforms (which usually wait for only the 1 or 2 blocks confirmation). Thus, a market for speculation on transaction confirmations was created. A depositor could sell the unconfirmed deposit tokens to traders, who are sure that at the end the deposit will be confirmed.&#x20;
@@ -66,8 +72,9 @@ The price depends on such factors as the estimated risk, the intermit value of m
 
 The probability of deposit cinsirmation is evaluated with the data such as the presence of transaction in the BTC miners' mempools, if there is a possibility to apply to the transaction replace-by-fee, the state of a hashrate, indicating the possibility of reorganization, info on a depositor, etc.&#x20;
 
-\
+{% hint style="info" %}
 replace-by-fee is a mechanism that allows an unconfirmed transaction in a mempool to be replaced with a different transaction with higher commission and another recipient's address. It also allows the changing of tokens transfer parameters in the Bitcoin mempool.
+{% endhint %}
 
 ### Deposit Reclamation & Unbonding Period
 
@@ -94,7 +101,7 @@ Once a relayer node detects a valid Bitcoin transaction which has outputs matchi
 
 These components are enough to guarantee the BTC deposit. After the sidechain network receives a valid deposit proof, it will then mint Bitcoin-pegged tokens on its ledger, paid out to the destination address committed to by the depositor. nBTC can be transferred, used in smart contracts, or burnt to trigger a withdrawal from the reserves paid to a given destination on the Bitcoin blockchain.
 
-#### &#x20;**Checkpoints** <a href="#depositing-and-withdrawing-bitcoin" id="depositing-and-withdrawing-bitcoin"></a>
+#### **Checkpoints** <a href="#depositing-and-withdrawing-bitcoin" id="depositing-and-withdrawing-bitcoin"></a>
 
 Periodically, the network will make transactions on the Bitcoin blockchain which are called checkpoints.
 
@@ -130,11 +137,25 @@ A checkpoint transaction spends from the latest deposit collection output, and t
 
 A checkpoint is created every time the signatory set changes by a certain threshold, or on a certain time interval. One checkpoint per Bitcoin block is a perfect option.
 
-**Prevention of Long-range Attacks. PoS**
+**Prevention of Long-Range Attacks. PoS**
 
 A known issue of Proof-of-Stake consensus is the so-called long-range attack, when a validator is forking the network which is out of date, and after the attack reproduces the alternative network without "unnecessary blocks" and the risk of being punished for the burning of their staked tokens. Thus, an attacker will deceive the clients, synced to the fake network.
 
-What is Long-range attack
+<details>
+
+<summary>What is Long-Range Attack </summary>
+
+Michael (М) decides to perform a long range attack. In order to do this, he eliminates Vasiliy’s (B) and Anfisa’s (A) blocks. Eliminated blocks are displayed in staples. At the top you can see attacker’s fork, which is parallel to the main-chain of blocks (at the bottom).
+
+__![](../.gitbook/assets/image.png)__\
+__
+
+To compete with the main-chain M has to produce blocks ahead of time (Triple dots denote forfeited blocks). Thus, M creates an alternative branch of the blockchain, and when the blocks are eliminated, goes back to the genesis block, forks the blockchain and produces blocks similar to the main-chain. Then the attack is completed.
+
+![](<../.gitbook/assets/image-2 (1).png>)\
+
+
+</details>
 
 Bitcoin checkpoints allow to prevent long-range attacks:&#x20;
 

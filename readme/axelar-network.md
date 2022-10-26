@@ -147,7 +147,7 @@ Here's some metrics:
 
 ⛓ $127M in TVL.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Where is the money flowing?
 

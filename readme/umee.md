@@ -90,7 +90,7 @@ When a user sends a token from Ethereum to Cosmos, funds are deposited in the gr
 
 #### Cosmos to Ethereum <a href="#cosmos-to-ethereum" id="cosmos-to-ethereum"></a>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 For transactions from Cosmos to Ethereum, the Gravity contract creates ERC-20 representations for Cosmos tokens and ERC20 tokens that were previously locked in the Gravity contract will be freed and sent to the destination address. Umee will collect transactions into batches, ordered by fee, which then will be signed by validators. Once enough signatures are collected (>66% of validators), this most profitable batch can be relayed to Ethereum by any participant of the network to get the relaying reward (the sum of all fees). Bridge fees are always paid in the same token that is being sent, so there’s no need to buy the Umee token to be able to use the bridge (only a tiny bit to pay for Umee blockchain’s fees which are negligible and easily bought on a Dex such as Osmosis).
 
