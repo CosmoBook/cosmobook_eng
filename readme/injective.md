@@ -41,7 +41,7 @@ The Injective team has a web page dedicated exclusively to their labs. Visit it 
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-The Injective protocol consists of several key components.
+The Injective consists of several key components.
 
 **Injective Chain** is a decentralized exchange (DEX) protocol built on top of Cosmos that also allows Ethereum tokens to be transmitted and traded. This network is designed to address the scaling and bandwidth challenges faced by many Tier 1 blockchains, while allowing developers to use Ethereum's familiar development toolkits.
 
@@ -62,7 +62,7 @@ As decided by the Injective community as part of the canonical mainnet rollout, 
 Injective Exchange also uses a Trade Execution Coordinator (TEC). The TEC creates a delay so that new orders cannot be placed before old orders, thus attempting to address the problem of advanced information received by some market makers or bots.\
 **Insurance** - facilitates insurers that support derivatives markets that are listed on the exchange.\
 **Oracle** - obtains real price data (e.g., traditional stock market data) used to set asset prices on the INJ exchange. Basically, it is an oracle system.\
-**Peggy** - connects the Injective protocol with the Ethereum blockchain, allowing ERC-20 tokens to be traded.
+**Peggy** - connects the Injective with the Ethereum blockchain, allowing ERC-20 tokens to be traded.
 
 ### Injective architecture <a href="#iiur" id="iiur"></a>
 
@@ -147,7 +147,7 @@ A number of dApps are currently built on Injective. Presently, the most widely u
 
 ### Injective Hub <a href="#wmxy" id="wmxy"></a>
 
-**Injective Hub** is a dashboard that gives users the ability to make the most of the Injective protocol (how-to guide [here](https://blog.injective.com/injective-hub-guide/)).
+**Injective Hub** is a dashboard that gives users the ability to make the most of the Injective (how-to guide [here](https://blog.injective.com/injective-hub-guide/)).
 
 Through Injective Hub, you can place an INJ (native network token) to become a network validator, or delegate your tokens to other validators.
 
