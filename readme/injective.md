@@ -135,11 +135,15 @@ If you're using API, you'll have to pay the cost of gas.\
 Currently, the cost of gas is very low. 20K transactions will cost about 1 INJ ($1.72 on 08.08.2022).\
 You can set recipient\_fee to any address of your own wallet, since you are essentially your own relay, which saves you about 40% of all fees.
 
-#### Exchanges based on Injective <a href="#jfgl" id="jfgl"></a>
+### dApps based on Injective <a href="#jfgl" id="jfgl"></a>
 
-There are currently six exchanges built on Injective Chain: Picasso Exchange, MarsX, Unlimited Exchange, Lunatics Exchange, Inj Dojo Exchange and Injective Pro, which is provided by the core team.
+A number of dApps are currently built on Injective. Presently, the most widely used dApps built on top of Injective are decentralized exchanges (DEXs), which provide individuals with an advanced decentralized trading experience. One popular dApp built on Injective is Helix which is one of the fastest growing decentralized derivatives exchanges. Beyond DEXs, Injective also powers several other decentralized applications, including dApps for insurance, prediction markets, binary options and more. Here are a few projects currently deployed on Injective:
 
-All of these exchanges are connected to the same markets through a common order book, but differ in how they provide access to the user. For example, unlike the Injective Pro relay, the Picasso exchange offers a swap mechanism for spot markets with a user interface similar to AMM DEXs. And MarsX gives access to two of the perp markets, while other exchanges give access to all four. Essentially, these exchanges only offer different UX and UI, but, the more players, the more decentralization.
+* [Helix](https://www.helixapp.com) - the premier decentralized order book exchange for trading derivatives.&#x20;
+* [Frontrunner](https://www.getfrontrunner.com) - the first decentralized sports prediction market.&#x20;
+* [White Whale](https://whitewhale.money) - interchain arbitrage infrastructure protocol.&#x20;
+* [Wavely Exchange](https://trade.wavely.app) - order book derivatives exchange built on Injective.&#x20;
+* [Qwerty Exchange](https://qwerty.exchange) - order book decentralized exchange.&#x20;
 
 ### Injective Hub <a href="#wmxy" id="wmxy"></a>
 
