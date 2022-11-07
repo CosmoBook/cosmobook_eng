@@ -51,6 +51,14 @@
 
 * [https://monitor.bronbro.io/d/boards/list-of-boards?orgId=2](https://monitor.bronbro.io/d/boards/list-of-boards?orgId=2)
 
+### Validators uptime:
+
+* [https://ping.pub/cosmos/uptime](https://ping.pub/cosmos/uptime)
+
+### Cosmos zones list:
+
+* [https://cosmos.directory/](https://cosmos.directory/)
+
 ### Faucets:
 
 * [https://stakely.io/en/faucet](https://stakely.io/en/faucet)
