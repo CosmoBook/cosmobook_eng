@@ -4,114 +4,111 @@
 
 ## Kava Network
 
-The Kava Network is a general-purpose network that uses the Tendermint core and consists of two so-called co-chains - the Cosmos co-chain and the Ethereum co-chain.
+The Kava Network is a general-purpose network that combines two co-chains - Cosmos co-chain and Ethereum co-chain, and uses the Tendermint Core consensus engine.
 
-Cosmos co-chain is a blockchain based on Cosmos SDK, linked to most other blockchains in the Cosmos ecosystem. It became a full-fledged blockchain in the Cosmos ecosystem in January 2022 with the launch of Kava 9 mainnet, whose main upgrade was the implementation of the IBC protocol. Thus, it was possible to transfer native KAVA tokens to other blockchains that use IBC, as well as transfer some IBC tokens to the Kava network.
+The Cosmos co-chain is a blockchain based on the Cosmos SDK and connected to most other blockchains in the Cosmos ecosystem. Kava became a full-fledged Cosmos-based blockchain with the launch of Kava Mainnet 9, the main upgrade of which was the implementation of IBC protocol. Thus, the transfer of $KAVA native token to other IBC-compatible blockchains was enabled, as well as the transfer of the IBC tokens to Kava.
 
-Ethereum co-chain is an EVM compatible environment for running smart contracts and decentralized applications written in Solidity.
+The Ethereum co-chain – the EVM-compatible chain for smart-contracts and dApps deploying, written on Solidity.
 
-Ethereum co-chain was launched in May 2022 along with Kava 10 mainnet update. Currently, users only have the ability to wrap and unwrap the KAVA token via MetaMask. In fact, all the main functionality and features of this co-chain will be implemented in further updates after Ethereum Bridge launch.
+The Ethereum co-chain was launched in May 2022 along with the Kava 10 mainnet upgrade. At the moment, users are able to wrap and unwrap the $KAVA token through Metamask. In fact, all the basic functionality of this co-chain will be implemented in the upcoming upgrades after the Ethereum Bridge launch.
 
-Both cochains are connected by the Translator Module, which will allow them to communicate with each other without any problems in the future.
+Both co-chains are connected by the Translator Module, which will make it possible to interact with each other without any limitations.
 
-The Kava Network will be managed by KavaDAO and secured by native KAVA token stacking, while network stackers and validators will be able to participate in DAO votes and make suggestions about the operation of the network.
+The Kava Network will be governed by KavaDAO. The security will be ensured by the $KAVA token staking, while stakers and validators will be able to participate in DAO votings and submit their own proposals regarding the network.
 
 ![](https://telegra.ph/file/84439a459c4679b6c1559.png)
 
-### **Defi products Kava Platform**
+### DeFi Products on the Kava Platform
 
-#### **Kava Mint**
+#### **Kava Mint** (formerly Kava CDP)&#x20;
 
-Kava Mint (formerly Kava CDP) is a platform that allows users to borrow in USDX (Kava Network's native stablecoin) against certain assets with a collateral ratio of at least 150% (i.e. to borrow $100 you need to have a collateral asset worth at least $150).
+The platform allows users to borrow USDX (the Kava's native stablecoin) using crypto assets as collateral. The over-collateralized ratio should be at least 150%. (That means to borrow $100 you must provide a collateral of at least $150).&#x20;
 
-The work of the platform is based on several basic modules:
+The platform functioning is based on three main modules:
 
-CDP module (CDP stands for collateral debt position) is a Cosmos SDK module that allows you to implement work with collateral debt positions.
+* CDP (collateral debt position) – the Cosmos SDK module, which allows the implementation of collateral debt position creating
+* Auction – the module ensures the stable network operation and USDX peg
+* Price Feed Module – track the price using the Chainlink oracle
+* BEP-3 Module – act as a secure bridge between Kava and Binance Chain&#x20;
 
-Auction module - the module that is responsible for the stable operation of the system and the USDX rate peg.
-
-Price feed module - tracks price through Chainlink oracles.
-
-BEP-3 module - acts as a secure bridge between Kava and Binance Chain.
-
-Kava Mint's algorithm is shown in the image below
+The algorithm of Kava Mint's work is shown below:
 
 ![](https://telegra.ph/file/573f98765d03964fd1062.png)
 
-Read more about liquidations on Kava Mint and Kava Lend [here](https://medium.com/kava-labs/liquidation-on-kava-and-hard-f5122d9fac58).
+More details on liquidations on Kava Mint and Kava Lend can be found [here](https://medium.com/kava-labs/liquidation-on-kava-and-hard-f5122d9fac58).
 
 #### **Kava Lend (formerly Hard)**
 
-Kava Lend is a landing page platform with its native governance token HARD. Users can:
+Kava Lend is the lending platform with the native governance token called $HARD.
 
-\- Supply liquidity to the platform and receive a certain percentage for it (depends on the type of asset).
+With Kava Lend users can:
 
-\- Borrowing an asset against another asset.
+\- Supply liquidity and receive a percentage of the provided amount (the percentage depends on the asset type)
 
-\- Both liquidity providers and users who borrow are rewarded in HARD tokens.
+\- Borrow assets using other assets as collateral
 
-Holders of the HARD token can participate in the governance and make suggestions for further development of the platform.
+\- Both suppliers and users receive rewards in the $HARD tokens
+
+$HARD holders are able to participate in governance and submit their own proposals regarding the network&#x20;
 
 #### **Kava Swap (formerly Swap)**
 
-Standard AMM swapper with its native SWP token. Users can add their tokens to liquidity pools and earn a portion of commission from swaps and earn additional income in SWP as a reward for providing liquidity.
+Kava Swap is a standard AMM Swap with the native token called $SWP. Users can provide their tokens to liquidity pools and receive $SWP as an additional reward for liquidity providing.
 
-Holders of the SWP token can also participate in the governance and make suggestions for the further development of the platform.
+Additionally, $SWP holders can participate in governance and submit their own proposals regarding the network's development.
 
 #### **Kava Earn**
 
-Kava Earn is a platform where users can apply combined strategies in a few clicks to maximize profits (depending on the degree of risk). In other words, Kava Earn combines the functionality of Kava Mint, Kava Lend and Kava Swap and provides ready-made strategies. The goal of the platform is to provide safe strategies and high returns.
+Kava Earn is a platform that allows users to apply combined strategies just in a couple of clicks, and thereby make the maximum (depending on the risk) profit. In other words, Kava Earn combines the functionality of Kava Mint, Kava Lend, and Kava Swap and provides users pre-made strategies.
 
-At the time of writing the review (mid-July 2022), only the BUSD strategy has been implemented on Kava Earn. You can read more details [here](https://medium.com/kava-labs/introducing-kava-earn-816078fb4ca).
+In general, the goal of Kava Earn is to provide secure strategies with high yield.
 
-### **Plans**
+At the time of writing (the mid-July 2022), only the BUSD Kava Earn strategy was implemented on Kava Earn. Learn more [here](https://medium.com/kava-labs/introducing-kava-earn-816078fb4ca).
 
-#### **3 quarter 2022**
+### Roadmap
 
-\- Ethereum Bridge Launch. Will allow transfer of ERC-20 tokens and ETH from EVM compliant networks to Kava and vice versa.
+#### **Q3 2022**
 
-\- Liquid Staking. Will allow KAVA steppers to use their assets more efficiently.
+\- Ethereum Bridge Launch The bridge will enable the transfer of the ERC-20 tokens and ETH from the EMV-compatible chains to Kava Network and vice versa
 
-\- The earn yield optimizer (earn yield optimizer). It will allow users to automatically place their assets in the protocol with the highest yield.
+\- Liquid Staking, which will allow the $KAVA stakers to more effectively use their assets
 
-\- Ability to sign SDK transactions in Metamask. Users will be able to use one wallet when making cross-chain transactions on EVM network.
+\- Earn Yield Optimizer. Will allow users to automatically optimize yields by supplying assets to the highest yield generating protocol
 
-\- Launch of a new loyalty and referral program.
+\- The ability to interact with Kava and sign Cosmos SDK transactions through MetaMask. Users will be able to sign SDK transactions for Ethereum assets in a single Metamask Wallet.
 
-\- Launch the Kava Foundation, a non-profit board of people/organizations that contribute a meaningful role to the Kava DAO and community.
+\- New Loyalty and Referrals Rewards programs
 
-#### **4 quarter 2022**
+\- Kava Foundation launch. Kava Foundation is a non-profit advisory body of industry leaders that provide strategic input to the Kava DAO and its community
 
-\- GameFi and NFT developer incentive program on the Kava network.
+#### **Q4 2022**
 
-\- Launch of the bridge between Kava and Binance Smart Chain.
+**-** Kava Network GameFi and NFT Incentive Program
+
+\- BNB Chain Bridge Launch
 
 #### **Q1 2023**
 
-\- Launch of CosmWasm support. Will make it faster and easier to run smart contracts on Cosmos co-chain and attract new developers.
+\- CosmWasm Support, which will allow the rapid and more convenient deployment of smart contract dApps to the Cosmos co-chain, bringing developers from across the Cosmos to the Kava Network
 
-\- Launch a bridge between Cosmos co-chain and Bitcoin. Will allow native bitcoin to be transmitted.
+\- BTC Native Bridge launch, allowing the transfer of BTC
 
-### **Important partnerships**
+### **Partnerships**
 
-Integration with Multichain (formerly Anyswap), enabling the transfer of five ERC-20 tokens (USDC, USDT, DAI, ETH, WBTC) between Kava Network and 8 other networks (ether and BNB among them). Read more [here.](https://medium.com/multichainorg/multichain-integrates-with-kava-network-448b7a37d184)
+* Integration with Multichain (formerly Anyswap), enabled the transfer of 5 ERC-20 tokens (USDC, USDT, DAI, ETH, WBTC) between the Kava Network and other 8 chains. Details [here](https://medium.com/multichainorg/multichain-integrates-with-kava-network-448b7a37d184).
+* Partnership with Celer, enabled cBridge support. Thus, now users can bridge USDC, USDT, WETH, DAI, and WBTC between Ethereum and Kava. Details [here](https://medium.com/kava-labs/kava-partners-with-celer-cbridge-to-enable-cross-chain-asset-transfers-3f75efbaed3c).
+* Partnership with Sushi. More details [here](https://medium.com/kava-labs/sushi-joins-the-kava-rise-program-with-a-combined-14m-allocation-5fd544defbdchttps://medium.com/kava-labs/sushi-joins-the-kava-rise-program-with-a-combined-14m-allocation-5fd544defbdc).
+* Integration with Nervos. After the launch of the Ethereum Bridge this integration will enable bridging between the Kava Network and Nerovs. In the future Kava may explore adding $CKB to the Kava Mint or Kava Lend protocols as well.
 
-Partnering with Celer to enable cBridge to send USDC, USDT, DAI, ETH, WBTC between Ethereum and Kava. Read more [here.](https://medium.com/kava-labs/kava-partners-with-celer-cbridge-to-enable-cross-chain-asset-transfers-3f75efbaed3c)
-
-Partnership with Sushi. Read more [here.](https://medium.com/kava-labs/sushi-joins-the-kava-rise-program-with-a-combined-14m-allocation-5fd544defbdc)
-
-Integration with Nervos, which after Ethereum Bridge launch will allow transfer of assets between Kava Network and Nerovs. It is also possible to add CKB token to Kava Lend and Kava Mint in the future.
-
-It is important to note that Kava Network is young but very ambitious, as evidenced by their active efforts to enter into partnership agreements and attract new ecosystem projects and users (Kava Pioneer Program, which has announced partnerships with AutoFarm, Beefy Finance and Ren. A $750 million developer funding program was also recently launched).
+It is important to note that Kava is a young, but very ambitious network, as evidenced by its active work on partnerships and the attraction of new Cosmos-based projects, as well as new users (e.g. Kava Pioneer Program, under which the team announced the partnerships with projects such as AutoFarm, Beefy Finance, and Ren. Also, recently Kava launched the 750 million dollars financing program for developers).
 
 ### **Links**
 
-Official website [here](https://www.kava.io/).
+[\
+Official website ](https://www.kava.io/)
 
-The official Medium [is here](https://medium.com/kava-labs/latest).
+[Medium](https://medium.com/kava-labs/latest)&#x20;
 
-Messari on Kava Network (old article, but a good explanation of Kava Platform, the liquidation mechanisms used and USDX) [here](https://messari.io/article/can-kava-become-a-leading-financial-services-provider-in-defi).
+Messari on Kava Network (the [article](https://messari.io/article/can-kava-become-a-leading-financial-services-provider-in-defi) is old, but there is a good explanation of Kava, the liquidation mechanisms and USDX)
 
-Altcoinbuzz's review of Kava [here](https://www.altcoinbuzz.io/reviews/altcoin-projects/kava-what-the-new-rebranding-means-to-the-protocol/) and [here](https://www.altcoinbuzz.io/cryptocurrency-news/partnerships/kava-protocol-expanding-the-boundary-of-defi/).
-
-Kava Platform [here.](https://app.kava.io/home)
+Altcoinbuzz's reviews on Kava can be found [here](https://www.altcoinbuzz.io/reviews/altcoin-projects/kava-what-the-new-rebranding-means-to-the-protocol/) and [here](https://www.altcoinbuzz.io/cryptocurrency-news/partnerships/kava-protocol-expanding-the-boundary-of-defi/).

@@ -50,7 +50,7 @@ Gateway smart contracts allow messages to be sent between any networks connected
 
 Why Axelar uses relayers is better to explain by a practical example. In the example above, when a user initiates a token transfer from network A to network B, he first generates a deposit address associated with that transaction on network A and sends the number of tokens he wants to transfer to network B. The relayers send a request to the validator to verify this address and vote on the validity of the transaction. Without relayers validators would not know which addresses to verify. Users can perform cross-chain transfers through the Satelite app. At the moment only a beta version is available, and the app supports a small set of networks. To find out more about Satelite click [here](https://satellite.money/).&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 It’s also important to understand that Axelar stores only information related to gateway smart contracts and cross-chain transactions (it does not store a full registry of network states involved in the inter-chain message exchange via Axelar).
 
@@ -155,7 +155,7 @@ Where is the money flowing?
 
 Out of the $127.0M in TVL, 53% it comes from $USDC volume.
 
-<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Read more about Axelar's results for the first 6 months [here](https://twitter.com/Flowslikeosmo/status/1582174643900715008?s=20\&t=qjR-Xluj5LTf9\_lz9c4ujw).
 
