@@ -18,8 +18,10 @@
 ### DeFi trackers:
 
 * [https://app.citadel.one/](https://app.citadel.one/)
-* [https://apeboard.finance/dashboard](https://apeboard.finance/dashboard)
+* [https://portfolio.nansen.ai/dashboard](https://portfolio.nansen.ai/dashboard)
 * [https://app.pulsar.finance](https://app.pulsar.finance)
+* [https://optical.0xtracker.app/](https://optical.0xtracker.app/)
+* [https://defiyield.app/portfolio](https://defiyield.app/portfolio)
 
 ### Find account by cosmos address:
 
@@ -61,9 +63,14 @@
 
 * [https://cosmos.directory/](https://cosmos.directory/)
 
+### Adding networks, including test ones:
+
+* [https://chain-registry.netlify.app/](https://chain-registry.netlify.app/)
+
 ### Faucets:
 
 * [https://stakely.io/en/faucet](https://stakely.io/en/faucet)
+* [https://faucet.crescent.network/](https://faucet.crescent.network/)
 
 ### DEXes:
 
@@ -88,6 +95,8 @@
 9. **Evmos:**
    * [https://app.diffusion.fi/](https://app.diffusion.fi/)
    * [https://app.evmoswap.org/](https://app.evmoswap.org/)
+10. **Carbon Network:**
+    * [https://app.dem.exchange/trade](https://app.dem.exchange/trade)
 
 ### Restake (autocompound):
 
@@ -115,6 +124,7 @@
 
 * [https://ibc.cosmos.network/](https://ibc.cosmos.network/)
 * [https://ibcprotocol.org/](https://ibcprotocol.org/)
+* [https://medium.com/@IBCteam](https://medium.com/@IBCteam)
 
 ### CosmWasm:
 
