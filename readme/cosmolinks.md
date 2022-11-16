@@ -201,7 +201,9 @@
 ### Proposals
 
 * [http://t.me/citadelvotebot](http://t.me/citadelvotebot)
+* [http://t.me/CosmosProposalBot](http://t.me/CosmosProposalBot)
 
 ### News aggregator
 
 * [https://t.me/cosmos\_cats\_bot\_tln](https://t.me/cosmos\_cats\_bot\_tln)
+* [https://cosmosnewsbyzkv.substack.com/](https://cosmosnewsbyzkv.substack.com/)
