@@ -134,7 +134,7 @@ Information on passing and future airdrops can be viewed:
 * [Cosmospug](https://cosmospug.com/airdrops/) is another English-language site.
 * [Cosmos\_airdrops](https://twitter.com/cosmos\_airdrops) is a Twitter account.
 
-### **Where to steal coins (I'll give Kepler's dashboard, the tools are actually a sea of them):**
+### **Where to stake coins:**
 
 Information on passing and future airdrops can be viewed:
 
@@ -142,7 +142,7 @@ Information on passing and future airdrops can be viewed:
 * [Cosmospug](https://cosmospug.com/airdrops/) is another English-language site.
 * [Cosmos\_airdrops](https://twitter.com/cosmos\_airdrops) is a Twitter account.
 
-**Where to steal coins (I'll give Kepler's dashboard, the tools are actually a sea of them):**
+**Where to stake coins:**
 
 $ATOM: [https://wallet.keplr.app/#/cosmoshub/stake](https://wallet.keplr.app/#/cosmoshub/stake)
 
