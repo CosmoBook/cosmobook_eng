@@ -29,7 +29,7 @@
   * [Injective](readme/injective.md)
   * [IRISnet](readme/irisnet.md)
   * [UnUniFi Protocol](readme/ununifi-protocol.md)
-  * [Drops of Cosmos](readme/dropy-kosmosa.md)
+  * [Cosmos Airdrops](readme/dropy-kosmosa.md)
 * [CosmoLinks](readme/cosmolinks.md)
 * [FAQ](faq.md)
 * [Contacts](contacts.md)
