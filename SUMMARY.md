@@ -28,6 +28,7 @@
   * [pSTAKE](readme/pstake.md)
   * [Injective](readme/injective.md)
   * [IRISnet](readme/irisnet.md)
+  * [Quicksilver](readme/quicksilver.md)
   * [UnUniFi Protocol](readme/ununifi-protocol.md)
   * [Cosmos Airdrops](readme/dropy-kosmosa.md)
 * [CosmoLinks](readme/cosmolinks.md)
