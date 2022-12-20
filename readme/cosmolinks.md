@@ -67,6 +67,10 @@
 
 * [https://chain-registry.netlify.app/](https://chain-registry.netlify.app/)
 
+### **How to choose a valid**ator
+
+* [https://score.bronbro.io/](https://score.bronbro.io/)
+
 ### Faucets:
 
 * [https://stakely.io/en/faucet](https://stakely.io/en/faucet)
