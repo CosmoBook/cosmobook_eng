@@ -105,7 +105,7 @@ Inflation in the first year will be 65% and then will drop by 25% every year. Th
 
 The tokens will be allocated as follows:
 
-
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 This allocation can be changed at the discretion of the QCK token holders through a governance proposal.
 
@@ -115,7 +115,7 @@ The initial token allocation of the Quicksilver native token, QCK, will be 200 m
 
 It will be allocated as follows:
 
-
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Earlier there was information about vesting for founders and investors, but this information is removed from the current tokenomics.
 

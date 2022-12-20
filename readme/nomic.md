@@ -147,7 +147,7 @@ A known issue of Proof-of-Stake consensus is the so-called long-range attack, wh
 
 Michael (М) decides to perform a long range attack. In order to do this, he eliminates Vasiliy’s (B) and Anfisa’s (A) blocks. Eliminated blocks are displayed in staples. At the top you can see attacker’s fork, which is parallel to the main-chain of blocks (at the bottom).
 
-__![](<../.gitbook/assets/image (1).png>)__\
+__![](<../.gitbook/assets/image (1) (1).png>)__\
 __
 
 To compete with the main-chain M has to produce blocks ahead of time (Triple dots denote forfeited blocks). Thus, M creates an alternative branch of the blockchain, and when the blocks are eliminated, goes back to the genesis block, forks the blockchain and produces blocks similar to the main-chain. Then the attack is completed.
