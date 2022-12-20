@@ -16,7 +16,7 @@ The Nym Network's native token $NYM is a utility token, used to pay for differen
 
 ### Nym Architecture
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Users (indicated in the figure as Alice, Bob, and Carol) get secure and confidential access to the services they need through the client software ("client apps" in the fig.). This software allows users to create credentials and then send the information packages to the Nym mixnet.
 

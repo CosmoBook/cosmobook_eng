@@ -109,7 +109,7 @@ Backers: 29.54%&#x20;
 
 &#x20;– Series B: 3.5%
 
-<figure><img src="../.gitbook/assets/image-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-2 (1).png" alt=""><figcaption></figcaption></figure>
 
 Community sale: 5%
 
@@ -117,7 +117,7 @@ Community programs (including the insurance fund): 35.96%
 
 #### Unlocking in the Axelar Network
 
-<figure><img src="../.gitbook/assets/image-3.png" alt=""><figcaption><p>Token release schedule </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-3 (1).png" alt=""><figcaption><p>Token release schedule </p></figcaption></figure>
 
 #### Token release schedule&#x20;
 

@@ -152,7 +152,7 @@ __
 
 To compete with the main-chain M has to produce blocks ahead of time (Triple dots denote forfeited blocks). Thus, M creates an alternative branch of the blockchain, and when the blocks are eliminated, goes back to the genesis block, forks the blockchain and produces blocks similar to the main-chain. Then the attack is completed.
 
-![](<../.gitbook/assets/image-2 (1).png>)\
+![](<../.gitbook/assets/image-2 (1) (1).png>)\
 
 
 </details>
