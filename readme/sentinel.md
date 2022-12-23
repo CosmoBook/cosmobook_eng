@@ -1,5 +1,7 @@
 # Sentinel
 
+<mark style="color:red;">**The English version of CosmoBook is currently available in draft form. We are working on corrections.**</mark>
+
 ![](https://img4.teletype.in/files/74/3c/743ce60d-dc6f-4564-a842-93dc421dad3f.png)
 
 ## Sentinel <a href="#p892" id="p892"></a>

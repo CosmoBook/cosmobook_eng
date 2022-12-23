@@ -1,5 +1,7 @@
 # Gravity Bridge
 
+<mark style="color:red;">**The English version of CosmoBook is currently available in draft form. We are working on corrections.**</mark>
+
 ![](https://img3.teletype.in/files/25/69/2569f548-689e-4733-b6af-97857ab7a2a6.png)
 
 ## Gravity Bridge

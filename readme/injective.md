@@ -1,5 +1,7 @@
 # Injective
 
+<mark style="color:red;">**The English version of CosmoBook is currently available in draft form. We are working on corrections.**</mark>
+
 ![](https://img2.teletype.in/files/1a/f2/1af2d2b9-0315-405d-b378-4560e891fc5a.png)
 
 ## Injective

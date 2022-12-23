@@ -1,5 +1,7 @@
 # Oraichain
 
+<mark style="color:red;">**The English version of CosmoBook is currently available in draft form. We are working on corrections.**</mark>
+
 ![](https://telegra.ph/file/75d2525e66b9c3dcf5910.png)
 
 ## Oraichain

@@ -1,5 +1,7 @@
 # pSTAKE
 
+<mark style="color:red;">**The English version of CosmoBook is currently available in draft form. We are working on corrections.**</mark>
+
 ![](https://img3.teletype.in/files/e5/d0/e5d0156c-0bdf-44ed-a383-f281830802c8.png)
 
 ## pSTAKE

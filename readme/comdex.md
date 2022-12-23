@@ -1,5 +1,7 @@
 # Comdex
 
+<mark style="color:red;">**The English version of CosmoBook is currently available in draft form. We are working on corrections.**</mark>
+
 ![](https://img4.teletype.in/files/34/76/3476854c-7a4c-4ee6-bcdb-d946d0eb9c68.png)
 
 ## Comdex

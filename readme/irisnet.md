@@ -1,5 +1,7 @@
 # IRISnet
 
+<mark style="color:red;">**The English version of CosmoBook is currently available in draft form. We are working on corrections.**</mark>
+
 ![](https://img3.teletype.in/files/2b/a9/2ba9570d-28d8-43fb-9d07-11bf5c547dfa.png)
 
 ## IRISnet

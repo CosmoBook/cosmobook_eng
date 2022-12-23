@@ -1,8 +1,6 @@
 # Agoric
 
-### &#x20;<a href="#wpt1" id="wpt1"></a>
-
-### &#x20;<a href="#0ugm" id="0ugm"></a>
+<mark style="color:red;">**The English version of CosmoBook is currently available in draft form. We are working on corrections.**</mark>
 
 ![](https://img2.teletype.in/files/5e/35/5e356a10-0239-4840-92a1-303cd3c9a9d6.png)
 

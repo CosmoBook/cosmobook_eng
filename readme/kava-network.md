@@ -2,7 +2,7 @@
 
 ![](https://img1.teletype.in/files/c4/79/c4791d3a-8d81-444c-a41e-5513070c0cb5.png)
 
-## Kava Network
+### Kava Network
 
 The Kava Network is a general-purpose network that combines two co-chains - Cosmos co-chain and Ethereum co-chain, and uses the Tendermint Core consensus engine.
 
