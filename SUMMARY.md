@@ -34,3 +34,5 @@
 * [CosmoLinks](readme/cosmolinks.md)
 * [FAQ](faq.md)
 * [Contacts](contacts.md)
+* [Upcoming projects](upcoming-projects/README.md)
+  * [Onomy](upcoming-projects/onomy.md)

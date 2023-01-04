@@ -220,7 +220,7 @@ In the future community governance can also make decisions related to the usage 
 
 ### Distribution & release shedule <a href="#9dt1" id="9dt1"></a>
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
