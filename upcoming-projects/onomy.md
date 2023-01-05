@@ -69,4 +69,22 @@ The recent drama about exchanges continues to rumble on. More and more users are
 
 Onomy’s launch could thus come at a propitious time for the protocol, which recently announced a $10m round in the run up. Users want DeFi where technical complexities are abstracted away. Onomy vows to deliver.&#x20;
 
+### **Links:**
+
+Web-site: [https://www.onomy.io](https://www.onomy.io)
+
+Twitter: [https://twitter.com/onomyprotocol](https://twitter.com/onomyprotocol)
+
+Telegram: [https://t.me/onomyprotocol](https://t.me/onomyprotocol)
+
+Discord: [https://discord.com/invite/onomy](https://discord.com/invite/onomy)
+
+Medium: [https://medium.com/onomy-protocol](https://medium.com/onomy-protocol)
+
+Documentation: [http://docs.onomy.io/](http://docs.onomy.io/)
+
+Litepaper: [https://onomy.io/docs/onomy\_litepaper\_v2.pdf](https://onomy.io/docs/onomy\_litepaper\_v2.pdf)
+
+GitHub: [https://github.com/onomyprotocol/](https://github.com/onomyprotocol/)
+
 \
