@@ -112,7 +112,7 @@ The token performs the following basic network functions:\
 
 The CMDX token is inflationary in nature with a 30% inflation rate in the first year and a subsequent 25% inflation rate reduction in each year with a maximum supply cap of 200,000,000 CMDX.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (3).png" alt=""><figcaption></figcaption></figure>
 
 Airdrop of the CMDX token at [Airdrop.comdex.one](http://airdrop.comdex.one/) for Cosmos ecosystem communities such as Persistence, Cosmos, Terra and Osmosis started on March 7, 2022. Airdrop is put to those who hold/stick XPRT, ATOM, ~~LUNA~~ or OSMO during snapshot.
 

@@ -30,6 +30,8 @@ Traders and users can store all the assets they pick up on the exchange in the O
 
 Onomy has its own native governance token, as befits its status as a layer-1 sovereign blockchain. $NOM confers governance rights over the use of the on-chain treasury and has multiple utilities.
 
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 * Governance: $NOM holders will create and vote on proposals in the Onomy DAO
 * Bridge Fees: Onomy is connected to multiple other blockchains through custom bridges to allow assets freedom of movement. $NOM pays bridge fees for those assets.
 * Staking: $NOM can be staked for advanced rewards in the early epochs of the chain’s life, with those rewards tapering off to a sustainable APY.
@@ -48,6 +50,8 @@ Onomy has its own native governance token, as befits its status as a layer-1 sov
 Upon bridging, native NOM can be staked during the hyperinflationary period to help secure the network and generate additional rewards, with 11 leading validators currently securing the network.&#x20;
 
 Onomy has recently announced a $10M raise from Bitfinex, Avalanche Foundation, CMS Holdings, Galileo, GSR, DWF Labs, Cosmostation, Citadel.One, Forbole, and others.&#x20;
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 With the testnet complete, the mainnet launch live and $NOM now on the market, Onomy Protocol will launch additional products into the wider market. More details about [$NOM, tokenomics and staking](https://medium.com/onomy-protocol/what-is-nom-a6a82057a7df) can be found on Onomy’s Medium.
 

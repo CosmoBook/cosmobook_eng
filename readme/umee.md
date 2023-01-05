@@ -164,7 +164,7 @@ The native UMEE token is also a protocol governance token used to facilitate on-
 
 Different blockchains typically use different versions of tokens. Most tokens can be used across blockchains if converted to the correct format. It’s important to know which type of tokens you are in possession of before interacting with any web3 applications.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 The UMEE token exists in two forms: a Cosmos native version (the native UMEE token) and an ERC-20 token version native to Ethereum. The two forms of UMEE tokens can be freely [converted to one another](https://umeeversity.umee.cc/users/using-the-web-app/transferring-tokens).
 
@@ -222,7 +222,7 @@ In the future community governance can also make decisions related to the usage 
 
 <figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Community <a href="#community" id="community"></a>
 

@@ -1,6 +1,6 @@
 # Quicksilver
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 One of the shortcomings of classic staking is the unbonding period, associated with the time when assets are locked on the native chain.&#x20;
 
@@ -115,7 +115,7 @@ The initial token allocation of the Quicksilver native token, QCK, will be 200 m
 
 It will be allocated as follows:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 Earlier there was information about vesting for founders and investors, but this information is removed from the current tokenomics.
 
