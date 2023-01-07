@@ -163,17 +163,19 @@ If Oraichain will not bail on the oracle boosting, they would be getting somewhe
 
 ### **Links**
 
-**Official docs:**
+**Twitter:** [https://twitter.com/oraichain](https://twitter.com/oraichain)
 
-[https://docs.orai.io](https://docs.orai.io/readme/decentralized-validator-sampling)
+**Telegram:** [https://t.me/oraichain](https://t.me/oraichain)
 
-**OraiChain's Medium:**
+**Discord:** [https://discord.com/invite/wwjg2ddfzd](https://discord.com/invite/wwjg2ddfzd)
 
-[https://oraichain.medium.com/](https://oraichain.medium.com/)
+**Medium:** [https://oraichain.medium.com/](https://oraichain.medium.com/)
 
-**Actual roadmap (2022):**
+**Documentation:** [https://docs.orai.io](https://docs.orai.io/readme/decentralized-validator-sampling)
 
-[https://orai.io/roadmap](https://orai.io/roadmap)
+**GitHub:** [https://github.com/oraichain](https://github.com/oraichain)
+
+**Actual roadmap (2022):** [https://orai.io/roadmap](https://orai.io/roadmap)
 
 **Articles:**
 
