@@ -177,3 +177,5 @@ Treasury: 3 years (0% unlocked).
 * 01.01.2022 - BSC integration;
 * 31.03.2022 - Stablecoin trading for fiat is launched;
 * 31.12.2022 - liquid EEUR and $NGM mining is planned to be launched.
+
+**UPD:** 09.01.2023 e-Money A/S has [decided](https://medium.com/e-money-com/eeur-stablecoin-unwind-cf945820fb3f) to cease issuance of its EUR backed stablecoin (EEUR).
