@@ -16,6 +16,10 @@ Onomy is built principally using the Cosmos SDK. It’s a sovereign, layer-1 blo
 
 Onomy has also built multiple bi-directional bridges to partner blockchains to ensure that loyal liquidity can still interact with Onomy’s Hybrid DEX. Onomy has also created instances of the Onomy Exchange on partner blockchains, meaning that users can still take advantage of the technology without having to bridge their assets to the Onomy Network - although they can at any point. Partner chains include Avalanche, Aurora, Polygon, IOTA, and more, with the Onomy Arc Bridge already compatible with Ethereum and undergoing final IBC testing as it continues to expand the interchain.&#x20;
 
+### Roadmap
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 ### Key Products: The Onomy Exchange and Onomy Access Wallet
 
 The cross-chain functionality is used to ensure the Onomy Exchange can support liquidity pools for just about every asset imaginable. The exchange itself is nothing like a standard DEX, with dramatic changes to ensure Onomy’s ‘fintech shell’ is achieved and to offer traders and liquidity providers a brand new DeFi opportunity.&#x20;
