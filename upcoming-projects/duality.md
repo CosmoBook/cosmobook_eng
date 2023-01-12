@@ -72,6 +72,15 @@ Thanks to the flexibility and features of its AMM, Duality can become a suitable
 
 There is too little information about the project at the moment to prepare a full review. We will follow the updates and add new infirmation as more details emerge. &#x20;
 
-We've concluded that the team knows how to do math and knows how to do AMM (you can check it by reading their Git, the link is in the end of the article), but all of the above is just taken from official sources, it sounds to be pretty good but who knows how it will be in practice).&#x20;
+We've concluded that the team knows how to do math and knows how to do AMM (you can check it by reading their [Git](https://github.com/duality-labs)), but all of the above is just taken from official sources, it sounds to be pretty good but who knows how it will be in practice).&#x20;
 
-Interestingly that Duality has no plans to launch their token in the short term. This means that as for now fees will be paid entirely in $ATOM
+Interestingly that Duality has no plans to launch their token in the short term. This means that as for now fees will be paid entirely in $ATOM.
+
+### Links: <a href="#9fuu" id="9fuu"></a>
+
+1. **Litepaper:** [https://blog.duality.xyz/litepaper/](https://blog.duality.xyz/litepaper/)
+2. **Twitter:** [https://twitter.com/dualityxyz](https://twitter.com/dualityxyz)
+3. **Website:** [www.duality.xyz](http://www.duality.xyz/)
+4. **GitBook:** [https://duality.gitbook.io/duality-documentation/](https://duality.gitbook.io/duality-documentation/)
+5. **Blog:** [https://blog.duality.xyz/](https://blog.duality.xyz/)
+6. **Github:** [https://github.com/duality-labs](https://github.com/duality-labs)
