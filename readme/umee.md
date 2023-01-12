@@ -132,7 +132,7 @@ At each batch in the list relayers will check for the following:
 
 ### Team <a href="#ublf" id="ublf"></a>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Token <a href="#token-utility" id="token-utility"></a>
 
