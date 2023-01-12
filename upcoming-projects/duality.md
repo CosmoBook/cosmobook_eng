@@ -51,17 +51,17 @@ Thus Duality seeks to solve the main problem of liquidity providers who are cons
 
 It's great to see the Cosmos ecosystem attracting talented developers from Ethereum:&#x20;
 
-@eljhfx is a DEX / AMM researcher who previously led a research team and worked with teams such as Balancer & Trader Joe;
+[@eljhfx](https://twitter.com/eljhfx) is a DEX / AMM researcher who previously led a research team and worked with teams such as Balancer & Trader Joe. [https://www.linkedin.com/in/elijah-fox-765a07174/](https://www.linkedin.com/in/elijah-fox-765a07174/);
 
-@nicholasevans14 is an Ethereum OG developer who worked at ConsenSys and was an engineer and co-founder of several successful EVM protocols;
+[@nicholasevans14](https://twitter.com/NicholasEvans14) is an Ethereum OG developer who worked at ConsenSys and was an engineer and co-founder of several successful EVM protocols. [https://www.linkedin.com/in/nicholas-evans-b1592b151/](https://www.linkedin.com/in/nicholas-evans-b1592b151/);
 
-@ronmiasnik is a production/operations specialist. He sold his own startup SaaS (Adora) and has worked at several startups and large tech companies (Microsoft, Houzz, JFrog);
+[@ronmiasnik](https://twitter.com/RonMiasnik) is a production/operations specialist. He sold his own startup SaaS (Adora) and has worked at several startups and large tech companies (Microsoft, Houzz, JFrog). [https://www.linkedin.com/in/ronmiasnik/](https://www.linkedin.com/in/ronmiasnik/);
 
-Duality is supported by @BainCapCrypto, @robotventures, @Galileo\_xyz and @strangelovelabs.
+Duality is supported by [@BainCapCrypto](https://twitter.com/BainCapCrypto), [@robotventures](https://twitter.com/robotventures), [@Galileo\_xyz](https://twitter.com/Galileo\_xyz) and [@strangelovelabs](https://twitter.com/strangelovelabs).
 
 They also work closely with big crypto names:
 
-@alexhevans, @GuilleAngeris, @tarunchitra.&#x20;
+[@alexhevans](https://twitter.com/alexhevans), [@GuilleAngeris](https://twitter.com/GuilleAngeris),[ @tarunchitra](https://twitter.com/tarunchitra).&#x20;
 
 ### What Duality will bring to crypto sphere (according to the Duality team)
 
@@ -79,7 +79,7 @@ We've concluded that the team knows how to do math and knows how to do AMM (you 
 
 Interestingly that Duality has no plans to launch their token in the short term. This means that as for now fees will be paid entirely in $ATOM.
 
-### Links: <a href="#9fuu" id="9fuu"></a>
+### Links <a href="#9fuu" id="9fuu"></a>
 
 1. **Litepaper:** [https://blog.duality.xyz/litepaper/](https://blog.duality.xyz/litepaper/)
 2. **Twitter:** [https://twitter.com/dualityxyz](https://twitter.com/dualityxyz)
