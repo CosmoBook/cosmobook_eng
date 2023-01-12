@@ -32,6 +32,7 @@
   * [Cosmos Airdrops](readme/dropy-kosmosa.md)
 * [Upcoming projects](upcoming-projects/README.md)
   * [Onomy](upcoming-projects/onomy.md)
+  * [Duality](upcoming-projects/duality.md)
   * [UnUniFi Protocol](upcoming-projects/ununifi-protocol.md)
 * [CosmoLinks](readme/cosmolinks.md)
 * [FAQ](faq.md)
