@@ -1,24 +1,27 @@
 # Duality
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Duality** is a decentralized exchange offering users and protocols a wide range of different customizations. Duality is scheduled to launch in 2023 as an app-chain on the Cosmos network. The main idea behind Duality is to create a trading platform that would take all the AMM and Orderbook advantages, but be devoid of their disadvantages.
 
-Probably even newbie degens already know that the simplest formula by which AMM (automatic market maker) can work is the one proposed by Uniswap.
+|      | AMM                                                                                                                      | OrderBook                                                                     |
+| ---- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| Pros | <ol><li>Liveness</li><li>Computational efficiency</li><li>Composability</li></ol>                                        | <ol><li>Capital efficient</li><li>Tried and tested</li><li>Familiar</li></ol> |
+| Cons | <ol><li>Overly complicated</li><li>Unsustainable emissions schemes</li><li>Capital inefficient / high slippage</li></ol> | <ol><li>Computationally inefficient</li><li>Non-composable</li></ol>          |
 
-**x\*y = k**
+Probably even newbie degens already know that the simplest formula by which AMM (automatic market maker) can work is the one proposed by Uniswap:
 
+$$
+x*y = k
+$$
+
+{% hint style="info" %}
 ```
 x – is the number of the first token in the trading pair, 
-```
-
-```
 y – is the number of the second token in the trading pair,
-```
-
-```
 k – is a constant.
 ```
+{% endhint %}
 
 In this way token swap can be simply and conveniently implemented. However this approach requires a lot of liquidity and is prone to so-called price slippage during large purchases or sales. To get rid of these disadvantages of AMM bright crypto minds come up with new mechanics and models (for example, Uniswap V3 or Curve’s Stable Swap). One of the projects developing a better AMM is Duality.
 

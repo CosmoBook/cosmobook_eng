@@ -18,7 +18,7 @@ Onomy has also built multiple bi-directional bridges to partner blockchains to e
 
 ### Roadmap
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Key Products: The Onomy Exchange and Onomy Access Wallet
 

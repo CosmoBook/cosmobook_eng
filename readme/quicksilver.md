@@ -115,7 +115,7 @@ The initial token allocation of the Quicksilver native token, QCK, will be 200 m
 
 It will be allocated as follows:
 
-<figure><img src="../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Earlier there was information about vesting for founders and investors, but this information is removed from the current tokenomics.
 
