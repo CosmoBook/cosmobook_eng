@@ -38,6 +38,7 @@
 * [https://omniflix.co/home](https://omniflix.co/home)
 * [https://ping.pub/](https://ping.pub/)
 * [https://stake.tax/](https://stake.tax/)
+* [https://cosmosrun.info/](https://cosmosrun.info/)
 
 ### DeFi aggregators:
 
