@@ -41,3 +41,4 @@ Use this telegram bot: [@Free\_dVPN\_Bot](https://t.me/@Free\_dVPN\_Bot)
 |              |                  | e-Money (NGM)        | Stride (STRD)   |                 |
 |              |                  | SifChaine (ROWAN)    | Iris            |                 |
 |              |                  | Persistence (XPRT)   | Teritori (TORI) |                 |
+|              |                  | Onomi (NOM)          | ORAI            |                 |
