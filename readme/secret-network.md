@@ -106,6 +106,7 @@ Secret NFTs are NFTs with programmable privacy features. With Secret NFTs verifi
 
 **dApps**&#x20;
 
+* [Citadel.one](https://citadel.one/platform)
 * [Fina ](https://scrt.network/blog/secret-feature-fina-wallet)Wallet
 * [Leap](https://scrt.network/blog/secret-feature-leap-mobile-wallet) Wallet
 * [CertUP](https://certup.net/)&#x20;
