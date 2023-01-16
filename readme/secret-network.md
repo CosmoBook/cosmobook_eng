@@ -40,8 +40,6 @@ Another important advantage of Secret Network is the inability to use frontrunni
 
 <figure><img src="../.gitbook/assets/slide 15.png" alt=""><figcaption><p>credit: <a href="https://twitter.com/ertemann/status/1537486112196804610">https://twitter.com/ertemann/status/1537486112196804610</a></p></figcaption></figure>
 
-You can watch the [video](https://www.youtube.com/watch?v=LVopimoM8Jk) (time-code 1:27:00) with Anton Pavlutsky, CEO of Citadel.one, to learn more about the features and capabilities of Secret Network
-
 ### **Validators**
 
 The default number of validator nodes in the Secret Network is 50, with the possibility for more nodes to join the network after a modification to the protocol parameters has been agreed upon.
@@ -82,37 +80,29 @@ Secret NFTs are NFTs with programmable privacy features. With Secret NFTs verifi
 
 #### **DeFi on the Secret Network:**
 
-\- [Shade Protocol](https://shadeprotocol.io/);
-
-\- [SiennaSwap](https://sienna.network/swap/);
-
-\- [SecretSwap](https://secretswap.net/);
-
-\- [SecretBridges](https://bridge.scrt.network/);
-
-\- [Hydro Finance](https://hydro.finance/);
-
-\- [BlackBox](https://blackbox.cash/);
-
-\- [Secret Auctions](https://hydro.finance/).
+* [Shade Protocol](https://shadeprotocol.io/);
+* &#x20;[SiennaSwap](https://sienna.network/swap/);
+* &#x20;[SecretSwap](https://secretswap.net/);
+* &#x20;[SecretBridges](https://bridge.scrt.network/);
+* &#x20;[Button Swap](https://btn.group/secret\_network/button\_swap)
+* &#x20;[BlackBox](https://blackbox.cash/);
+* &#x20;[Secret Auctions](https://hydro.finance/);
+* [Blizzard Finance](https://blizzard.finance/).
 
 #### **NFTs on the Secret Network:**
 
 * [Stashh](https://stashh.io/);
-* [SecretDAO](https://secretdao.com/);
-* [Chameleon Ville](https://chameleonville.com/).
+* [Actilist](https://test.actilist.io/) (testnet).
 
 #### **Communication on the Secret Network:**
 
-* [Alter](https://chameleonville.com/);
-* [Fardels](https://chameleonville.com/).
+* [Alter](https://alter.network/);
+* [Fardels](https://fardels.network/explore).
 
 #### **Games on the Secret Network:**
 
-* [Legendao](https://legendao.io/);
-* [Secret Dreamscape](https://twitter.com/SCRTDreamscape);
-* [Orbem Wars](https://twitter.com/DomeriumLabs);
-* [Secret Heroes](https://secrethero.es/connect).
+* [Lorem Ipsum](https://geeks.pics/);
+* [Bushi](https://www.launchonenet.io/).
 
 #### **Main resources:**
 
@@ -123,8 +113,10 @@ Secret NFTs are NFTs with programmable privacy features. With Secret NFTs verifi
 * [Instagram](https://www.instagram.com/scrtnetwork/)
 * [Twitter](https://twitter.com/SecretNetwork)
 * [GitHub](https://github.com/SecretFoundation/SecretWebsite)
+* [Discord](http://chat.scrt.network)
 * [Forum](https://forum.scrt.network/)
-* [Telegram](https://t.me/scrt\_russia)
+* [Telegram](https://t.me/SCRTCommunity)
+* [Docs](https://docs.scrt.network/secret-network-documentation/)
 
 ### **UPD:**
 
