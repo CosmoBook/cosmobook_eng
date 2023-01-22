@@ -105,7 +105,7 @@ Inflation in the first year will be 65% and then will drop by 25% every year. Th
 
 The tokens will be allocated as follows:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 This allocation can be changed at the discretion of the QCK token holders through a governance proposal.
 
