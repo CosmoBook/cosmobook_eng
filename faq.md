@@ -42,3 +42,4 @@ Use this telegram bot: [@Free\_dVPN\_Bot](https://t.me/@Free\_dVPN\_Bot)
 |              |                  | SifChaine (ROWAN)    | Iris            |                 |
 |              |                  | Persistence (XPRT)   | Teritori (TORI) |                 |
 |              |                  | Onomi (NOM)          | ORAI            |                 |
+|              |                  | Planq                |                 |                 |
