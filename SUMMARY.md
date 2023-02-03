@@ -9,7 +9,7 @@
   * [Axelar Network](readme/axelar-network.md)
   * [Evmos](readme/evmos.md)
   * [Umee](readme/umee.md)
-  * [Page 1](readme/page-1.md)
+  * [Stride](readme/stride.md)
   * [Cronos](readme/cronos.md)
   * [Sifchain](readme/sifchain.md)
   * [Stargaze](readme/stargaze.md)

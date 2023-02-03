@@ -1,4 +1,4 @@
-# Page 1
+# Stride
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ Let's take a closer look at the whole staking process using ATOM as an example
 
 **Step 3.** User receives stATOM tokens
 
-**Step 4.** User can send his stATOM tokens to any Cosmos zone (but most often to Osmosis) for all available DeFi activities&#x20;
+**Step 4.** User can send his stATOM tokens to any Cosmos zone (but most often to Osmosis) for all available DeFi activities.
 
 ### Native token stacking and reward generation
 
@@ -66,9 +66,10 @@ Users can request withdrawal of their native tokens at any time by selecting the
 
 **\*\*** 10% of the staking rewards is the only commission Stride takes.
 
-### &#x20;A step-by-step guide how to use the Stride platform (Keplr Wallet and ATOM tokens as examples)
+<details>
 
-\
+<summary>How to use the Stride platform (via Keplr Wallet)</summary>
+
 If you love to watch video guides more here is the link to Youtube [video gide](https://www.youtube.com/watch?v=Y-1snnqBx-0)
 
 The whole process is as simple as possible and takes just a few minutes.
@@ -77,27 +78,29 @@ The whole process is as simple as possible and takes just a few minutes.
 
 2. Connect your wallet.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/image (8).png" alt="" data-size="original">
 
 The following wallets are available to choose from, we use Keplr Wallet
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/image (17).png" alt="" data-size="original">
 
 3\. Once the wallet is connected we enter the number of tokens we want to stake. As mentioned above you can stake any amount even the smallest. Then press Liquid Stake.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/image (10).png" alt="" data-size="original">
 
 4. A menu appears showing the next steps we have to go through after we click Start Staking. Everything will happen automatically, we just need to give our approval for the transfer. There are essentially only 2 steps here not 4 - transferring ATOM from Cosmos Hub to the Stride network and staking ATOM. The whole process took us about a minute but may takes a little longer if the network is overloaded.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/image (11).png" alt="" data-size="original">
 
 5. Our ATOMs are staked, we will soon be rich, but to speed up our enrichment process we can send our stATOMs in available liquidity pools and receive a certain APR. Remember that providing liquidity to pools has some risks and the APR can change!
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/image (5).png" alt="" data-size="original">
 
 The process is also quite fast and intuitive. But we decided not to do any DeFi degen things as for now but to continue the review of the Stride.
 
 6\.  When you decide to unstake your ATOM, you should go to the Unstake menu and start a reverse process. Keep in mind that the unbonding period is from 21 to 24 days, if you urgently need to get your ATOM back, you can swap stATOM to ATOM on Osmosis or another DEX that has this trading pair.&#x20;
+
+</details>
 
 ### Stride's roadmap and plans for 2023
 
@@ -141,7 +144,9 @@ Read more about the of STRD distribution [here](https://stride.zone/blog/stride-
 
 STRD token as many other tokens on the Cosmos ecosystem has both governance and utility functions. As mentioned above, 10% of the liquid-stacking rewards go to the protocol. Initially all of these rewards will go to the Stride Foundation but STRD holders may vote for any other distribution of these rewards in the future\*. STRD holders also vote on key decisions such as choosing a set of validators, "weight" of those validators, distributing rewards, managing community pool funds, adding new features to the protocol and so on.
 
-\*At the end of January STRD holders voted that 100% of the commission for Stride’s services would go as rewards to STRD holders.
+{% hint style="info" %}
+At the end of January STRD holders voted that 100% of the commission for Stride’s services would go as rewards to STRD holders.
+{% endhint %}
 
 ### Links
 
