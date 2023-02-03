@@ -1,6 +1,6 @@
 # Duality
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Duality** is a decentralized exchange offering users and protocols a wide range of different customizations. Duality is scheduled to launch in 2023 as an app-chain on the Cosmos network. The main idea behind Duality is to create a trading platform that would take all the AMM and Orderbook advantages, but be devoid of their disadvantages.
 

@@ -30,7 +30,7 @@ The reasons come from three characteristics of smart contracts as follows:
 
 First of all, it is important to remember how the oracles work: a user requests the execution of a contract, that on-chain requests an oracle contract. The contract, in turn, requests the oracle server (off-chain), which is connected to the outside world. Then in reverse order.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (4).png" alt=""><figcaption></figcaption></figure>
 
 To better understand oracles' working principles, we recommend exploring this [article](https://research.thetie.io/blockchain-oracle-comparison/)**.**
 

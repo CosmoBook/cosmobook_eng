@@ -1,6 +1,6 @@
 # Quicksilver
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 One of the shortcomings of classic staking is the unbonding period, associated with the time when assets are locked on the native chain.&#x20;
 

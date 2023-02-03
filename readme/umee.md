@@ -6,7 +6,7 @@
 
 ### Foundations and partners <a href="#ubip" id="ubip"></a>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 Umee raised $18M at $0.0048 from funds.\
 The first round on Coinlist raised $18M at $0.06 and the second round raised $14M at $0.07.\
@@ -222,7 +222,7 @@ In the future community governance can also make decisions related to the usage 
 
 <figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Community <a href="#community" id="community"></a>
 

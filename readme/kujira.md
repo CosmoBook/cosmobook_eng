@@ -42,7 +42,7 @@ Fast block generation is especially important for FIN, as it is a DEX based on o
 
 ### **Kujira ecosystem** <a href="#lv40" id="lv40"></a>
 
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **FIN by Kujira** <a href="#el6t" id="el6t"></a>
 

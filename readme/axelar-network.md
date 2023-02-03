@@ -14,7 +14,7 @@ The main goals of Axelar:
 
 \- Allow users to easily and conveniently interact with decentralized applications on various platforms.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 The Axelar network consists of three main components operating at two functional levels (network level and smart contract level):
 

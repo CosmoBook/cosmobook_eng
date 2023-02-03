@@ -1,6 +1,6 @@
 # Onomy
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 With all the current headlines in the industry about failing exchanges, more and more users are taking self-custody of their funds. The market is crying out for a DEX which feels to retail users exactly like a CEX, but which takes advantage of all of cryptocurrency’s innate decentralised potential. Having an orderbook on a DEX that transacts with lightning throughput cross-chain, alongside a non-custodial wallet that does not force you to rely on multiple browsers and wallet extensions are an essential piece of the jigsaw for crypto’s mainstream adoption.&#x20;
 

@@ -97,7 +97,7 @@ Gravity groups can be divided into the following categories:&#x20;
 
 Instead of a corporation or a board of insiders, each Gravity group or sub-DAO will elect a representative to become a member of Gravity Grants and sign 2/3 multisig. After the original members have served their term, new members must be elected at least once a year, or a special election may be scheduled through the board. These members evaluate the completion of Gravity Grants and release the remaining funds.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Airdrop**
 
