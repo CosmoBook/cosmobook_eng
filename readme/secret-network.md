@@ -111,6 +111,7 @@ Secret NFTs are NFTs with programmable privacy features. With Secret NFTs verifi
 * [Leap](https://scrt.network/blog/secret-feature-leap-mobile-wallet) Wallet
 * [CertUP](https://certup.net/)&#x20;
 * [StakeEasy](https://www.stakeeasy.finance/)&#x20;
+* [Starshell](https://install.starshell.net/)
 
 #### **Main resources:**
 
