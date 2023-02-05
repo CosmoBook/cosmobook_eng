@@ -78,12 +78,6 @@ Meanwhile, Takumi Asano a.k.a the whale, claimed that Juno's price was falling b
 
 Note that this is the first community decision in the history of crypto to shave a whale, not hamsters:)
 
-### Faults <a href="#uyazvimosti" id="uyazvimosti"></a>
-
-On April 5, 2022, the blockchain suspended operation due to a deployed smart contract disguised as a classic "Hello, World!" The vulnerability affected all blockchains using CosmWasm.
-
-This, by the way, happened less than a month after the sensational 16th sentence.
-
 ### **Vulnerabilities**
 
 On April 5, 2022, the blockchain went offline because of a deployed smart contract, disguised as a classic "Hello, World!". The vulnerability impacted all blockchains that use the CosmWasm. This, by the way, happened less than a month after the sensational Proposal #16.
