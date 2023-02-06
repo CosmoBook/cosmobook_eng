@@ -90,7 +90,7 @@ The following wallets are available to choose from, we use Keplr Wallet
 
 4. A menu appears showing the next steps we have to go through after we click Start Staking. Everything will happen automatically, we just need to give our approval for the transfer. There are essentially only 2 steps here not 4 - transferring ATOM from Cosmos Hub to the Stride network and staking ATOM. The whole process took us about a minute but may takes a little longer if the network is overloaded.
 
-<img src="../.gitbook/assets/image (11).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (11) (5).png" alt="" data-size="original">
 
 5. Our ATOMs are staked, we will soon be rich, but to speed up our enrichment process we can send our stATOMs in available liquidity pools and receive a certain APR. Remember that providing liquidity to pools has some risks and the APR can change!
 

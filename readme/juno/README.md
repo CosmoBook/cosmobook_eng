@@ -84,11 +84,11 @@ On April 5, 2022, the blockchain went offline because of a deployed smart contra
 
 ### **Ecosystem**
 
-Now the Juno ecosystem consists of about 50 applications. Among big protocols - JunoSwap (DEX), DAODAO (DAO creation toolkit), TFM (DEX aggregator), JunoMint (DAPP to mint your token on JUNO), StrangeClan (p2e game on u5 engine).
+Now the Juno ecosystem consists of about 50 applications. Among big protocols - [WYND](https://app.wynddao.com) (DEX), which replaces Junoswap (DEX) (decided in prop 18 RAW DAO, details [here](https://www.rawdao.zone/vote/18)), DAODAO (DAO creation toolkit), TFM (DEX aggregator), JunoMint (DAPP to mint your token on JUNO), StrangeClan (p2e game on u5 engine).
 
-There are strange things here too: JunoSwap is still in beta. This is probably because of the complicated development on CosmWasm. It's one thing to create Uniswap/Sushiswap on EVM, but another is to write from scratch. Github looks pretty good, but UI-designers should learn from Osmosis. At the moment, UI looks like this:
+WIND's UI looks much nicer than Junoswap's, hopefully the product will be well developed and successful:
 
-![](https://telegra.ph/file/5d2def098abd1560492d2.png)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 What we have in the end: a blockchain focused on the development of fast contracts, but probably too innovative to this day.
 
