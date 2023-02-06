@@ -94,6 +94,9 @@ What we have in the end: a blockchain focused on the development of fast contrac
 
 ### Links <a href="#ssylki" id="ssylki"></a>
 
-1. You can check the current blockchain statistics on the [dashboard](https://monitor.bronbro.io/d/juno-stats/juno-stats?orgId=2\&refresh=5s) from Bro’n’Bro
-2. Get to know more about the ecosystem [here](https://www.junonetwork.io/ecosystem/)
-3. [Official docs](https://docs.junonetwork.io/)
+1. Site: [https://www.junonetwork.io/](https://www.junonetwork.io/)
+2. Docs: [https://docs.junonetwork.io/juno/readme](https://docs.junonetwork.io/juno/readme)
+3. GitHub: [https://github.com/CosmosContracts](https://github.com/CosmosContracts)
+4. Discord: [https://discord.com/invite/Juno](https://discord.com/invite/Juno)
+5. Twitter: [https://twitter.com/JunoNetwork](https://twitter.com/JunoNetwork)
+6. Dashboard by Bro’n’Bro: [https://monitor.bronbro.io/d/juno-stats/juno-stats?orgId=2\&refresh=5s](https://monitor.bronbro.io/d/juno-stats/juno-stats?orgId=2\&refresh=5s)
