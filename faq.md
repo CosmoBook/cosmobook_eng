@@ -36,7 +36,7 @@ Use this telegram bot: [@Free\_dVPN\_Bot](https://t.me/@Free\_dVPN\_Bot)
 |              | Umee             | Sommelier (SOMM)     | Regen           |                 |
 |              | Kujira (KUJI)    | GravityBridge (GRAV) | Kava            |                 |
 |              | Nomic (NOM)      | Cryrto.org (CRO)     | Agorik (BLD)    |                 |
-|              |                  | Certik (CTK)         | Likecoin (LIKE) |                 |
+|              | Mars Protocol    | Certik (CTK)         | Likecoin (LIKE) |                 |
 |              |                  | Bitsong (BTSG)       | Rebus           |                 |
 |              |                  | e-Money (NGM)        | Stride (STRD)   |                 |
 |              |                  | SifChaine (ROWAN)    | Iris            |                 |
