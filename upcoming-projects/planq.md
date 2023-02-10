@@ -62,7 +62,32 @@ Planq's governance infrastructure allows all holders to vote on the operation of
 
 ### Tokenomics <a href="#5u1m" id="5u1m"></a>
 
+The initial supply of PLANQ is 100,000,000 $PLANQ. Within the first year, this will increase by 13,500,000 $PLANQ for a total of 113,500,000 $PLANQ. While minted, not all tokens will be in distribution straight away. Inflation will be distributed to stakers and validators of the $PLANQ blockchain as block rewards.
+
 <figure><img src="https://img2.teletype.in/files/58/19/5819998f-ef6c-4e0e-b28b-24123d6cbb1b.png" alt=""><figcaption></figcaption></figure>
+
+First 100 million $PLANQ minted at genesis will be distributed & unlocked over a +- 2-year timespan.
+
+The minted supply (blue line) is locked up, and at the **end of each month**, approximately 3,7% of the token will be distributed between:
+
+* The founders/team: 833K Per month
+* The Treasury: 1M per month
+* The community pool: 1M Per month
+* Advisors: 872K per month
+
+This brings us to a token unlock of 3,705,000 (or 3,7% of total genesis supply) tokens a month, not including inflation.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Interactive version to be found on: <a href="https://planq.network/whitepaper#tokenomics">https://planq.network/whitepaper#tokenomics</a> Source: <a href="https://static.planq.network/whitepaper.pdf">https://static.planq.network/whitepaper.pdf</a></p></figcaption></figure>
+
+All tokens from genesis will be unlocked in February 2025, if tokenomics do not change from governance before that date, a new proposal will be made to fund the pools above.
+
+#### **Block Rewards**
+
+As for block rewards, 2% of all block rewards are sent to the community pool. 98% will be distributed to stakers and validators of the $PLANQ network. For further insight in how the PLANQ framework distributes staking rewards, click [here](https://docs.cosmos.network/main/modules/distribution#the-distribution-scheme).
+
+#### **Community pool**
+
+1 Million tokens were donated to the community pool in December. These 1 Million came from the block rewards the Foundation validator received in the first month of its lifespan.
 
 ### **Roadmap** <a href="#3ddt" id="3ddt"></a>
 

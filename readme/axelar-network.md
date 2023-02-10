@@ -155,7 +155,7 @@ Where is the money flowing?
 
 Out of the $127.0M in TVL, 53% it comes from $USDC volume.
 
-<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Read more about Axelar's results for the first 6 months [here](https://twitter.com/Flowslikeosmo/status/1582174643900715008?s=20\&t=qjR-Xluj5LTf9\_lz9c4ujw).
 
