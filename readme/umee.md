@@ -1,6 +1,6 @@
 # Umee
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Umee** __ is a Cosmos-based [decentralized finance](https://umeeversity.umee.cc/learn-the-basics/defi-basics/what-is-defi) hub supporting a suite of composable debt primitives that will enable the next generation of global debt markets. As a [base layer blockchain](https://umeeversity.umee.cc/learn-the-basics/blockchain-basics/what-is-blockchain), applications and money lego primitives can be built on top of Umee to access cross chain leverage and liquidity. The Umee Blockchain facilitates interoperability between the [Cosmos ecosystem](https://umeeversity.umee.cc/learn-the-basics/cosmos-basics/what-is-cosmos), Ethereum network, side chain architectures, layer two scaling solutions, and alternative base layer protocols.
 
@@ -53,7 +53,7 @@ _Traditional debt market fundamentals will provide Umee with the basis to create
 * _A term structure that uses time-to-maturity and credit-worthiness to determine rates;_
 * _The crypto format for debt primitives such as notes, bills, bonds, CDS, structured products, and other assets._
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### A Suite of Products and Features for Optimal Performance <a href="#a-suite-of-products-and-features-for-optimal-performance" id="a-suite-of-products-and-features-for-optimal-performance"></a>
 
@@ -220,7 +220,7 @@ In the future community governance can also make decisions related to the usage 
 
 ### Distribution & release shedule <a href="#9dt1" id="9dt1"></a>
 
-<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

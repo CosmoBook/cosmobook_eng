@@ -1,6 +1,6 @@
 # ASTROPORT
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Astroport is a decentralized exchange that supports both classic (x\*y=k) swaps and stable swaps (x+y=k). The main innovation of Astroport is the Astro Generators.\
 
@@ -13,7 +13,7 @@ Astroport also supports limit orders for both buying and selling.
 
 ### The history of the project's launch <a href="#mzxw" id="mzxw"></a>
 
-The project was first announced on July 12, 2021 in an article on Medium.
+The project was first announced on July 12, 2021 in an article on [Medium](https://astroport.medium.com/introducing-astroport-a-next-generation-amm-on-terra-119d94a061e4).
 
 The project does not have a fund and the team is anonymous.
 
@@ -43,7 +43,7 @@ Astro Generators is a program that allows connecting to other protocols to the A
 
 In turn, Astroport receives greater interest from users, other projects receive liquidity, and liquidity providers in Astroport receive much higher returns.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ### Token
 
@@ -55,9 +55,11 @@ One third of all the fees collected by Astroport go to the owners of the xASTRO 
 
 xASTRO can be exchanged 1:1 for ASTRO at any time. There is no lock-up period for unstaking, and the withdrawal is instant.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Token distribution of ASTROC. After the lock-up, the community will have 110 million ASTROC (11% of the total supply), and another 49% of tokens are meant to be distributed among LP Astroport over 69 years. 10% of the reserve is reserved for the Astral Assembly. The rest is allocated to the Astroport Builders who have a 3-year lock-up.
+### Token distribution of ASTROC.&#x20;
+
+After the lock-up, the community will have 110 million ASTROC (11% of the total supply), and another 49% of tokens are meant to be distributed among LP Astroport over 69 years. 10% of the reserve is reserved for the Astral Assembly. The rest is allocated to the Astroport Builders who have a 3-year lock-up.
 
 The total supply of ASTROC is 1B.
 
@@ -72,6 +74,8 @@ The maximum supply of ASTRO is 1.1B.
 ASTRO's maximum offer is 1.1B.
 
 <figure><img src="https://img3.teletype.in/files/66/0a/660aceec-0eb0-438d-8300-943d7bfeb36f.png" alt=""><figcaption></figcaption></figure>
+
+### Token emission
 
 The charts are presented schematically:
 

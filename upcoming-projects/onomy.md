@@ -28,7 +28,7 @@ For traders, the Onomy Exchange feels just like a CEX, with market orders, limit
 
 However, the AMM does capture the spread between the bid and the asks, pocketing the difference akin to a market maker. Unlike a market maker, those profits are used to reward liquidity providers to the exchange’s pools, and to programmatically buy back and burn $NOM. The pleasure of using a DEX with CEX features will be stark, and traders will certainly love it.&#x20;
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (4).png" alt=""><figcaption></figcaption></figure>
 
 Traders and users can store all the assets they pick up on the exchange in the Onomy Access wallet. The wallet is designed to feel like a classic app, with biometric log-in, qr codes for transactions, and more. Under the hood, the wallet is capable of storing all assets from Cosmos, as well as assets from all partner chains and from Ethereum. The wallet also allows users to participate in staking and governance directly from the wallet itself, with additional functions to be deployed by builders interested in deploying on Onomy, after successful DAO votes.&#x20;
 
