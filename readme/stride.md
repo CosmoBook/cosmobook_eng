@@ -38,7 +38,7 @@ Let's take a closer look at the whole staking process using ATOM as an example
 
 ### Native token stacking and reward generation
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 **Step 1.** Every epoch (once every 6 hours) Stride sends ATOM tokens from the Module Account to the Delegation ICA (delegation interchain account) on the Cosmos Hub network. Stride makes a corresponding record in the depositRecord with the status of 'Stake'. (\*as we understand at this stage tokens are only received in the Cosmos Hub network but not yet staked).
 

@@ -10,6 +10,7 @@
   * [Evmos](readme/evmos.md)
   * [Umee](readme/umee.md)
   * [Stride](readme/stride.md)
+  * [Canto](readme/canto.md)
   * [Cronos](readme/cronos.md)
   * [Sifchain](readme/sifchain.md)
   * [Stargaze](readme/stargaze.md)

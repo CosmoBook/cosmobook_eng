@@ -77,7 +77,7 @@ The minted supply (blue line) is locked up, and at the **end of each month**, ap
 
 This brings us to a token unlock of 3,705,000 (or 3,7% of total genesis supply) tokens a month, not including inflation.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Interactive version to be found on: <a href="https://planq.network/whitepaper#tokenomics">https://planq.network/whitepaper#tokenomics</a> Source: <a href="https://static.planq.network/whitepaper.pdf">https://static.planq.network/whitepaper.pdf</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Interactive version to be found on: <a href="https://planq.network/whitepaper#tokenomics">https://planq.network/whitepaper#tokenomics</a> Source: <a href="https://static.planq.network/whitepaper.pdf">https://static.planq.network/whitepaper.pdf</a></p></figcaption></figure>
 
 All tokens from genesis will be unlocked in February 2025, if tokenomics do not change from governance before that date, a new proposal will be made to fund the pools above.
 
