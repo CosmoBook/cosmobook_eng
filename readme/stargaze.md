@@ -79,7 +79,7 @@ According to Stargaze, it has:
 
 It should be noted that today Stargaze is one of the Cosmos leaders by IBC transactions volume.
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Stargaze official channels:&#x20;
 

@@ -1,6 +1,6 @@
 # Canto
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 The Canto concept is built around the idea of creating true decentralization.
 

@@ -53,7 +53,7 @@ Tendermint connects to the application layer using a protocol called the Applica
 
 Cosmos SDK is an open-source framework for creating permissionless PoS blockchains like Cosmos Hub, or permissioned Proof-of-Authority (PoA) blockchains.
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Cosmos SDK allows developers to create their own customized blockchains that are compatible with other blockchains in the ecosystem by default, using ready-built modules and toolsets. In doing so, each developer can create a new module and it will be available to all of the other developers.
 

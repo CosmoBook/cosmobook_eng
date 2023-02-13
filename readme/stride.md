@@ -78,11 +78,11 @@ The whole process is as simple as possible and takes just a few minutes.
 
 2. Connect your wallet.
 
-<img src="../.gitbook/assets/image (8).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (8) (4).png" alt="" data-size="original">
 
 The following wallets are available to choose from, we use Keplr Wallet
 
-<img src="../.gitbook/assets/image (17).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (17) (5).png" alt="" data-size="original">
 
 3\. Once the wallet is connected we enter the number of tokens we want to stake. As mentioned above you can stake any amount even the smallest. Then press Liquid Stake.
 
@@ -94,7 +94,7 @@ The following wallets are available to choose from, we use Keplr Wallet
 
 5. Our ATOMs are staked, we will soon be rich, but to speed up our enrichment process we can send our stATOMs in available liquidity pools and receive a certain APR. Remember that providing liquidity to pools has some risks and the APR can change!
 
-<img src="../.gitbook/assets/image (5).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (5) (4).png" alt="" data-size="original">
 
 The process is also quite fast and intuitive. But we decided not to do any DeFi degen things as for now but to continue the review of the Stride.
 

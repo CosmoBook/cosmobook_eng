@@ -10,6 +10,7 @@
   * [Evmos](readme/evmos.md)
   * [Umee](readme/umee.md)
   * [Stride](readme/stride.md)
+  * [Mars Protocol](readme/mars-protocol.md)
   * [Canto](readme/canto.md)
   * [Cronos](readme/cronos.md)
   * [Sifchain](readme/sifchain.md)

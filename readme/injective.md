@@ -41,7 +41,7 @@ The Injective team has a web page dedicated exclusively to their labs. Visit it 
 * 25.05.2022 Injective Labs [announced](https://blog.injective.com/defi-injective-adds-solana-avalanche-polygon-interoperability-with-wormhole-integration/) the integration of Wormhole, a messaging protocol, into the Injective ecosystem. The integration will allow decentralized applications (dApps) in the Injective ecosystem to connect with Algorand, Avalanche, BNB Chain, Fantom, Oasis, Polygon and Solana blockchains.
 * \- From June 3rd, 2022 you can start transferring assets from Polkadot using [**Injective Bridge** ](https://hub.injective.network/bridge)(thanks to integration with Moonbeam and Axelar) (details [here](https://blog.injective.com/injective-integrates-polkadot-assets-to-expand-the-cross-chain-cosmos-universe/))
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Injective consists of several key components.
 

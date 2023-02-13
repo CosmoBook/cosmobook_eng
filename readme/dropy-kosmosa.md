@@ -67,7 +67,7 @@ Cosmos airdrops can be very generous (and ridiculous too). There are some amazin
 * Neta - around $30,000 for staking 25 $JUNO and participating in at least one governance proposal (again, the price rate has been killed by now).
 * And finally, a sensational (fat) “rektdrop” from EVMOS, which has been split into four stages. Someone managed to get 500+ $EVMOS at the price above $6 after the launch and until April 29, 2022. Of course, some of the tokens were sold right away, and the rest that was left to be claimed was trading at a lower price. And what is special about this airdrop - Metamask and Ethereum users were eligible for the airdrop too.
 
-<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The airdrops I claimed (Genesis $L1, ORAI, Diffusion) distributed a penny. I can't tell if it's just my bad luck, the bear market, or if it's a general trend to airdrop cost reduction (I've been in the Cosmos ecosystem since May 5, 2022 and my positions are still very modest).
 
