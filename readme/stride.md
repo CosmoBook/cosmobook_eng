@@ -52,7 +52,7 @@ In the next epoch staking rewards for the current epoch will first go to the Wit
 
 Users can request withdrawal of their native tokens at any time by selecting the "Redeem" option on the Stride website. Stride sends a withdrawal request and at the end of the unbonding period native tokens will go to the user's wallet.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 **Step 1.** The user initiates a redeem process. The stATOMs are sending to the Module Account.
 

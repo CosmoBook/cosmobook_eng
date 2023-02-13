@@ -113,7 +113,7 @@ Akash network was launched in March 2021. In April 2022 there was a big update o
 
 Look at how many dapps are going to Akash, I was impressed:
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **$AKT** <a href="#13hx" id="13hx"></a>
 

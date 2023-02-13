@@ -23,7 +23,7 @@ The team decided to launch its own appchain because there is a problem of liquid
 
 Architecture Mars Hub. Currently, only OUTPOST 1 (Osmosis) has been launched, where all features of Mars are gradually being introduced and tested.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>OUTPOST architecture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>OUTPOST architecture</p></figcaption></figure>
 
 It is important to note that Mars Hub does not store liquidity for OUTPOST, but rather manages the activity that takes place on OUTPOST. In other words, if you want to use the Osmosis OUTPOST, you do not need to deposit money into the Mars network. Mars Hub manages all OUTPOST smart contracts, receives commissions from OUTPOST and distributes them among the Mars management participants. Mars Hub can be compared to a franchising company: it sets standards but leaves the interaction with customers to the discretion of individual divisions (in our case, networks). Similarly, traders and other market participants who are not interested in management are unlikely to interact with Mars Hub. Instead, the Hub serves as a coordination mechanism in the background, while users directly interact with the liquidity aggregated on each of the Mars OUTPOSTs.
 
@@ -57,7 +57,7 @@ Mars Contributors include both investors and the team. These 30% will not start 
 
 ### Roadmap <a href="#z5et" id="z5et"></a>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 On February 8, 2023, the first OUTPOST was launched on Osmosis, and preparations are underway for the launch of C2C.
 
