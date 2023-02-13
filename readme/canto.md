@@ -60,7 +60,7 @@ To prevent the possibility of predatory evolution towards a money chase, Canto D
 
 Canto DEX is an AMM and supports classic xy=k swaps and concentrated liquidity pools.
 
-To provide liquidity on Canto DEX, users can supply liquidity on the website. Users who provide liquidity receive LP tokens, which can be used in CLM.
+To provide liquidity on Canto DEX, users can supply liquidity on the [website](https://canto.io/lp). Users who provide liquidity receive LP tokens, which can be used in CLM.
 
 The list of possible liquidity pools can be found below:
 
