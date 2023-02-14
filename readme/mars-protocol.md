@@ -2,22 +2,25 @@
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-The vision of Mars is built on Contract-2-Contract (C2C) lending, which allows smart contracts integrated with Mars to borrow assets from Red Bank for a pre-determined purpose. This will allow for the use of more funds and their more efficient utilization. For example, C2C will be deployed on Osmosis, allowing users to take an OSMO loan for farming LP on Osmosis with leverage, i.e. increasing their OSMO position for greater impact.
+The vision of Mars is built on Contract-2-Contract (C2C) lending, which allows smart contracts integrated with Mars Protocol to borrow assets from Red Bank for a pre-determined purpose. This approach provides possibility to use more funds and do it more efficiently. For example, when C2C will be deployed on Osmosis, users will be able to take an OSMO loan for farming LP on Osmosis with leverage, i.e. increasing their OSMO position this way.
 
 Red Bank is the place where all user interactions with the Mars Hub occur. This is where we deposit, take out loans, and select C2C strategies.
 
-In Mars, there is also the concept of a Rover - account. This is a single account that reflects the overall collateralization of all open user positions and all utilized strategies. Rover - accounts were created for the optimization of lender operations, the resolution of cross-marginal C2C strategy problems, and for the convenience of managing one's positions.
+In Mars there is also the concept of a Rover account. Rover accounts were created to optimize lender’s operations, resolve the cross-marginal C2C strategy problems and improve usability of user’s positions management.
 
-This architecture provides users with the ability to cross-collateralize various strategies with leverage in a single account with a single LTV (Loan-to-Value). It's important to note that in addition to general collateralization between C2C strategies, Rover - accounts can also be integrated with other DeFi. This allows users to interact with any dApp integrated into the Mars Protocol with a single LTV at the account level. Rover - accounts will be represented as NFTs, and the wallet can contain several separate Rover -accounts, similar to sub-accounts on CEX. Rover - accounts create a "unified" DeFi experience as users will be able to access their favorite tokens, farms, and other protocols using leverage on Mars..
+This architecture provides users with the ability to cross-collateralize various strategies with leverage in a single account with a single LTV (Loan-to-Value). It's important to note that in addition to general collateralization between C2C strategies, Rover accounts can also be integrated with other DeFi. This allows users to interact with any dApp integrated into the Mars Protocol with a single LTV at the account level. Rover accounts will be represented as NFTs, and the wallet can contain several separate Rover accounts, similar to sub-accounts on CEX. Rover accounts create a "unified" DeFi experience as users will be able to access their favorite tokens, pools and other protocols using leverage on Mars.
 
-As Rover -accounts are NFTs, they perform the following functions:
+As Rover accounts are NFTs, they perform the following functions:
 
-* Identity: credit accounts can reveal their own capital in the network, a health factor, and profit/loss, giving them the ability to contribute to the network's identity and allowing them to use social functions such as leaderboards, "whale watching", copy-trading, etc.
-* Transfer/Sale: users can sell or transfer their credit account to another user, including all positions within it.
-* Fractionalization: users can fractionalize their credit account into interchangeable parts and sell or distribute them. Provided there are the appropriate management means, this can allow other users to effectively own a share of the user's trading activity, and a secondary market can be created for these fractional parts of credit.
-* Network behavior and competence: can be tracked for creditworthiness assessment.
+·         Identity: credit accounts can reveal their own capital in the network, a health factor and profit/loss. All this provides ability to use social functions such as leaderboards, "whale watching", copy-trading, etc.
 
-The team decided to launch its own appchain because there is a problem of liquidity fragmentation in Cosmos. Mars Protocol plans to integrate with all networks with liquidity using its own Mars Hub.
+·         Transfer/Sale: users can sell or transfer their credit account to another user including all positions within it.
+
+·         Fractionalization: users can fractionalize their credit account into interchangeable parts and sell or distribute them. That means that different users can own a share of some other user’s trading activity. For these fractional parts of credit a secondary market can be created.
+
+·         Network behavior and competence can be tracked for creditworthiness assessment.
+
+The team decided to launch its own appchain because there is a problem of liquidity fragmentation in Cosmos. Mars Protocol plans to integrate with all networks that have any liquidity using its own Mars Hub.
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
