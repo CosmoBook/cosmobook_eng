@@ -130,7 +130,7 @@ The Stride network's native token is the STRD token. The total supply is 100 mil
 
 On the picture below you can see the Token allocation diagram and the Emissions Schedule graph.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### STRD tokens are issued in 3 ways:
 

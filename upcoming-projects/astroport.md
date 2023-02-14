@@ -1,6 +1,6 @@
 # ASTROPORT
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 Astroport is a decentralized exchange that supports both classic (x\*y=k) swaps and stable swaps (x+y=k). The main innovation of Astroport is the Astro Generators.\
 
@@ -43,7 +43,7 @@ Astro Generators is a program that allows connecting to other protocols to the A
 
 In turn, Astroport receives greater interest from users, other projects receive liquidity, and liquidity providers in Astroport receive much higher returns.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Token
 

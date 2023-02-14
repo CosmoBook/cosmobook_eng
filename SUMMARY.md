@@ -38,6 +38,7 @@
   * [ASTROPORT](upcoming-projects/astroport.md)
   * [Duality](upcoming-projects/duality.md)
   * [Planq](upcoming-projects/planq.md)
+  * [XPLA](upcoming-projects/xpla.md)
   * [UnUniFi Protocol](upcoming-projects/ununifi-protocol.md)
 * [CosmoLinks](readme/cosmolinks.md)
 * [FAQ](faq.md)
