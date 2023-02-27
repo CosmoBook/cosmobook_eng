@@ -31,7 +31,7 @@ The Gravity Bridge consists of several components:
 * Orchestrator: a program that runs on Cosmos validators, monitors the Ethereum chain and submits events that occur on Ethereum to Cosmos as messages
 * Relayers: a network of nodes competes for the ability to receive payment for transactions on behalf of the Cosmos validators
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44) (2).png" alt=""><figcaption></figcaption></figure>
 
 Tokens are locked up on the Ethereum side by sending them to the Gravity.sol smart contract. This triggers an event that can be observed by the validators running the orchestrator. When a quorum of validators agrees that the tokens have been blocked on Ethereum, including the requisite confirmation blocks, a relay is selected to send an instruction to the Cosmos Gravity module, which issues new tokens.
 

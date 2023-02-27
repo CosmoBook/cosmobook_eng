@@ -2,7 +2,7 @@
 
 <mark style="color:red;">**The English version of CosmoBook is currently available in draft form. We are working on corrections.**</mark>
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Kujira
 
@@ -24,11 +24,16 @@ The problem of choosing between A and B (and given that Terra was built on Cosmo
 
 Already in June 2022, Kujira launched a testnet, and in July the main working network. Also, migration of $KUJI tokens from Terra network was organized via Keplr wallet (link [here](https://blue.kujira.app/migrate)[)](http://kujira/).
 
-Kujira kicked off in July 2022 with the launch of 3 products in its network (4th project - ORCA on the way):
+Kujira kicked off in July 2022 with the launch of 3 products in its network (ORCA,BOW and POD came later):
 
 * Kujira Blue.[(A KUJI dashboard](https://blue.kujira.app/) that allows all the classic Cosmos activities (voting, steaming, awarding, etc.) to be done in one place.)
 * Kujira Finder ( [the](https://finder.kujira.app/kaiyo-1) classic web explorer ).
-* Kujira FIN (DEX).
+* Kujira FIN (DEX);
+* Kujira BOW - Kujira's liquidity hub;&#x20;
+* Kujira POD - a tool for rebalancing delegations to validators to increase network decentralization;&#x20;
+* Kujira ORCA - a tool that allows you to purchase liquidated assets at a discount.
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 **An idea.** Everyone deserves to be a whale.
 
@@ -113,25 +118,70 @@ Placement, cancellation and withdrawal of liquidation orders require a contract 
 
 Liquidators (those whose application for liquidation is successful) are usually paid 1% of the loan amount - this percentage is determined by the lending market. These fees are paid by the lending markets and are NOT deducted from the collateral that is purchased on ORCA (by the liquidator at a discount). In other words, lending platforms (e.g. Karura) that use Orca as a liquidity return tool pay additional 1% of the collateral amount to the Liquidator, as an incentive to its performance.
 
-It's quiet on the ORCA website today so far. We can only say that they want to interact with Polkadot:
-
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption><p><a href="https://orca.kujira.app/">https://orca.kujira.app/</a></p></figcaption></figure>
-
-I'll say more. Judging by this [tweet](https://twitter.com/TeamKujira/status/1551545612205785092?s=20\&t=QlYZDdSZv663HhQ3rKKDRA), the upcoming launch is being prepared on [@KaruraNetwork](https://twitter.com/KaruraNetwork) (it's the DeFi network in Kusama, Polkadot's Acala counterpart).
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p><a href="https://orca.kujira.app/">https://orca.kujira.app/</a></p></figcaption></figure>
 
 ### **BLUE by Kujira** <a href="#uttd" id="uttd"></a>
 
 BLUE is the core of the Kujira ecosystem and contains the ecosystem dashboard, a wallet, a simple swap user interface, an IBC bridge, and a management portal.
 
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
 The Kujira wallet on the Blue dApp has advanced functionality, allowing users to send tokens to multiple recipients with vesting periods (at predefined times). This can be used by protocols, DAOs or anyone who wants to make payments with custom sending periods without having to develop their own vesting contract.
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 The Swap interface on BLUE does not differ from the basic swap user interface found on AMM DEX. However, trades made through Swap are routed through Kujira's own CLOB DEX, FIN. This represents an alternative frontend for users who are not used to the more advanced trading interface that FIN offers.
+
+### Kujira POD
+
+As part of its commitment to promoting network decentralization, Kujira has introduced a new user interface for staking. With this interface, potential delegators can clearly see validators that have been demoted in the ranking for various violations. Another important piece of information displayed on the screen is the "Equal Power Threshold."&#x20;
+
+The "Equal Power Threshold" is calculated as the total stake divided by the number of active validators. For example, in the test network, there are 20 active validators, so in a uniformly distributed and ideally decentralized network, each validator would have exactly 5% of the total voting power.&#x20;
+
+Currently, on the MainNet based on the current total stake of KUJI and the number of active validators, the equal power threshold is approximately 1.33%. This number varies depending on the total volume of KUJI stake and the size of the active set of validators.&#x20;
+
+The new staking interface clearly displays how the voting power of an individual validator relates to the equal voting power that is often characteristic of an optimally decentralized Proof of Stake network setup.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+The tool allows the user to distribute their delegation taking into account the validators' weight, ensuring optimal decentralization.
+
+### Kujira BOW <a href="#b9i3" id="b9i3"></a>
+
+BOW is a new product from Kujira, a framework that provides optimal trading conditions for pairs on FIN, an on-chain orderbook DEX provided by Kujira. BOW aims to attract liquidity providers by offering yield for adding liquidity to trading pairs, narrowing the price difference, and providing deep order books for traders. BOW also allows protocols to further incentivize pool depth by distributing rewards for liquidity providers' tokens.
+
+BOW uses an internal algorithm to automatically place orders on FIN pairs based on its own internal token balance, similar to the X\*Y=K algorithm used by automated market makers like Uniswap. When purchases and sales occur on the market, these orders are filled, which causes a change in the internal calculation of the contract price and a re-placement of orders at the new average price. BOW is an autonomous and 100% on-chain market maker for the FIN orderbook.
+
+To use BOW, connect your wallet in the Pools tab and top it up as needed in the Swap tab. Choose the pool you would like to participate in, enter the desired amount of tokens, and create liquidity provider (LP) tokens. Holding LP tokens gives you a share of the fees from trades using that pair, which can be further increased by staking LP tokens.
+
+BOW offers several advantages for the ecosystem, including an on-chain market-making solution that is independent of third parties, as well as the ability to stimulate pool depth through fees and rewards. It also provides a stable and deep order book for traders, leading to higher volumes and increased stability.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://bow.kujira.app/">https://bow.kujira.app/</a></p></figcaption></figure>
+
+### Kujira $USK
+
+Kujira $USK is a Cosmos native stablecoin with overcollateralization, a soft mechanism for pegging to the US dollar, initially backed by $ATOM. Some users stake to mine $USK, while others burn $USK to pay off their stake. Additionally, if a user's stake value drops too low, they will be liquidated. $USK is intentionally integrated into ORCA to provide seamless democratic liquidation that will be publicly available to all users. Kujira will not allow $USK collateralization from centralized issuers (such as USDC) to avoid reliance on their locked-in smart contract.
+
+It is planned that the set parameters such as minting fees, loan APR, liquidation fees, ORCA withdrawal fees, and maximum LTV will be conservative and then community-managed as part of natural policy. The following indicators were initially expected within this setup: 0.5% minting fee; 5% APR loan interest rate; 1% liquidation fee; 0.5% ORCA withdrawal fee; 60% maximum LTV for $ATOM (i.e., 67% with overcollateralization).
+
+These figures can be discussed by the community later, once everything is ready.
+
+What makes $USK stablecoin from KUJIRA interesting:
+
+* Experience in creating a first-class liquidation queue for Anchor Protocol #3 DeFi TVL dApp.
+* Experience with $UST crash at level zero.
+* Reliable, theoretically sound system used by Maker DAO.
+* As a Cosmos native stablecoin, $USK provides another use case for $ATOM that contributes to value accumulation.
+* Rust is an expressive code base for $USK and easily allows for greater technical complexity compared to JavaScript or Solidity. It is also inherently more secure (error-resistant) and is increasingly used for financial applications due to the level of security guarantees.
+* $USK, a key infrastructure, is sovereign, uncensored, and income-generating.
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ### Mobile wallet **by Kujira** <a href="#b9i3" id="b9i3"></a>
 
 on July 4, 2022, Kujira [announced](https://twitter.com/TeamKujira/status/1543908579878518784) Its mobile wallet. While not many details have been given, we see this as a possible catalyst for the Kujira ecosystem, as such a wallet facilitates user connectivity and provides potential utility for everyday transactions.
+
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 ### **Team** <a href="#iiei" id="iiei"></a>
 
@@ -151,11 +201,11 @@ Issuance: token generation started in November 2021 with the following issuance 
 
 Naturally it is worth watching from the beginning of the network's new life - the launch of Kujira on L1 Cosmos:
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 Plans for the near future
 
-<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 ### **Summary** <a href="#pxqx" id="pxqx"></a>
 
@@ -169,36 +219,7 @@ After the launch of ORCA, when the number of participants increases, steakers ar
 
 In addition, protocol interaction rates and site traffic [growing](https://twitter.com/TeamKujira/status/1553716395136909318?s=20\&t=y-fzq\_GXiIxLbkNtObkxjw). These numbers, although small, indicate that Kujira is in a healthy growth state, especially considering the unfavorable market at the moment.
 
-And then you just need to understand the perspective of the project) DYOR!
-
-### **Bonus (stablecoin)**
-
-In [an article in Medium](https://medium.com/team-kujira/kujira-usk-stablecoin-launch-kickstarting-grown-up-defi-26b4372d7aef), Kujira announced that it is ready to launch its own stablecoin.
-
-Kujira $USK will be an SDK-native stablecoin Cosmos with excess collateral, with a soft US dollar peg mechanism initially backed by $ATOM. Some users will pledge to mine $USK, while other users will burn $USK to repay their pledge. In addition, if the value of a user's pledge falls too low, it will be liquidated. The $USK is intentionally integrated into ORCA to ensure a smooth democratic liquidation that will be publicly available to all users. Kujira will not allow collateral against the USK from centralised issuers (e.g. USDC) so as not to be dependent on their pledged lock-up in the smart contract.
-
-It is planned that the set parameters such as mint fee, loan interest rate, liquidation fee, ORCA withdrawal fee and maximum LTV will be conservative and then monitored by the community management as part of the natural policy. As part of this setting, the following metrics are assumed:
-
-**0.5%** APR for min;\
-**5%** APR on loan;\
-**1%** liquidation fee;\
-**0.5%** ORCA withdrawal fee;\
-**60%** maximum LTV $ATOM (i.e., 67% with excess collateral). (A little background Lifetime **Value(LTV**) is all the profit from the client over the period you work with them.)\
-These numbers can be discussed by the community later, once everything is in place.
-
-**What's interesting about KUJIRA's $USK Stablecoin**\
-\- Experience creating a first-class liquidation queue for Anchor Protocol #3 DeFi TVL dApp.\
-\- Experience of $UST collapse at the zero level.\
-\- Robust, theoretically sound system applied by Maker DAO.\
-\- As the Cosmos native Stablecoin, $USK gives $ATOM another use case that promotes value accumulation.\
-\- Rust is an expressive codebase for $USK and easily allows for greater technical complexity compared to JavaScript or Solidity. It is also inherently more secure (error tolerant) and is increasingly used for financial applications due to the level of security guarantees.\
-\- $USK, a key infrastructure, is sovereign, uncensorable and revenue generating.
-
-Are you satisfied with these arguments? I have not let go of the UST story yet. The cosmos really needs Stablecoin, a lot of people are about to head into that water. Let's see what happens next...
-
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
-
-$USK and ORCA are moving to TestNet starting Wednesday (August 10, 2022) for testing and QA with the prospect of launching about 2 weeks after that date. LTV on credits will initially be made good and safe to ensure maximum stability and will be adjusted as the system grows.
+DYOR!
 
 ### **Useful links and notes** <a href="#460x" id="460x"></a>
 

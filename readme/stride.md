@@ -86,7 +86,7 @@ The following wallets are available to choose from, we use Keplr Wallet
 
 3\. Once the wallet is connected we enter the number of tokens we want to stake. As mentioned above you can stake any amount even the smallest. Then press Liquid Stake.
 
-<img src="../.gitbook/assets/image (10).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (10) (2).png" alt="" data-size="original">
 
 4. A menu appears showing the next steps we have to go through after we click Start Staking. Everything will happen automatically, we just need to give our approval for the transfer. There are essentially only 2 steps here not 4 - transferring ATOM from Cosmos Hub to the Stride network and staking ATOM. The whole process took us about a minute but may takes a little longer if the network is overloaded.
 

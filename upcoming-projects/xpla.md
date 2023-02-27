@@ -1,6 +1,6 @@
 # XPLA
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34) (2).png" alt=""><figcaption></figcaption></figure>
 
 The XPLA chain was developed as a platform for blockchain-based media content. The blockchain is designed for the development and long-term growth of applications with a focus on games, content, and entertainment.
 
@@ -94,7 +94,7 @@ Used depending on the situation. The decision to use the funds is made by XPLA v
 
 The current token distribution with vesting and cliffs is shown in the table below.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 Token XPLA is exchanged one to one within the program for migration from the C2X ecosystem, deployed on Terra Classic, to XPLA. Together with the native token, you can transfer all assets that were in the C2X ecosystem on Terra. You can read more about the migration in the a[rticle](https://medium.com/@XPLA\_Official/instructions-for-xpla-token-migration-8bca240546f8).
 
@@ -102,7 +102,7 @@ Token XPLA is exchanged one to one within the program for migration from the C2X
 
 The ecosystem is currently in its early stages. XPLA has a testnet that can be activated directly in the wallet and run some dApps.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>XPLA Ecosystem</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>XPLA Ecosystem</p></figcaption></figure>
 
 #### **Dezswap**
 
@@ -122,7 +122,7 @@ The [C2XNFT](https://xpla.c2xnft.com/) NFT marketplace, inherited from C2X, main
 
 XPLA has a wallet called XPLA Vault which is available for Chrome, Firefox browsers and for the Androind/iOS platform. Its interface is very similar to Terra Station:) The mobile wallet has more functionality. It seems that the browser solution is expected to be connected to the web version.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>XPLA Web Vault</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (2).png" alt=""><figcaption><p>XPLA Web Vault</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p>XPLA Web Vault</p></figcaption></figure>
 
@@ -138,7 +138,7 @@ Main platform of the [C2X Wolrd](https://c2x.world/) ecosystem.
 
 Gamers can vote for the launch of games on the platform, exchange game items, buy Fan cards, and receive content from providers in the future. Providers (game providers) will be able to easily integrate blockchain mechanics into their products. There are not many games, but some have more than 1 million downloads. The C2X Blockchain gaming platform has a Beta Game Launch mechanism, where users test games before entering the ecosystem. Developers must provide a demo version of the game that is convenient for the Web3 community or real game resources (in-game frames, screenshots).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Beta Game Launch</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Beta Game Launch</p></figcaption></figure>
 
 The platform has its own token, $CTXT, which is used solely to manage C2X. A total of 800 million tokens will be issued. The initial volume of 50 million will be used to form the basic ecosystem. The number of tokens will gradually increase along with the launch of games. The documentation states that $CTXT does not list on CEX, but may be registered on an exchange without prior notice. The mechanisms for using the token within the ecosystem and its interaction with the native token $XPLA can be seen on the diagram.
 
@@ -152,7 +152,7 @@ Mobile Games and Apps Top games of the platform: DearElla, Idle Luca, and Baseba
 
 On February 8th, the launch of xPlayz was [announced](https://medium.com/@XPLA\_Official/new-dapp-xplayz-has-just-arrived-25e2fdc9750e), an app where you can play, earn Volts for watching ads and completing other activities. Later, they can be exchanged for $XPLA.
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>xPlayz</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (2).png" alt=""><figcaption><p>xPlayz</p></figcaption></figure>
 
 ### Links
 

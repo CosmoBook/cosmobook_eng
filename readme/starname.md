@@ -70,7 +70,7 @@ At the moment Starname is already integrating some cryptocurrencies, here are ju
 
 **The technical roadmap is also from Q4 2021:**
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **$IOV and IOV SAS**
 
