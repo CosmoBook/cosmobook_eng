@@ -160,7 +160,7 @@ BOW offers several advantages for the ecosystem, including an on-chain market-ma
 
 ### Kujira $USK
 
-Kujira $USK is a Cosmos native stablecoin with overcollateralization, a soft mechanism for pegging to the US dollar, initially backed by $ATOM. Some users stake to mine $USK, while others burn $USK to pay off their stake. Additionally, if a user's stake value drops too low, they will be liquidated. $USK is intentionally integrated into ORCA to provide seamless democratic liquidation that will be publicly available to all users. Kujira will not allow $USK collateralization from centralized issuers (such as USDC) to avoid reliance on their locked-in smart contract.
+Kujira $USK is a Cosmos native stablecoin with overcollateralization, a soft mechanism for pegging to the US dollar, initially backed by $ATOM, $ wBNB, $DOT, $wETH, $LUNA, $gPAXG. Some users stake to mine $USK, while others burn $USK to pay off their stake. Additionally, if a user's stake value drops too low, they will be liquidated. $USK is intentionally integrated into ORCA to provide seamless democratic liquidation that will be publicly available to all users. Kujira will not allow $USK collateralization from centralized issuers (such as USDC) to avoid reliance on their locked-in smart contract.
 
 It is planned that the set parameters such as minting fees, loan APR, liquidation fees, ORCA withdrawal fees, and maximum LTV will be conservative and then community-managed as part of natural policy. The following indicators were initially expected within this setup: 0.5% minting fee; 5% APR loan interest rate; 1% liquidation fee; 0.5% ORCA withdrawal fee; 60% maximum LTV for $ATOM (i.e., 67% with overcollateralization).
 
@@ -215,7 +215,7 @@ Many believe in Kujira. A very interesting feature is that the interest from the
 
 After the launch of ORCA, when the number of participants increases, steakers are entitled to expect good rewards with a very small % (0.47% at the start) for steaking. Today the picture looks like this:
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 In addition, protocol interaction rates and site traffic [growing](https://twitter.com/TeamKujira/status/1553716395136909318?s=20\&t=y-fzq\_GXiIxLbkNtObkxjw). These numbers, although small, indicate that Kujira is in a healthy growth state, especially considering the unfavorable market at the moment.
 

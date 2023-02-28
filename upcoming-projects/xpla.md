@@ -148,7 +148,7 @@ The token can be acquired for XPLA on Dezswap or on the platform's internal DEX.
 
 Mobile Games and Apps Top games of the platform: DearElla, Idle Luca, and Baseball Superstars.
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
 On February 8th, the launch of xPlayz was [announced](https://medium.com/@XPLA\_Official/new-dapp-xplayz-has-just-arrived-25e2fdc9750e), an app where you can play, earn Volts for watching ads and completing other activities. Later, they can be exchanged for $XPLA.
 
