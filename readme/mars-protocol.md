@@ -32,7 +32,7 @@ It is important to note that Mars Hub does not store liquidity for OUTPOST, but 
 
 So, let's summarize how Mars Protocol works for a user:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Users of Mars Protocol are divided into the following types:
 

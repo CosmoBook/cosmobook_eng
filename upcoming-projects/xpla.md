@@ -134,7 +134,7 @@ As an explorer, you can use XPLA Explorer and Finder, as well as Mintscan. The p
 
 Main platform of the [C2X Wolrd](https://c2x.world/) ecosystem.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>C2X world</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (2).png" alt=""><figcaption><p>C2X world</p></figcaption></figure>
 
 Gamers can vote for the launch of games on the platform, exchange game items, buy Fan cards, and receive content from providers in the future. Providers (game providers) will be able to easily integrate blockchain mechanics into their products. There are not many games, but some have more than 1 million downloads. The C2X Blockchain gaming platform has a Beta Game Launch mechanism, where users test games before entering the ecosystem. Developers must provide a demo version of the game that is convenient for the Web3 community or real game resources (in-game frames, screenshots).
 
@@ -142,7 +142,7 @@ Gamers can vote for the launch of games on the platform, exchange game items, bu
 
 The platform has its own token, $CTXT, which is used solely to manage C2X. A total of 800 million tokens will be issued. The initial volume of 50 million will be used to form the basic ecosystem. The number of tokens will gradually increase along with the launch of games. The documentation states that $CTXT does not list on CEX, but may be registered on an exchange without prior notice. The mechanisms for using the token within the ecosystem and its interaction with the native token $XPLA can be seen on the diagram.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Interaction between $CTXT and $XPLA</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption><p>Interaction between $CTXT and $XPLA</p></figcaption></figure>
 
 The token can be acquired for XPLA on Dezswap or on the platform's internal DEX.
 

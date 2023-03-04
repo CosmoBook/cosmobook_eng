@@ -57,7 +57,7 @@ Upon bridging, native NOM can be staked during the hyperinflationary period to h
 
 Onomy has recently announced a $10M raise from Bitfinex, Avalanche Foundation, CMS Holdings, Galileo, GSR, DWF Labs, Cosmostation, Citadel.One, Forbole, and others.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 With the testnet complete, the mainnet launch live and $NOM now on the market, Onomy Protocol will launch additional products into the wider market. More details about [$NOM, tokenomics and staking](https://medium.com/onomy-protocol/what-is-nom-a6a82057a7df) can be found on Onomy’s Medium.
 

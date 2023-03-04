@@ -142,7 +142,7 @@ Currently, on the MainNet based on the current total stake of KUJI and the numbe
 
 The new staking interface clearly displays how the voting power of an individual validator relates to the equal voting power that is often characteristic of an optimally decentralized Proof of Stake network setup.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 The tool allows the user to distribute their delegation taking into account the validators' weight, ensuring optimal decentralization.
 
@@ -156,7 +156,7 @@ To use BOW, connect your wallet in the Pools tab and top it up as needed in the 
 
 BOW offers several advantages for the ecosystem, including an on-chain market-making solution that is independent of third parties, as well as the ability to stimulate pool depth through fees and rewards. It also provides a stable and deep order book for traders, leading to higher volumes and increased stability.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://bow.kujira.app/">https://bow.kujira.app/</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://bow.kujira.app/">https://bow.kujira.app/</a></p></figcaption></figure>
 
 ### Kujira $USK
 
@@ -201,7 +201,7 @@ Issuance: token generation started in November 2021 with the following issuance 
 
 Naturally it is worth watching from the beginning of the network's new life - the launch of Kujira on L1 Cosmos:
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (3).png" alt=""><figcaption></figcaption></figure>
 
 Plans for the near future
 
