@@ -53,9 +53,9 @@ _Traditional debt market fundamentals will provide Umee with the basis to create
 * _A term structure that uses time-to-maturity and credit-worthiness to determine rates;_
 * _The crypto format for debt primitives such as notes, bills, bonds, CDS, structured products, and other assets._
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### A Suite of Products and Features for Optimal Performance <a href="#a-suite-of-products-and-features-for-optimal-performance" id="a-suite-of-products-and-features-for-optimal-performance"></a>
 
@@ -86,13 +86,13 @@ The main function of Gravity Bridge is to securely transfer ERC-20 assets to Cos
 
 #### Ethereum to Cosmos <a href="#ethereum-to-cosmos" id="ethereum-to-cosmos"></a>
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 When a user sends a token from Ethereum to Cosmos, funds are deposited in the gravity smart contract on Ethereum and an event is created. This event will be picked up by validators (using Peggo) and relayed to the Umee blockchain. Once >66% of the validators have claimed to see the event, the according tokens bridged from this transaction will be unlocked and sent to the destination address on Umee.
 
 #### Cosmos to Ethereum <a href="#cosmos-to-ethereum" id="cosmos-to-ethereum"></a>
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 For transactions from Cosmos to Ethereum, the Gravity contract creates ERC-20 representations for Cosmos tokens and ERC20 tokens that were previously locked in the Gravity contract will be freed and sent to the destination address. Umee will collect transactions into batches, ordered by fee, which then will be signed by validators. Once enough signatures are collected (>66% of validators), this most profitable batch can be relayed to Ethereum by any participant of the network to get the relaying reward (the sum of all fees). Bridge fees are always paid in the same token that is being sent, so there’s no need to buy the Umee token to be able to use the bridge (only a tiny bit to pay for Umee blockchain’s fees which are negligible and easily bought on a Dex such as Osmosis).
 

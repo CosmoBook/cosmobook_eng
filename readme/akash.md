@@ -71,7 +71,7 @@ A closer look at the breakdown of nodes across the two main protocols reveals a 
 
 In addition, many projects use large cloud providers to host their middleware and interfaces for websites and applications, creating another centralized point of vulnerability. If a project's interface, in which most users interact with network contracts, is hosted by AWS, it does not matter how decentralized the back-end protocol is, because AWS can simply disable the interface. A centralized interface also allows the project team to control how the user interacts with the protocol. Finally, using a centralized cloud provider exposes the protocol to the risk of failures depending on the provider's uptime, as was the case with dYdX last December.
 
-<figure><img src="../.gitbook/assets/image (31) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 As much of the Web3 infrastructure resides on a few cloud providers' servers, the ability of large technology companies and governments to censor these protocols increases. In addition, this concentration increases the likelihood that regulators will seize [the opportunity](https://twitter.com/collins\_belton/status/1478120309332987905) to take the industry under their regulatory umbrella. This is why so many lawyers [are emphasizing](https://twitter.com/jchervinsky/status/1427652238101684231) the importance of decentralizing Web3 front-ends, as they represent a major attack vector...
 

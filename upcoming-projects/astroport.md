@@ -55,7 +55,7 @@ One third of all the fees collected by Astroport go to the owners of the xASTRO 
 
 xASTRO can be exchanged 1:1 for ASTRO at any time. There is no lock-up period for unstaking, and the withdrawal is instant.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Token distribution of ASTROC.&#x20;
 
