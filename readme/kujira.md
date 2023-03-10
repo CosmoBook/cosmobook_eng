@@ -142,7 +142,7 @@ Currently, on the MainNet based on the current total stake of KUJI and the numbe
 
 The new staking interface clearly displays how the voting power of an individual validator relates to the equal voting power that is often characteristic of an optimally decentralized Proof of Stake network setup.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The tool allows the user to distribute their delegation taking into account the validators' weight, ensuring optimal decentralization.
 
