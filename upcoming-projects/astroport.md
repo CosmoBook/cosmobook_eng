@@ -86,7 +86,7 @@ The charts are presented schematically:
 At the moment, the team is gradually transitioning to other Cosmos networks. Astroport is actively appearing in Sei governance.\
 You can also see Astroport on the Osmosis Ecosystem dashboard.
 
-A testnet was launched on Injective.
+**UPD:** On March 8, 2023, the project was [announced ](https://twitter.com/astroport\_fi/status/1633514547679043605?s=20)on the mainnet in Injective.
 
 ### Conclusion <a href="#xzbc" id="xzbc"></a>
 
