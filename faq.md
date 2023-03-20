@@ -28,18 +28,18 @@ Use this telegram bot: [@Free\_dVPN\_Bot](https://t.me/@Free\_dVPN\_Bot)
 
 ## Token unbonding periods
 
-| 7+ days      | 14+ days         | 21+ days             |                 | 28+ days        |
-| ------------ | ---------------- | -------------------- | --------------- | --------------- |
-| Axelar (Axl) | Osmosis (Osmo)   | Cosmos Hub (ATOM)    | Akash (AKT)     | Juno            |
-|              | Evmos            | AssetMantle (MNTL)   | IXO             | Sentinel (DVPN) |
-|              | Stargaze (STARS) | Starname (IOV)       | Secret (SCRT)   |                 |
-|              | Umee             | Sommelier (SOMM)     | Regen           |                 |
-|              | Kujira (KUJI)    | GravityBridge (GRAV) | Kava            |                 |
-|              | Nomic (NOM)      | Cryrto.org (CRO)     | Agorik (BLD)    |                 |
-|              | Mars Protocol    | Certik (CTK)         | Likecoin (LIKE) |                 |
-|              |                  | Bitsong (BTSG)       | Rebus           |                 |
-|              |                  | e-Money (NGM)        | Stride (STRD)   |                 |
-|              |                  | SifChaine (ROWAN)    | Iris            |                 |
-|              |                  | Persistence (XPRT)   | Teritori (TORI) |                 |
-|              |                  | Onomi (NOM)          | ORAI            |                 |
-|              |                  | Planq                |                 |                 |
+| 7+ days      | 14+ days         | 21+ days             |                   | 28+ days        |
+| ------------ | ---------------- | -------------------- | ----------------- | --------------- |
+| Axelar (Axl) | Osmosis (Osmo)   | Cosmos Hub (ATOM)    | Akash (AKT)       | Juno            |
+|              | Evmos            | AssetMantle (MNTL)   | IXO               | Sentinel (DVPN) |
+|              | Stargaze (STARS) | Starname (IOV)       | Secret (SCRT)     |                 |
+|              | Umee             | Sommelier (SOMM)     | Regen             |                 |
+|              | Kujira (KUJI)    | GravityBridge (GRAV) | Kava              |                 |
+|              | Nomic (NOM)      | Cryrto.org (CRO)     | Agorik (BLD)      |                 |
+|              | Mars Protocol    | Certik (CTK)         | Likecoin (LIKE)   |                 |
+|              |                  | Bitsong (BTSG)       | Rebus             |                 |
+|              |                  | e-Money (NGM)        | Stride (STRD)     |                 |
+|              |                  | SifChaine (ROWAN)    | Iris              |                 |
+|              |                  | Persistence (XPRT)   | Teritori (TORI)   |                 |
+|              |                  | Onomi (NOM)          | ORAI              |                 |
+|              |                  | Planq                | Quicksilver (QCK) |                 |
