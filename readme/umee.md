@@ -53,7 +53,7 @@ _Traditional debt market fundamentals will provide Umee with the basis to create
 * _A term structure that uses time-to-maturity and credit-worthiness to determine rates;_
 * _The crypto format for debt primitives such as notes, bills, bonds, CDS, structured products, and other assets._
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2) (8).png" alt=""><figcaption></figcaption></figure>
 

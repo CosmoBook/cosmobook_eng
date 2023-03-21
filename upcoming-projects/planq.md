@@ -91,7 +91,7 @@ As for block rewards, 2% of all block rewards are sent to the community pool. 98
 
 ### **Roadmap** <a href="#3ddt" id="3ddt"></a>
 
-<figure><img src="https://img2.teletype.in/files/1b/af/1baf4ec3-8716-4de7-85f5-0b18486f9500.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### **Castrum** <a href="#szhn" id="szhn"></a>
 
