@@ -1,6 +1,6 @@
 # Nomic
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 ## Introduction <a href="#nomic" id="nomic"></a>
 

@@ -72,6 +72,12 @@ The multi-signature authorization process makes it much more difficult to compro
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
+The network has also entered into a strategic partnership with Axelar. This integration will enable Secret Network to connect to Axelar's interoperability network, opening up new possibilities for linking Secret with other blockchains, even beyond IBC.&#x20;
+
+Since Axelar is already connected to Ethereum, Polygon, Avalanche, Moonbeam, Fantom, and several blockchains in IBC, integrating with Secret will bring something new for everyone - privacy.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### **Secret NFTs**
 
 Secret NFTs are NFTs with programmable privacy features. With Secret NFTs verifiable ownership of goods and experiences does not have to be public! The process of validation takes place without compromising any private data, including proof of authenticity and translations.
