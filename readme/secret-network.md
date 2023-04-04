@@ -42,13 +42,13 @@ Another important advantage of Secret Network is the inability to use frontrunni
 
 ### **Validators**
 
-The default number of validator nodes in the Secret Network is 50, with the possibility for more nodes to join the network after a modification to the protocol parameters has been agreed upon.
+The default number of validator nodes in the Secret Network is 80, with the possibility for more nodes to join the network after a modification to the protocol parameters has been agreed upon.
 
 Validators earn rewards from transaction fees and block rewards. Users can delegate tokens to validators and receive rewards like validators (delegators also must pay a small percentage of the rewards to validators).
 
 ### **Tokenomics**
 
-Secret Network has a variable inflation rate that ranges from 7% to 15%. As of July 2022, Secret Network circulation supply was about 70 million SCRTs and the total supply was about 190 million SCRT.&#x20;
+Secret Network has a variable inflation rate that ranges from 7% to 15%. As of April 2023, Secret Network circulation supply was about 98,5 million SCRTs and the total supply was about 252 million SCRT.&#x20;
 
 Validator nodes can charge a commission on delegated SCRT. Currently, the minimum commission rate is 0% and the maximum is 20%. The validator commission rate is only capable of changing by up to 1% every 24 hours.
 
