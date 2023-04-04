@@ -78,6 +78,8 @@ Secret NFTs are NFTs with programmable privacy features. With Secret NFTs verifi
 
 ### **Ecosystem**
 
+[Secret Dashboard ](https://dash.scrt.network/)
+
 #### **DeFi on the Secret Network:**
 
 * [Shade Protocol](https://shadeprotocol.io/);
@@ -86,7 +88,6 @@ Secret NFTs are NFTs with programmable privacy features. With Secret NFTs verifi
 * &#x20;[SecretBridges](https://bridge.scrt.network/);
 * &#x20;[Button Swap](https://btn.group/secret\_network/button\_swap)
 * &#x20;[BlackBox](https://blackbox.cash/);
-* &#x20;[Secret Auctions](https://hydro.finance/);
 * [Blizzard Finance](https://blizzard.finance/).
 
 #### **NFTs on the Secret Network:**
