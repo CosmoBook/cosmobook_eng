@@ -134,10 +134,4 @@ Secret NFTs are NFTs with programmable privacy features. With Secret NFTs verifi
 * [Telegram](https://t.me/SCRTCommunity)
 * [Docs](https://docs.scrt.network/secret-network-documentation/)
 
-### **UPD:**
-
-Secret Network added new secret tokens: GRAV, JUNO, LUNA, STARS.
-
-Details [_here._](https://scrt.network/blog/secret-partners-with-axelar-network)
-
-You can also read what SecretDAO is by clicking [here](https://medium.com/@natalie.shtangrat/%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%8F-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F-secretdao-5f575a8cff2f).
+****
