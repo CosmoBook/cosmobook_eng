@@ -31,8 +31,8 @@ First, you need to download a wallet app and register your public address on the
 Well now you need to build your own portfolio.\
 \
 Portfolio building is a separate issue, but you should always start with $ATOM. I haven't found any cases when it was bypassed by airdrops. It's important to form your portfolio both by coin types and its quantity. I'll show some statistics to help you understand how different the airdrops conditions can be:\
-****\
-****
+\
+
 
 <figure><img src="../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption><p><a href="https://cosmosdrops.io/stats">https://cosmosdrops.io/stats</a></p></figcaption></figure>
 
@@ -51,7 +51,7 @@ One experienced cosmonaut was asked to share how many airdrops he got in a year.
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-Yes, here, too, not everything is transparent and obvious, but you can see that airdrops are distributed regularly and the quantity of coins is pretty different. It's also important to understand that you'll start to get regular airdrops after about six months of staking. Until then, you aren't [so fortunate](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/so+fortunate). **** Projects make snapshots and announce the airdrop much later (as practice shows).\
+Yes, here, too, not everything is transparent and obvious, but you can see that airdrops are distributed regularly and the quantity of coins is pretty different. It's also important to understand that you'll start to get regular airdrops after about six months of staking. Until then, you aren't [so fortunate](https://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/so+fortunate). Projects make snapshots and announce the airdrop much later (as practice shows).\
 
 
 I'm providing you [an interesting spreadsheet](https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc\_u52-YlripGw/edit#gid=1777801625) on airdrops for your own study. \

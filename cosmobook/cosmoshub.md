@@ -30,7 +30,7 @@ Jae Kwon started working on the creation of the BFT protocol in 2014. The system
 
 Validators are chosen randomly based on their stakes in the total number of coins.
 
-\*\* **** _In short, Tendermint functions as a network layer protocol, allowing nodes to communicate with each other and reach a consensus. The consensus is based on the BFT model, while security is provided by the PoS mechanism. The concept and features of Tendermint operation described_ [_here_](https://blog.cosmos.network/tendermint-explained-bringing-bft-based-pos-to-the-public-blockchain-domain-f22e274a0fdb)_._
+\*\* _In short, Tendermint functions as a network layer protocol, allowing nodes to communicate with each other and reach a consensus. The consensus is based on the BFT model, while security is provided by the PoS mechanism. The concept and features of Tendermint operation described_ [_here_](https://blog.cosmos.network/tendermint-explained-bringing-bft-based-pos-to-the-public-blockchain-domain-f22e274a0fdb)_._
 
 Key features of Tendermint that make it competitive:
 

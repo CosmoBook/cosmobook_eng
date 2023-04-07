@@ -16,7 +16,7 @@ In 2021, the C2X blockchain appeared. It was developed by the Com2us Group in pa
 
 Com2us Group is a South Korean company specializing in the development and publication of mobile and online games, founded in 1998. As of February 2023, its market capitalization is $670 million.
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 Terraform Labs is the company that founded the Terra blockchain, and its CEO is Do Kwon.
 
@@ -102,7 +102,7 @@ Token XPLA is exchanged one to one within the program for migration from the C2X
 
 The ecosystem is currently in its early stages. XPLA has a testnet that can be activated directly in the wallet and run some dApps.
 
-<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>XPLA Ecosystem</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1) (3).png" alt=""><figcaption><p>XPLA Ecosystem</p></figcaption></figure>
 
 #### **Dezswap**
 

@@ -1,6 +1,6 @@
 # Ojo
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 During the creation of Umee, the development team noticed a lack of an easily usable Cosmos-based oracle that they could easily connect to in order to obtain secure and reliable asset price data. Umee decided to use the design of Terra's oracle to create its own oracle, as it best suited their goals.
 

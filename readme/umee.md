@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Umee** __ is a Cosmos-based [decentralized finance](https://umeeversity.umee.cc/learn-the-basics/defi-basics/what-is-defi) hub supporting a suite of composable debt primitives that will enable the next generation of global debt markets. As a [base layer blockchain](https://umeeversity.umee.cc/learn-the-basics/blockchain-basics/what-is-blockchain), applications and money lego primitives can be built on top of Umee to access cross chain leverage and liquidity. The Umee Blockchain facilitates interoperability between the [Cosmos ecosystem](https://umeeversity.umee.cc/learn-the-basics/cosmos-basics/what-is-cosmos), Ethereum network, side chain architectures, layer two scaling solutions, and alternative base layer protocols.
+**Umee** is a Cosmos-based [decentralized finance](https://umeeversity.umee.cc/learn-the-basics/defi-basics/what-is-defi) hub supporting a suite of composable debt primitives that will enable the next generation of global debt markets. As a [base layer blockchain](https://umeeversity.umee.cc/learn-the-basics/blockchain-basics/what-is-blockchain), applications and money lego primitives can be built on top of Umee to access cross chain leverage and liquidity. The Umee Blockchain facilitates interoperability between the [Cosmos ecosystem](https://umeeversity.umee.cc/learn-the-basics/cosmos-basics/what-is-cosmos), Ethereum network, side chain architectures, layer two scaling solutions, and alternative base layer protocols.
 
 ### Foundations and partners <a href="#ubip" id="ubip"></a>
 

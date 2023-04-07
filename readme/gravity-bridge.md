@@ -61,7 +61,7 @@ Cosmos® Gravity Bridge™ was launched with a decentralized set of validators a
 
 <figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
-****[**Statistics**](https://monitor.bronbro.io/d/gravity-stats/gravity-stats?orgId=2\&refresh=5s)**:**&#x20;
+[**Statistics**](https://monitor.bronbro.io/d/gravity-stats/gravity-stats?orgId=2\&refresh=5s)**:**&#x20;
 
 <figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
