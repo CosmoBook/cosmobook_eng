@@ -30,7 +30,7 @@ The general idea is this: Supposing, Potap wants to pay for Lilian's service and
 
 The service is crude for now, but StreamPay plans to implement stop payments, on-chain triggers at start/end, adaptive adjustment of the payment share, etc.
 
-### Token & tokenomics
+### Token & tokenomics (more [here](https://mirror.xyz/omniflixnetwork.eth/ofhbzvUBx5WjrrGyNWHSnGYFDA3NtnmIGko16cxYG4M))
 
 **FLIX** is the native token that powers and secures the OmniFlix Hub and below is a primer to understand the role of **FLIX** as a part of the OmniFlix Hub.
 
