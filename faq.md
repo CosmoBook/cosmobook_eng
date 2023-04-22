@@ -43,3 +43,4 @@ Use this telegram bot: [@Free\_dVPN\_Bot](https://t.me/@Free\_dVPN\_Bot)
 |              |                  | Persistence (XPRT)   | Teritori (TORI)   |                 |
 |              |                  | Onomi (NOM)          | ORAI              |                 |
 |              |                  | Planq                | Quicksilver (QCK) |                 |
+|              |                  | Omniflix (FLIX)      |                   |                 |
