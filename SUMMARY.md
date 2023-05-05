@@ -43,4 +43,5 @@
   * [UnUniFi Protocol](upcoming-projects/ununifi-protocol.md)
 * [CosmoLinks](readme/cosmolinks.md)
 * [FAQ](faq.md)
+* [Validating the Cosmos Ecosystem](validating-the-cosmos-ecosystem.md)
 * [Contacts](contacts.md)
