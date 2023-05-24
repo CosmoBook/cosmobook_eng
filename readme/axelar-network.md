@@ -22,7 +22,13 @@ The Axelar network consists of three main components operating at two functional
 
 2\. Gateways are smart contracts that provide connectivity between Axelar Network and any other Layer 1 blockchain. Gateways can operate on top of any L1 blockchain. Validators monitor gateways for incoming requests via the READ function, and then vote for the transaction (it is discussed further below) and send the transaction to the destination network gateway - the WRITE function
 
-3\. APIs and SDKs, available to developers, allow them to easily make their blockchains and applications compatible with Axelar, so they can do any cross-chain interaction between any blockchains
+3\. APIs and SDKs, available to developers, allow them to easily make their blockchains and applications compatible with Axelar, so they can do any cross-chain interaction between any blockchains.
+
+Axelar's General Message Passing (GMP) is now available between Cosmos and EVM chains, providing composability for dApps that span both ecosystems.
+
+Axelar has long been one of the best ways to connect EVM and Cosmos chains via bridging assets. With GMP, that connection goes beyond bridging, supporting a new generation of cross-chain applications that combine the best of Cosmos and EVM.
+
+These natively interchain applications will combine Cosmos appchain functionality and the rich DeFi protocols of the EVM ecosystem to deliver applications that are more sophisticated than would be possible on one chain alone. In the new generation of interchain dApps, the whole is greater than the sum of its parts.
 
 ### **Validators**
 
