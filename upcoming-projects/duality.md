@@ -4,10 +4,7 @@
 
 **Duality** is a decentralized exchange offering users and protocols a wide range of different customizations. Duality is scheduled to launch in 2023 as an app-chain on the Cosmos network. The main idea behind Duality is to create a trading platform that would take all the AMM and Orderbook advantages, but be devoid of their disadvantages.
 
-|      | AMM                                                                                                                      | OrderBook                                                                     |
-| ---- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| Pros | <ol><li>Liveness</li><li>Computational efficiency</li><li>Composability</li></ol>                                        | <ol><li>Capital efficient</li><li>Tried and tested</li><li>Familiar</li></ol> |
-| Cons | <ol><li>Overly complicated</li><li>Unsustainable emissions schemes</li><li>Capital inefficient / high slippage</li></ol> | <ol><li>Computationally inefficient</li><li>Non-composable</li></ol>          |
+<table><thead><tr><th width="108.33333333333331"></th><th>AMM</th><th>OrderBook</th></tr></thead><tbody><tr><td>Pros</td><td><ol><li>Liveness</li><li>Computational efficiency</li><li>Composability</li></ol></td><td><ol><li>Capital efficient</li><li>Tried and tested</li><li>Familiar</li></ol></td></tr><tr><td>Cons</td><td><ol><li>Overly complicated</li><li>Unsustainable emissions schemes</li><li>Capital inefficient / high slippage</li></ol></td><td><ol><li>Computationally inefficient</li><li>Non-composable</li></ol></td></tr></tbody></table>
 
 Probably even newbie degens already know that the simplest formula by which AMM (automatic market maker) can work is the one proposed by Uniswap:
 

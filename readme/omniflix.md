@@ -48,7 +48,7 @@ The genesis supply of 300M **FLIX** is broken down into 3 equal parts of 100M **
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Breakdown of the genesis supply</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Vesting schedule of the genesis supply of 300M FLIX</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Vesting schedule of the genesis supply of 300M FLIX</p></figcaption></figure>
 
 #### Inflation Distribution
 

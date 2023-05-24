@@ -88,7 +88,7 @@ Now the Juno ecosystem consists of about 50 applications. Among big protocols - 
 
 WIND's UI looks much nicer than Junoswap's, hopefully the product will be well developed and successful:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 What we have in the end: a blockchain focused on the development of fast contracts, but probably too innovative to this day.
 
