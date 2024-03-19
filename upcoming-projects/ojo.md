@@ -6,7 +6,7 @@ During the creation of Umee, the development team noticed a lack of an easily us
 
 **Ojo** is the evolution of Historacle, Umee's native price provider. As the data center of the Cosmos ecosystem, Ojo will be launched to provide an accessible, reliable, and uninterrupted flow of data needed to support the growing web3 economy.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 As credit protocols are sensitive even to the slightest price movements, the Umee team has enhanced the security of the oracle. The changes have drawn interest from other developers in the field, including those from Kujira and Juno.
 

@@ -48,7 +48,7 @@ The genesis supply of 300M **FLIX** is broken down into 3 equal parts of 100M **
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Breakdown of the genesis supply</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Vesting schedule of the genesis supply of 300M FLIX</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Vesting schedule of the genesis supply of 300M FLIX</p></figcaption></figure>
 
 #### Inflation Distribution
 
@@ -56,7 +56,7 @@ Inflation is distributed to align incentives towards the stakeholders that parti
 
 Here’s a visualization of the breakdown of 100% of the inflation. This has been updated to its final state after our discussion with our validators, advisors, early contributors and others.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Inflation distribution across stakeholders that push forward the network</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Inflation distribution across stakeholders that push forward the network</p></figcaption></figure>
 
 Below is the breakdown of the tokens that are minted as a result of in-protocol inflation.
 

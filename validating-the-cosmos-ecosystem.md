@@ -1,6 +1,6 @@
 # Validating the Cosmos Ecosystem
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Introduction
 
@@ -10,7 +10,7 @@ We have tried to gather information about all aspects of validation in one big a
 
 We hope for active help from the community, and most importantly, validators, in editing and filling the article.
 
-### Briefly about the Cosmos ecosystem and key terms <a href="#7i9h" id="7i9h"></a>
+### Briefly about the Cosmos ecosystem and key terms <a href="#id-7i9h" id="id-7i9h"></a>
 
 The security of the Cosmos ecosystem is based on **DPoS** (Delegated Proof of Stake).
 
@@ -20,7 +20,7 @@ This is why validators are interested in attracting user tokens.
 
 Let's figure it out.
 
-#### **How Cosmos Works** <a href="#0q6g" id="0q6g"></a>
+#### **How Cosmos Works** <a href="#id-0q6g" id="id-0q6g"></a>
 
 The Cosmos network operates on three different levels.
 
@@ -42,7 +42,7 @@ _Tendermint_ is a solution that combines Layer 2 and Layer 3 (pBFT family consen
 
 Staking is the process of locking tokens to secure the blockchain through proof of ownership. Rewards are paid for participation in steering, proportional to the blocked tokens.
 
-#### Validator <a href="#6gl2" id="6gl2"></a>
+#### Validator <a href="#id-6gl2" id="id-6gl2"></a>
 
 Validators check transactions and sign new blocks in the blockchain. They receive income for this.
 
@@ -122,7 +122,7 @@ One of the validators' responsibilities is to prepare for network upgrades. Othe
 
 There are many things that can go wrong in a blockchain network. For instance, the Dragonberry vulnerability was recently discovered in all Cosmos networks, and all networks had to be updated urgently. It is very important to constantly monitor the chat rooms of validators to learn about such things in advance and help the team fix them. Additionally, recommendations that can improve performance, fix bugs, and so on are often published there.
 
-#### Setting up and Maintaining Monitoring Systems <a href="#28w1" id="28w1"></a>
+#### Setting up and Maintaining Monitoring Systems <a href="#id-28w1" id="id-28w1"></a>
 
 One of the most important technical aspects of validator management is creating and configuring monitoring systems. Monitoring is essential to prevent situations where the validator does not sign blocks, and their team does not know about it. Some examples of such situations are:
 

@@ -76,7 +76,7 @@ The network has also entered into a strategic partnership with Axelar. This inte
 
 Since Axelar is already connected to Ethereum, Polygon, Avalanche, Moonbeam, Fantom, and several blockchains in IBC, integrating with Secret will bring something new for everyone - privacy.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (6).png" alt=""><figcaption></figcaption></figure>
 
 ### **Secret NFTs**
 
