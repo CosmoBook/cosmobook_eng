@@ -1,5 +1,7 @@
 # Paloma
 
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+
 ### **About Paloma**
 
 Paloma is a Cosmos SDK chain designed for the fastest possible cross-chain instruction execution. Paloma is cross-chain smart contract control. Paloma provides the world's first intelligently scheduled and automated smart contract transaction execution for the Cosmos ecosystem. The protocol allows developer to remotely control any smart contract instructions on any other target chain with minimal trust requirements.
