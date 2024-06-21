@@ -18,6 +18,7 @@
   * [Omniflix](readme/omniflix.md)
   * [Gravity Bridge](readme/gravity-bridge.md)
   * [Kava Network](readme/kava-network.md)
+  * [Kyve](readme/kyve.md)
   * [Nym Network](readme/nym-network.md)
   * [Paloma](readme/paloma.md)
   * [Starname](readme/starname.md)
