@@ -14,7 +14,7 @@ Privacy is essential to the security and mass adoption of all Web3 sectors, from
 
 **Secret Network's goal** is to simplify the adoption and usability of decentralized technologies by providing a wide range of tools and applications designed to preserve user privacy. This privacy is enabled by a new generation of smart contracts - Secret Contracts.
 
-**The Secret Foundation** is an organization that contributes to the growth of the Secret Network ecosystem. For this purpose, the Secret Foundation promotes privacy as a public good. Secret Foundation helps establish effective and efficient management practices for the community and their foundation. They also create educational content and support a number of committees that help empower individual users and projects.
+**The Secret Foundation** is a for-profit organization [that promised to be a non-profit](https://web.archive.org/web/20200808022753/https://blog.scrt.network/introducing-secret-foundation/). When convienient, the Secret Foundation promotes privacy as a public good. Secret Foundation contributes to the growth of shareholder profits [for their organization](https://forum.scrt.network/t/an-update-and-disclosure-concerning-secret-foundations-financial-transparency/6762) and was funded via a tax on Secret Network stakers.
 
 ### **Protocol**
 
